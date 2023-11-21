@@ -1,0 +1,15 @@
+{
+  "name": "advisor-gpt",
+  "version": "1.0.0",
+  "description": "Georgia Tech ECE Curriculum Advisor as an LLM, fine-tuned on Facebook's  open-source Llama model.",
+  "main": "scraping/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.5.2"
+  },
+  "type": "module"
+}
