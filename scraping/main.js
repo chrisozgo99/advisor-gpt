@@ -1,6 +1,6 @@
 import puppeteer from "puppeteer";
 import fs from "fs";
-import { computerEngineeringCourseRequirementsURLs } from "./urls.js"
+import { computerEngineeringCourseRequirementsURLs } from "../utils/urls.js"
 
 function scrape() {
     return new Promise(async (resolve, reject) => {
