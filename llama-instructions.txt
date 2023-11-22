@@ -1,0 +1,17 @@
+steps to follow to download llama model:
+
+1. salloc -N1 --mem-per-gpu=12G -t0:45:00 --gres=gpu:V100:1 --ntasks-per-node=6
+2. module load pytorch
+3. cd scratch
+4. git clone (github)
+5. ls(to see whats in the file)
+6. cd llama
+7. in cd llama run: bash ./llama/download.sh --install-dir ./scratch
+8.enter url from meta website and model to download
+9.torchrun --nproc_per_node 1 example_chat_completion.py \
+    --ckpt_dir llama-2-7b-chat/ \
+    --tokenizer_path tokenizer.model \
+    --max_seq_len 512 --max_batch_size 6 
+
+
+After logging out from the cluster remeber to do step 1,2,3,6 and 9 again. To give the answer.
