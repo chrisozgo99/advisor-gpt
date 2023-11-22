@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "pdfreader": "^3.0.2",
     "puppeteer": "^21.5.2"
   },
   "type": "module"

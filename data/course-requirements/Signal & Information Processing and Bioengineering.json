@@ -1,0 +1,358 @@
+{
+    "major": "Bachelor of Science in Electrical Engineering",
+    "concentration": "Signal & Information Processing and Bioengineering",
+    "Wellness": [
+        {
+            "cc": "APPH 1040",
+            "name": "Scientific Foundations of Health",
+            "hours": "2"
+        },
+        {
+            "cc": "or APPH 1050",
+            "name": "The Science of Physical Activity and Health",
+            "hours": "2"
+        },
+        {
+            "cc": "or APPH 1060",
+            "name": "Flourishing: Strategies for Well-being and Resilience",
+            "hours": "2"
+        }
+    ],
+    "Core A - Essential Skills": [
+        {
+            "cc": "ENGL 1101",
+            "name": "English Composition I",
+            "hours": "3"
+        },
+        {
+            "cc": "ENGL 1102",
+            "name": "English Composition II",
+            "hours": "3"
+        },
+        {
+            "cc": "MATH 1552",
+            "name": "Integral Calculus 2",
+            "hours": "4"
+        }
+    ],
+    "Core B - Institutional Options": [
+        {
+            "cc": "CS 1301",
+            "name": "Introduction to Computing 2",
+            "hours": "3"
+        }
+    ],
+    "Core C - Humanities": [
+        {
+            "cc": "Any HUM 1",
+            "name": "6",
+            "hours": "3"
+        }
+    ],
+    "Core D - Science, Math, & Technology": [
+        {
+            "cc": "PHYS 2211",
+            "name": "Introductory Physics I 2",
+            "hours": "4"
+        },
+        {
+            "cc": "PHYS 2212",
+            "name": "Introductory Physics II 2",
+            "hours": "4"
+        },
+        {
+            "cc": "MATH 1551",
+            "name": "Differential Calculus 2",
+            "hours": "2"
+        },
+        {
+            "cc": "MATH 1554",
+            "name": "Linear Algebra 2",
+            "hours": "4"
+        }
+    ],
+    "Core E - Social Sciences": [
+        {
+            "cc": "HIST 2111",
+            "name": "The United States to 1877",
+            "hours": "4"
+        },
+        {
+            "cc": "HIST 2112",
+            "name": "The United States since 1877",
+            "hours": "4"
+        },
+        {
+            "cc": "INTA 1200",
+            "name": "American Government in Comparative Perspective",
+            "hours": "4"
+        },
+        {
+            "cc": "POL 1101",
+            "name": "Government of the United States",
+            "hours": "4"
+        },
+        {
+            "cc": "PUBP 3000",
+            "name": "American Constitutional Issues",
+            "hours": "4"
+        },
+        {
+            "cc": "ECON 2100",
+            "name": "Economic Analysis and Policy Problems",
+            "hours": "4"
+        },
+        {
+            "cc": "ECON 2101",
+            "name": "The Global Economy",
+            "hours": "4"
+        },
+        {
+            "cc": "ECON 2105",
+            "name": "Principles of Macroeconomics",
+            "hours": "4"
+        },
+        {
+            "cc": "ECON 2106",
+            "name": "Principles of Microeconomics",
+            "hours": "4"
+        },
+        {
+            "cc": "Any SS 1",
+            "name": "6",
+            "hours": "4"
+        }
+    ],
+    "Core F - Courses Related to Major": [
+        {
+            "cc": "MATH 2551",
+            "name": "Multivariable Calculus 2",
+            "hours": "4"
+        },
+        {
+            "cc": "MATH 2552",
+            "name": "Differential Equations 2",
+            "hours": "4"
+        },
+        {
+            "cc": "CHEM 1310",
+            "name": "Principles of General Chemistry for Engineers",
+            "hours": "4"
+        },
+        {
+            "cc": "or CHEM 1211K",
+            "name": "Chemical Principles I",
+            "hours": "4"
+        },
+        {
+            "cc": "Science Elective 3",
+            "name": "3",
+            "hours": "4"
+        },
+        {
+            "cc": "Ethics Requirement 1",
+            "name": "",
+            "hours": "4"
+        },
+        {
+            "cc": "Probability/Statistics 6, 10",
+            "name": "3",
+            "hours": "4"
+        }
+    ],
+    "Major Requirements": [
+        {
+            "cc": "ECE 1100",
+            "name": "ECE Discovery Studio",
+            "hours": "1"
+        },
+        {
+            "cc": "ECE 2020",
+            "name": "Digital System Design 2",
+            "hours": "3"
+        },
+        {
+            "cc": "ECE 2026",
+            "name": "Introduction to Signal Processing 2",
+            "hours": "3"
+        },
+        {
+            "cc": "ECE 2031",
+            "name": "Digital Design Laboratory 2",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 2035",
+            "name": "Programming for Hardware/Software Systems 2",
+            "hours": "4"
+        },
+        {
+            "cc": "or ECE 2036",
+            "name": "Engineering Software Design",
+            "hours": "4"
+        },
+        {
+            "cc": "ECE 2040",
+            "name": "Circuit Analysis 2",
+            "hours": "3"
+        },
+        {
+            "cc": "ECE 3005",
+            "name": "Professional and Technical Communications for ECE",
+            "hours": "1"
+        },
+        {
+            "cc": "ECE 3025",
+            "name": "Electromagnetics 2",
+            "hours": "3"
+        },
+        {
+            "cc": "ECE 3040",
+            "name": "Microelectronic Circuits 2",
+            "hours": "4"
+        },
+        {
+            "cc": "ECE 3043",
+            "name": "Measurements, Circuits, and Microelectronics Laboratory 2",
+            "hours": "2"
+        }
+    ],
+    "Bioengineering": [
+        {
+            "cc": "ECE 4781",
+            "name": "Biomedical Instrumentation 3",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 4782",
+            "name": "Biosystems Analysis 3",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 4784",
+            "name": "Engineering Electrophysiology 3",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 3084",
+            "name": "Signals and Systems",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 4350",
+            "name": "Electromagnetic and Microwave Applications",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 4370",
+            "name": "Antenna Engineering",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 4435",
+            "name": "Operational Amplifier Design",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 4781",
+            "name": "Biomedical Instrumentation",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 4782",
+            "name": "Biosystems Analysis",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 4784",
+            "name": "Engineering Electrophysiology",
+            "hours": "2"
+        },
+        {
+            "cc": "Bioengineering Electives",
+            "name": "",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 3000/4000 Elective 4",
+            "name": "3",
+            "hours": "2"
+        }
+    ],
+    "Signal & Information Processing 10": [
+        {
+            "cc": "ECE 3251",
+            "name": "Optimization for Information Systems",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 4270",
+            "name": "Fundamentals of Digital Signal Processing",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 3084",
+            "name": "Signals and Systems",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 3251",
+            "name": "Optimization for Information Systems",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 4122",
+            "name": "Advanced Programming Techniques for Engineering Applications",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 4180",
+            "name": "Embedded Systems Design",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 4260",
+            "name": "Random Signals and Applications",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 4270",
+            "name": "Fundamentals of Digital Signal Processing",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 4271",
+            "name": "Applications of Digital Signal Processing",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 4273",
+            "name": "Design Synthesis of Application-specific Signal Processors",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 4783",
+            "name": "Introduction to Medical Image Processing",
+            "hours": "2"
+        },
+        {
+            "cc": "Signal & Information Processing Electives",
+            "name": "",
+            "hours": "2"
+        },
+        {
+            "cc": "ECE 3000/4000-level Elective 4",
+            "name": "3",
+            "hours": "2"
+        }
+    ],
+    "Culminating Senior Design Options (Capstone)": [
+        {
+            "cc": "Culminating Senior Design 7",
+            "name": "3",
+            "hours": "2"
+        }
+    ],
+    "freeElectives": "11",
+    "totalHours": "129"
+}
