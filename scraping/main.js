@@ -1,6 +1,6 @@
 import puppeteer from "puppeteer";
 import fs from "fs";
-import { courseRequirementsURLs } from "./urls";
+import { computerEngineeringCourseRequirementsURLs } from "./urls.js"
 
 function scrape() {
     return new Promise(async (resolve, reject) => {
@@ -86,7 +86,7 @@ async function courseRequirementsToJson(page, browser) {
 
     await browser.close();
     
-    fs.writeFile(`data/course-requirements/${json.concentration}.json`, JSON.stringify(json, null, 4), function(err) {
+    fs.writeFile(`data/course-requirements/computer-engineering/${json.concentration}.json`, JSON.stringify(json, null, 4), function(err) {
         if (err) {
             console.log(err);
         }
@@ -103,8 +103,8 @@ async function processHtml(page) {
 }
 
 async function main() {
-    for (let i = 0; i < courseRequirementsURLs.length; i++) {
-        const url = courseRequirementsURLs[i];
+    for (let i = 0; i < computerEngineeringCourseRequirementsURLs.length; i++) {
+        const url = computerEngineeringCourseRequirementsURLs[i];
         if (url) {
             const {page, browser} = await scrapeSite(url, false);
             await courseRequirementsToJson(page, browser);

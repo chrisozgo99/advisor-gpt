@@ -1,4 +1,4 @@
-export const courseRequirementsURLs = [
+const electricalEngineeringCourseRequirementsURLs = [
     'https://catalog.gatech.edu/programs/signal-information-processing-robotics-autonomous-systems-electrical-engineering-bs/',
     'https://catalog.gatech.edu/programs/signal-information-processing-telecommunications-electrical-engineering-bs/',
     'https://catalog.gatech.edu/programs/signal-information-processing-electronic-devices-electrical-engineering-bs/',
@@ -27,4 +27,30 @@ export const courseRequirementsURLs = [
     'https://catalog.gatech.edu/programs/electric-energy-systems-bioengineering-electrical-engineering-bs/',
     'https://catalog.gatech.edu/programs/bioengineering-sensing-exploration-electrical-engineering-bs/',
     'https://catalog.gatech.edu/programs/electric-energy-systems-sensing-exploration-electrical-engineering-bs/',
-]
+];
+
+const computerEngineeringCourseRequirementsURLs = [
+    'https://catalog.gatech.edu/programs/cybersecurity-distributed-system-software-design-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/cybersecurity-computing-hardware-emerging-architectures-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/cybersecurity-signal-information-processing-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/cybersecurity-telecommunications-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/cybersecurity-robotics-autonomous-systems-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/cybersecurity-systems-architecture-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/cybersecurity-devices-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/cybersecurity-information-internetworks-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/computing-hardware-emerging-architectures-signal-information-processing-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/computing-hardware-emerging-architectures-telecommunications-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/computing-hardware-emerging-architectures-robotics-autonomous-systems-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/computing-hardware-emerging-architectures-systems-architecture-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/computing-hardware-emerging-architectures-devices-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/computing-hardware-emerging-architectures-information-internetworks-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/distributed-system-software-design-telecommunications-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/distributed-system-software-design-systems-architecture-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/distributed-system-software-design-signal-information-processing-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/distributed-system-software-design-robotics-autonomous-systems-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/distributed-system-software-design-information-internetworks-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/distributed-system-software-design-computing-hardware-emerging-architectures-computer-engineering-bs/',
+    'https://catalog.gatech.edu/programs/distributed-system-software-design-devices-computer-engineering-bs/',
+];
+
+export { electricalEngineeringCourseRequirementsURLs, computerEngineeringCourseRequirementsURLs };
