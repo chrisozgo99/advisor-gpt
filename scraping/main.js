@@ -2,7 +2,7 @@ import puppeteer from "puppeteer";
 import * as pdfjs from 'pdfjs-dist';
 
 import fs from "fs";
-import { computerEngineeringCourseRequirementsURLs } from "../utils/urls.js"
+import { computerEngineeringFourYearPlanURLs } from "../utils/urls.js"
 
 async function scrapeSite(url, headless = true) {
     const browser = await puppeteer.launch({
@@ -72,22 +72,111 @@ async function courseRequirementsToJson(page, browser) {
     return json;
 }
 
-async function fourYearPlanToJson(url) {
-    let finalString = '';
-    pdfjs.getDocument(url).promise.then(function(pdf) {
-        pdf.getPage(1).then(function(page) {
-            page.getTextContent().then(function(textContent) {
+async function fourYearPlanToJson(url, major) {
+    const json = {};
+    json.major = major;
+    json.totalHours = 0;
+    json.fourYearPlan = {
+        firstYear: {
+            fall: {
+                courses: [],
+                totalHours: 0,
+            },
+            spring: {
+                courses: [],
+                totalHours: 0,
+            }
+        },
+        secondYear: {
+            fall: {
+                courses: [],
+                totalHours: 0,
+            },
+            spring: {
+                courses: [],
+                totalHours: 0,
+            }
+        },
+        thirdYear: {
+            fall: {
+                courses: [],
+                totalHours: 0,
+            },
+            spring: {
+                courses: [],
+                totalHours: 0,
+            }
+        },
+        fourthYear: {
+            fall: {
+                courses: [],
+                totalHours: 0,
+            },
+            spring: {
+                courses: [],
+                totalHours: 0,
+            }
+        }
+    };
+    
+    let year = 'firstYear';
+    let semester = 'fall';
+    let totalSemesterHours = 'fall'
+
+    return await pdfjs.getDocument(url).promise.then(async function(pdf) {
+        return await pdf.getPage(1).then(async function(page) {
+            return await page.getTextContent().then(function(textContent) {
                 const textItems = textContent.items;
-                finalString = textItems.map(function(item) {
-                    return item.str;
-                }).join(' ');
-                console.log(finalString);
+                let concentrationIndex = major === 'Computer Engineering' ? 3 : 1;
+                json.concentration = textItems[textItems.length - concentrationIndex]?.str;
+                // console.log(textItems[0].str);
+                // console.log(textItems[textItems.length - 3]?.str);
+                for (let i = 12; i < textItems.length; i+=4) {
+
+                    if (textItems[i].str.toLowerCase().includes('second year')) {
+                        year = 'secondYear';
+                        semester = 'fall';
+                        i += 12;
+                    } else if (textItems[i].str.toLowerCase().includes('third year')) {
+                        year = 'thirdYear';
+                        semester = 'fall';
+                        i += 12;
+                    } else if (textItems[i].str.toLowerCase().includes('fourth year')) {
+                        year = 'fourthYear';
+                        semester = 'fall';
+                        i += 12;
+                    }
+
+                    if (
+                        textItems[i].str.toLowerCase().includes('total semester hours') && 
+                        year === 'fourthYear' &&
+                        totalSemesterHours === 'spring'
+                    ) {
+                        let totalHoursIndex = major === 'Computer Engineering' ? 7 : 5;
+                        json.fourYearPlan[year][totalSemesterHours].totalHours = textItems[i+2]?.str;
+                        json.totalHours = textItems[textItems.length - totalHoursIndex]?.str;
+                        break;
+                    } else if (textItems[i].str.toLowerCase().includes('total semester hours')) {
+                        json.fourYearPlan[year][totalSemesterHours].totalHours = textItems[i+2]?.str;
+                        totalSemesterHours = totalSemesterHours === 'fall' ? 'spring' : 'fall';
+                    } else if (parseInt(textItems[i + 2]?.str) < 10 && parseInt(textItems[i+4]?.str) < 10) {
+                        json.fourYearPlan[year][semester].courses.push({
+                            course: textItems[i]?.str,
+                            creditHours: textItems[i+2]?.str,
+                        });
+                        i+=2;
+                    } else {
+                        json.fourYearPlan[year][semester].courses.push({
+                            course: textItems[i]?.str,
+                            creditHours: textItems[i+2]?.str,
+                        });
+                    }
+                    semester = semester === 'fall' ? 'spring' : 'fall';
+                }
+                return json;
             });
         });
-    });
-
-    return finalString;
-
+    })
 }
 
 async function processHtml(page) {
@@ -106,8 +195,19 @@ async function main() {
     //     }
     // }
 
-    const pdfUrl = 'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/bioees.pdf';
-    fourYearPlanToJson(pdfUrl);
+    const pdfUrls = computerEngineeringFourYearPlanURLs;
+    pdfUrls.forEach(async (pdfUrl) => {
+        try {
+            const res = await fourYearPlanToJson(pdfUrl, 'Computer Engineering');
+            fs.writeFile(`data/four-year-plans/computer-engineering/${res.concentration}.json`, JSON.stringify(res, null, 4), function(err) {
+                if (err) {
+                    console.log(err);
+                }
+            });
+        } catch (err) {
+            console.log(err);
+        }
+    });
 }
 
 main();

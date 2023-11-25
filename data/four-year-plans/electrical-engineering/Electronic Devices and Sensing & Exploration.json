@@ -1,0 +1,231 @@
+{
+    "major": "Electrical Engineering",
+    "totalHours": "129",
+    "fourYearPlan": {
+        "firstYear": {
+            "fall": {
+                "courses": [
+                    {
+                        "course": "CHEM 1310",
+                        "creditHours": "4"
+                    },
+                    {
+                        "course": "CS 1301",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "ECE 1100",
+                        "creditHours": "1"
+                    },
+                    {
+                        "course": "ENGL 1101",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "MATH 1551",
+                        "creditHours": "2"
+                    },
+                    {
+                        "course": "MATH 1554",
+                        "creditHours": "4"
+                    }
+                ],
+                "totalHours": "17"
+            },
+            "spring": {
+                "courses": [
+                    {
+                        "course": "ECE 2020",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "ENGL 1102",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "MATH 1552",
+                        "creditHours": "4"
+                    },
+                    {
+                        "course": "PHYS 2211",
+                        "creditHours": "4"
+                    },
+                    {
+                        "course": "History/Government Elective",
+                        "creditHours": "3"
+                    }
+                ],
+                "totalHours": "17"
+            }
+        },
+        "secondYear": {
+            "fall": {
+                "courses": [
+                    {
+                        "course": "ECE 2026",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "Economics/Social Science Elective",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "Humanities Elective",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "MATH 2552",
+                        "creditHours": "4"
+                    },
+                    {
+                        "course": "PHYS 2212",
+                        "creditHours": "4"
+                    }
+                ],
+                "totalHours": "17"
+            },
+            "spring": {
+                "courses": [
+                    {
+                        "course": "ECE 2031",
+                        "creditHours": "2"
+                    },
+                    {
+                        "course": "ECE 2035 or 2036",
+                        "creditHours": "4"
+                    },
+                    {
+                        "course": "ECE 2040",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "MATH 2551",
+                        "creditHours": "4"
+                    },
+                    {
+                        "course": "Science Elective",
+                        "creditHours": "3"
+                    }
+                ],
+                "totalHours": "16"
+            }
+        },
+        "thirdYear": {
+            "fall": {
+                "courses": [
+                    {
+                        "course": "ECE 3040",
+                        "creditHours": "4"
+                    },
+                    {
+                        "course": "ECE 3043",
+                        "creditHours": "2"
+                    },
+                    {
+                        "course": "ECE 3025",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "Prob & Stat Elective",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "APPH 1040 OR 1050",
+                        "creditHours": "2"
+                    },
+                    {
+                        "course": "Humanities Elective",
+                        "creditHours": "3"
+                    }
+                ],
+                "totalHours": "17"
+            },
+            "spring": {
+                "courses": [
+                    {
+                        "course": "ECE 3005",
+                        "creditHours": "1"
+                    },
+                    {
+                        "course": "Elective Hours",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "ECE 3450",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "ECE 4390",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "Social Science Elective",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "Elective Hours",
+                        "creditHours": "3"
+                    }
+                ],
+                "totalHours": "16"
+            }
+        },
+        "fourthYear": {
+            "fall": {
+                "courses": [
+                    {
+                        "course": "Senior Design Sequence",
+                        "creditHours": "1"
+                    },
+                    {
+                        "course": "Pick 1 of Electronic Devices Topics",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "Pick 1 of Sensing & Exploration Topics",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "ECE 4452",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "Elective Hours",
+                        "creditHours": "2"
+                    },
+                    {
+                        "course": "Social Science Elective",
+                        "creditHours": "3"
+                    }
+                ],
+                "totalHours": "15"
+            },
+            "spring": {
+                "courses": [
+                    {
+                        "course": "Senior Design Sequence",
+                        "creditHours": "2"
+                    },
+                    {
+                        "course": "ECE 3000/4000 Elective",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "ECE 3000/4000 Elective",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "Elective Hours",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "Pick 1 of Sensing & Exploration Topics",
+                        "creditHours": "3"
+                    }
+                ],
+                "totalHours": "14"
+            }
+        }
+    },
+    "concentration": "Electronic Devices and Sensing & Exploration"
+}

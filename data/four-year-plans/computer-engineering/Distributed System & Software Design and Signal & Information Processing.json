@@ -1,0 +1,235 @@
+{
+    "major": "Computer Engineering",
+    "totalHours": "129",
+    "fourYearPlan": {
+        "firstYear": {
+            "fall": {
+                "courses": [
+                    {
+                        "course": "ENGL 1101",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "MATH 1551",
+                        "creditHours": "2"
+                    },
+                    {
+                        "course": "MATH 1554",
+                        "creditHours": "4"
+                    },
+                    {
+                        "course": "CS 1301",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "CHEM 1310",
+                        "creditHours": "4"
+                    },
+                    {
+                        "course": "ECE 1100",
+                        "creditHours": "1"
+                    }
+                ],
+                "totalHours": "17"
+            },
+            "spring": {
+                "courses": [
+                    {
+                        "course": "ENGL 1102",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "MATH 1552",
+                        "creditHours": "4"
+                    },
+                    {
+                        "course": "Social Science Elective",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "PHYS 2211",
+                        "creditHours": "4"
+                    },
+                    {
+                        "course": "CS 1331",
+                        "creditHours": "3"
+                    }
+                ],
+                "totalHours": "17"
+            }
+        },
+        "secondYear": {
+            "fall": {
+                "courses": [
+                    {
+                        "course": "MATH 2550",
+                        "creditHours": "2"
+                    },
+                    {
+                        "course": "PHYS 2212",
+                        "creditHours": "4"
+                    },
+                    {
+                        "course": "CS 1332",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "ECE 2020",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "ECE 2026",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "APPH 1040 OR 1050",
+                        "creditHours": "2"
+                    }
+                ],
+                "totalHours": "17"
+            },
+            "spring": {
+                "courses": [
+                    {
+                        "course": "ECE 2040",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "History/Government Elective",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "MATH 2552",
+                        "creditHours": "4"
+                    },
+                    {
+                        "course": "ECE 2035",
+                        "creditHours": "4"
+                    },
+                    {
+                        "course": "ECE 2031",
+                        "creditHours": "2"
+                    }
+                ],
+                "totalHours": "16"
+            }
+        },
+        "thirdYear": {
+            "fall": {
+                "courses": [
+                    {
+                        "course": "Humanities Elective",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "ECE 3084",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "CS 2050 OR CS 2051",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "Prob & Stat option",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "ECE 3058",
+                        "creditHours": "4"
+                    },
+                    {
+                        "course": "Elective Hours",
+                        "creditHours": "1"
+                    }
+                ],
+                "totalHours": "17"
+            },
+            "spring": {
+                "courses": [
+                    {
+                        "course": "Economics/Social Science Elective",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "CS3251",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "ECE 4270",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "Humanities Elective",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "ECE 3005",
+                        "creditHours": "1"
+                    },
+                    {
+                        "course": "Pick 1 of Advanced Software",
+                        "creditHours": "3"
+                    }
+                ],
+                "totalHours": "16"
+            }
+        },
+        "fourthYear": {
+            "fall": {
+                "courses": [
+                    {
+                        "course": "Senior Design Sequence",
+                        "creditHours": "1"
+                    },
+                    {
+                        "course": "Pick 1 of SIP Topics",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "Pick 1 of Edge, Cloud, and Mobile Apps",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "Elective Hours",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "Social Science Elective",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "Elective Hours",
+                        "creditHours": "2"
+                    }
+                ],
+                "totalHours": "15"
+            },
+            "spring": {
+                "courses": [
+                    {
+                        "course": "Senior Design Sequence",
+                        "creditHours": "2"
+                    },
+                    {
+                        "course": "ECE 3000/4000 Elective (EE Thread)",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "Elective Hours",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "Pick 1 of Edge, Cloud, and Mobile Apps",
+                        "creditHours": "3"
+                    },
+                    {
+                        "course": "Elective Hours",
+                        "creditHours": "3"
+                    }
+                ],
+                "totalHours": "14"
+            }
+        }
+    },
+    "concentration": "Distributed System & Software Design and Signal & Information Processing"
+}

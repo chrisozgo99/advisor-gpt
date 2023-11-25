@@ -53,4 +53,65 @@ const computerEngineeringCourseRequirementsURLs = [
     'https://catalog.gatech.edu/programs/distributed-system-software-design-devices-computer-engineering-bs/',
 ];
 
-export { electricalEngineeringCourseRequirementsURLs, computerEngineeringCourseRequirementsURLs };
+const electricalEngineeringFourYearPlanURLs = [
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/bioees.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/biosens.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/ctechbio.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/ctechees.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/ctechsens.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/edevbio.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/edevctech.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/edevees.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/edevsens.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/eessens.pdf', // Note: this one is not formatted like the rest. It will not work.
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/robbio.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/robctech.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/robedev.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/robees.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/robsens.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/robtele.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/sipbio.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/sipctech.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/sipedev.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/sipees.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/siprob.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/sipsens.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/siptele.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/telebio.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/telectech.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/teleedev.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/teleees.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/ee/telesens.pdf',
+];
+
+const computerEngineeringFourYearPlanURLs = [
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpechea_infint.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpechea_rob.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpechea_sip.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpechea_sysarch.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpechea_telecom.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpecyber_chea.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpecyber_devices.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpecyber_dssd.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpecyber_infint.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpecyber_rob.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpecyber_sip.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpecyber_sysarch.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpecyber_telecom.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpedsdd_chea.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpedsdd_devices_.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpedsdd_infint.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpedsdd_rob.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpedsdd_sip.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpedsdd_sysarch.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpedsdd_telecom.pdf',
+    'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpechea_devices_.pdf',
+];
+
+
+export {
+    electricalEngineeringCourseRequirementsURLs,
+    computerEngineeringCourseRequirementsURLs,
+    electricalEngineeringFourYearPlanURLs,
+    computerEngineeringFourYearPlanURLs,
+};
