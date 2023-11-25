@@ -11,10 +11,9 @@ async function main() {
     //     }
     // }
 
-    // const url = 'https://ece.gatech.edu/cybersecurity-thread';
     const {page, browser} = await scrapeSite(electricalEngineeringThreads[0], false);
-    const text = await getThreadInfo(page, browser, electricalEngineeringThreads, 'electrical');
-    // console.log(text);
+    await getThreadInfo(page, browser, electricalEngineeringThreads, 'electrical');
+
 
     // const pdfUrls = computerEngineeringFourYearPlanURLs;
     // pdfUrls.forEach(async (pdfUrl) => {
