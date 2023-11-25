@@ -175,19 +175,6 @@ async function fourYearPlanToJson(url, major) {
     })
 }
 
-async function courseScheduleToJson(url) {
-    return await pdfjs.getDocument(url).promise.then(async function(pdf) {
-        for (let i = 1; i <= 1; i++) {
-            return await pdf.getPage(i).then(async function(page) {
-                return await page.getTextContent().then(function(textContent) {
-                    console.log(textContent.items);
-                });
-            });
-        }
-    });
-}
-
-
 async function getThreadInfo(page, browser, urls, major) {
     let html;
 
@@ -285,7 +272,6 @@ export {
     scrapeSite,
     courseRequirementsToJson,
     fourYearPlanToJson,
-    courseScheduleToJson,
     getThreadInfo,
     processHtml
 };

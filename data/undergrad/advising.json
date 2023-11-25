@@ -1,0 +1,59 @@
+{
+    "overview": "All ECE undergraduate academic advisement must be scheduled via ADVISOR LINK (https://advisor.gatech.edu/) or send an email to undergraduate@ece.gatech.edu. NO WALK-INS WILL BE ALLOWED IN THE ECE ACADEMIC OFFICE.",
+    "phoneNumber": "+1 404-894-2946",
+    "subscribeToECEEmailList": "To subscribe to this list, do as follows: 1. From your GT email (any others will be rejected), send a message to sympa@lists.gatech.edu. 2. In the subject line of your email, type in: subscribe news_ugrads. 3. Leave the message body blank.",
+    "advisingHours": [
+        {
+            "day": "Monday",
+            "hours": [
+                "9:30am - 12:00pm",
+                "1:30pm - 4:00pm"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "hours": [
+                "9:30am - 12:00pm",
+                "1:30pm - 4:00pm"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "hours": [
+                "9:30am - 12:00pm",
+                "1:30pm - 4:00pm"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "hours": [
+                "9:30am - 12:00pm",
+                "1:30pm - 4:00pm"
+            ]
+        },
+        {
+            "day": "Friday",
+            "hours": [
+                "9:30am - 12:00pm",
+                "1:30pm - 4:00pm"
+            ]
+        }
+    ],
+    "advisors": [
+        {
+            "name": "Barbara Howard",
+            "email": "barbara.howard@ece.gatech.edu",
+            "advises": "Students with last name A-L who entered Georgia Tech as a freshman"
+        },
+        {
+            "name": "Teresa Watkins",
+            "email": "teresa.watkins@ece.gatech.edu",
+            "advises": "Students with last name M-Z who entered Georgia Tech as a freshman"
+        },
+        {
+            "name": "Angela Elleby",
+            "email": "angela.elleby@ece.gatech.edu",
+            "advises": "Transfer, RETP, Dual-Degree students"
+        }
+    ]
+}

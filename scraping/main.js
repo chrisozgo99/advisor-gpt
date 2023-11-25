@@ -1,6 +1,6 @@
 import fs from "fs";
 import { computerEngineeringFourYearPlanURLs, electricalEngineeringThreads } from "../utils/urls.js"
-import { getThreadInfo, scrapeSite } from "./scraping.js";
+import { courseScheduleToJson, getThreadInfo, scrapeSite } from "./scraping.js";
 
 async function main() {
     // for (let i = 0; i < computerEngineeringCourseRequirementsURLs.length; i++) {
@@ -11,8 +11,7 @@ async function main() {
     //     }
     // }
 
-    const {page, browser} = await scrapeSite(electricalEngineeringThreads[0], false);
-    await getThreadInfo(page, browser, electricalEngineeringThreads, 'electrical');
+    let res = await courseScheduleToJson('https://ece.gatech.edu/sites/default/files/documents/undergraduate/course_schedule.pdf');
 
 
     // const pdfUrls = computerEngineeringFourYearPlanURLs;
