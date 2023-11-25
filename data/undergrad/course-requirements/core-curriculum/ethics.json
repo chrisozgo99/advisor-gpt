@@ -1,0 +1,189 @@
+{
+    "ethicsCourses": [
+        {
+            "name": "BIOS 4651",
+            "title": "Bioethics",
+            "credit_hours": 3
+        },
+        {
+            "name": "CHBE 4515",
+            "title": "Chemical Process Safety",
+            "credit_hours": 1
+        },
+        {
+            "name": "CS 4001",
+            "title": "Computing, Society, and Professionalism",
+            "credit_hours": 3
+        },
+        {
+            "name": "CS 4726",
+            "title": "Privacy, Technology, Policy, and Law",
+            "credit_hours": 3
+        },
+        {
+            "name": "HTS 1081",
+            "title": "Engineering in History",
+            "credit_hours": 3
+        },
+        {
+            "name": "HTS 2061",
+            "title": "Traditional Asia and Its Legacy",
+            "credit_hours": 3
+        },
+        {
+            "name": "HTS 2084",
+            "title": "Technology and Society",
+            "credit_hours": 3
+        },
+        {
+            "name": "HTS 2100",
+            "title": "Sci, Tech & Modern World",
+            "credit_hours": 3
+        },
+        {
+            "name": "HTS 3032",
+            "title": "Modern European Intellectual History",
+            "credit_hours": 3
+        },
+        {
+            "name": "INTA 2030",
+            "title": "Ethics in International Affairs",
+            "credit_hours": 3
+        },
+        {
+            "name": "LMC 3219",
+            "title": "Literature and Medicine",
+            "credit_hours": 3
+        },
+        {
+            "name": "LMC 3304",
+            "title": "Science, Technology, and Gender",
+            "credit_hours": 3
+        },
+        {
+            "name": "LMC 3318",
+            "title": "Biomedicine and Culture",
+            "credit_hours": 3
+        },
+        {
+            "name": "MGT 3608",
+            "title": "Technology Law and Ethics",
+            "credit_hours": 3
+        },
+        {
+            "name": "MGT 4047",
+            "title": "Ethics & Accounting",
+            "credit_hours": 3
+        },
+        {
+            "name": "MGT 4726",
+            "title": "Privacy, Technology, Policy, and Law",
+            "credit_hours": 3
+        },
+        {
+            "name": "NS 4322",
+            "title": "Naval Leadership and Ethics",
+            "credit_hours": 3
+        },
+        {
+            "name": "PHIL 3105",
+            "title": "Ethical Theories",
+            "credit_hours": 3
+        },
+        {
+            "name": "PHIL 3109",
+            "title": "Engineering Ethics",
+            "credit_hours": 3
+        },
+        {
+            "name": "PHIL 3127",
+            "title": "Science, Technology, and Human Values",
+            "credit_hours": 3
+        },
+        {
+            "name": "PHIL 3140",
+            "title": "Philosophy of Food",
+            "credit_hours": 3
+        },
+        {
+            "name": "PHIL 3180",
+            "title": "Biomedical Ethics",
+            "credit_hours": 3
+        },
+        {
+            "name": "PHIL 4176",
+            "title": "Environmental Ethics",
+            "credit_hours": 3
+        },
+        {
+            "name": "PSYC 1101",
+            "title": "General Psychology",
+            "credit_hours": 3
+        },
+        {
+            "name": "PSYC 2015",
+            "title": "Research Methods",
+            "credit_hours": 4
+        },
+        {
+            "name": "PSYC 2210",
+            "title": "Social Psychology",
+            "credit_hours": 3
+        },
+        {
+            "name": "PSYC 2220",
+            "title": "Industrial/Organizational Psychology",
+            "credit_hours": 3
+        },
+        {
+            "name": "PSYC 2230",
+            "title": "Abnormal Psychology",
+            "credit_hours": 3
+        },
+        {
+            "name": "PSYC 2240",
+            "title": "Personality Theory",
+            "credit_hours": 3
+        },
+        {
+            "name": "PSYC 2270",
+            "title": "Introduction to Engineering Psychology",
+            "credit_hours": 3
+        },
+        {
+            "name": "PSYC 3031",
+            "title": "Experimental Analysis of Behavior",
+            "credit_hours": 4
+        },
+        {
+            "name": "PSYC 4050",
+            "title": "History and Systems",
+            "credit_hours": 3
+        },
+        {
+            "name": "PSYC 4270",
+            "title": "Psychological Testing",
+            "credit_hours": 3
+        },
+        {
+            "name": "PUBP 3244",
+            "title": "Stem Cell Science, Policy, and Ethics",
+            "credit_hours": 3
+        },
+        {
+            "name": "PUBP 3600",
+            "title": "Sustainability, Technology, and Policy",
+            "credit_hours": 3
+        },
+        {
+            "name": "PUBP 4726",
+            "title": "Privacy, Technology, Policy and Law",
+            "credit_hours": 3
+        },
+        {
+            "name": "SLS 3110",
+            "title": "Technology and Sustainable Community Development",
+            "credit_hours": 3
+        }
+    ]
+}

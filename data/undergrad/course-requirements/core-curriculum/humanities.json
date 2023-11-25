@@ -3,1507 +3,1507 @@
         {
             "name": "ARBC 1002",
             "title": "Elementary Arabic II",
-            "credit_hours": 4
+            "creditHours": 4
         },
         {
             "name": "ARBC 1501",
             "title": "Understanding Arab Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARBC 2001",
             "title": "Intermediate Arabic I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARBC 2002",
             "title": "Intermediate Arabic II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARBC 2301",
             "title": "Arabic Arts, Science and Technology Through History",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARBC 3001",
             "title": "Advanced Arabic I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARBC 3002",
             "title": "Advanced Arabic II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARBC 3401",
             "title": "Perspectives on the Arab-Israeli Conflict",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARBC 3501",
             "title": "Men-Women In Islam",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARBC 3691",
             "title": "Intensive Advanced Arabic",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARBC 3692",
             "title": "Arabic for Business and Technology I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARBC 3693",
             "title": "Arabic for Business and Technology II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARCH 2111",
             "title": "History of Architecture I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARCH 2112",
             "title": "History of Architecture II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARCH 2115",
             "title": "Modern Architecture and Art in Europe, America and Australia: Nineteenth and Twentieth Centuries",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARCH 3007",
             "title": "Art & Architecture in Greece",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARCH 3008",
             "title": "Art & Architecture in Italy I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARCH 3009",
             "title": "Art & Architecture in Italy II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARCH 4109",
             "title": "Architecture and Minimalism",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARCH 4110",
             "title": "Public Space: Questions and Configurations",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARCH 4118",
             "title": "American Academic Architecture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARCH 4120",
             "title": "Atlanta Architecture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARCH 4124",
             "title": "History of Architecture in the United States",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARCH 4128",
             "title": "Barcelona: Architecture, Urban Design, Public Space",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARCH 4151",
             "title": "History of Urban Form",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ARCH 4305",
             "title": "Near and Far: Cross-Cultural Practices in Art, Architecture and Design",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CHIN 1002",
             "title": "Elementary Chinese II",
-            "credit_hours": 4
+            "creditHours": 4
         },
         {
             "name": "CHIN 1012",
             "title": "Accelerated Elementary Chinese II",
-            "credit_hours": 4
+            "creditHours": 4
         },
         {
             "name": "CHIN 1501",
             "title": "Chinese for Heritage Learners I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CHIN 2001",
             "title": "Intermediate Chinese I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CHIN 2002",
             "title": "Intermediate Chinese II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CHIN 2011",
             "title": "Accelerated Intermediate Chinese I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CHIN 2012",
             "title": "Accelerated Intermediate Chinese II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CHIN 2501",
             "title": "Chinese For Heritage Learners II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CHIN 3003",
             "title": "Intermediate Chinese III",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CHIN 3004",
             "title": "Advanced Chinese I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CHIN 3021",
             "title": "Chinese Society and Culture I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CHIN 3022",
             "title": "Chinese Society and Culture II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CHIN 3400",
             "title": "China: A Cultural Odyssey",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CHIN 3401",
             "title": "A Kaleidoscope of Chinese Language",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CHIN 3691",
             "title": "Chinese for Current Events",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CHIN 3692",
             "title": "Business Chinese",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CHIN 4003",
             "title": "Advanced Chinese II: Contemporary China",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CHIN 4004",
             "title": "Advanced Chinese III: Contemporary China",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CHIN 4021",
             "title": "Advanced Language, Popular Music and Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CHIN 4031",
             "title": "Chinese-Language Cinema: Technological, Cultural, and Urban Transformation in China",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CHIN 4500",
             "title": "Advanced Intercultural Seminar",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "COA 2241",
             "title": "History of Art I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "COA 2242",
             "title": "History of Art II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "COA 3114",
             "title": "Art and Architecture in Classical Greece",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "COA 3115",
             "title": "Art and Architecture in Italy I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "COA 3116",
             "title": "Art and Architecture in Italy II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CP 4040",
             "title": "The City in Fiction and Film",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "CS 4752",
             "title": "Philosophical Issues in Computation",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 1002",
             "title": "Elementary French II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 2001",
             "title": "Patterns of French Culture I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 2002",
             "title": "Patterns of French Culture II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 2005",
             "title": "LBAT French Culture and Language",
-            "credit_hours": 6
+            "creditHours": 6
         },
         {
             "name": "FREN 3000",
             "title": "Survey of French Literature",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3001",
             "title": "French Literature from 1800 to 1900",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3002",
             "title": "French Literature from 1900 to Present",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3004",
             "title": "Drama Workshop",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3011",
             "title": "France Today I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3012",
             "title": "France Today II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3014",
             "title": "Introduction to Contemporary France",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3015",
             "title": "Social Identities in Contemporary French Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3017",
             "title": "Paris: Modernity Today",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3030",
             "title": "French Phonetics",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3040",
             "title": "Reading and Translation",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3061",
             "title": "France: Culture, Economy, Commerce I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3062",
             "title": "France: Culture, Economy and Commerce II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3110",
             "title": "Comics & Graphic Arts",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3120",
             "title": "French Conversation and Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3121",
             "title": "Advanced Composition",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3500",
             "title": "Field Work Abroad",
-            "credit_hours": "1-3"
+            "creditHours": "1-3"
         },
         {
             "name": "FREN 3551",
             "title": "French for the Professions I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3691",
             "title": "Business Communication and Correspondence in France",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3692",
             "title": "French for Business and Technology I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3693",
             "title": "French for Business and Technology II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3693",
             "title": "French for Business and Technology II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 3694",
             "title": "French for Business and Technology Abroad",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 4001",
             "title": "French Stylistics",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 4011",
             "title": "French Art",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 4013",
             "title": "French Literature and the Visual Arts",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 4061",
             "title": "French Science and Technology I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 4101",
             "title": "Literature of the Francophone World I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 4102",
             "title": "Literature of the Francophone World II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 4103",
             "title": "Francophone Africa",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 4105",
             "title": "Francophone Cinema",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 4107",
             "title": "The African Diasporas in France",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 4200",
             "title": "Introduction to French Philosophy",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 4241",
             "title": "Migration in French Cinema",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 4242",
             "title": "The French New Wave",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 4300",
             "title": "France and Globalization",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "FREN 4500",
             "title": "Advanced Intercultural Seminar",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 1002",
             "title": "Elementary German II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 2001",
             "title": "Intermediate German I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 2002",
             "title": "Intermediate German II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 3010",
             "title": "Introduction to German Literature",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 3011",
             "title": "Germany Today",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 3024",
             "title": "Conversation and Composition",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 3026",
             "title": "German Stylistics",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 3030",
             "title": "Crossing Borders in Literature & Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 3055",
             "title": "German Fairy Tales: From the Grimm Brothers to Disney",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 3071",
             "title": "Introductory Business German I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 3110",
             "title": "Television & Electronic Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 3695",
             "title": "German Business and Technology: Structure, Communication and Correspondence",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 3696",
             "title": "German Business and Technology: Current Issues",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 3697",
             "title": "German Business and Technology: Communication",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 4010",
             "title": "Perspectives of German Media",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 4012",
             "title": "Typical German Towards a German Identity",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 4023",
             "title": "Selected Readings in German Literature",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 4024",
             "title": "German Film and Literature",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 4025",
             "title": "German Culture & Film",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 4026",
             "title": "German Post-Wall Cinema",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 4061",
             "title": "Advanced Business German I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 4065",
             "title": "The European Union: History, Institutions and Current Issues and Challenges",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 4120",
             "title": "Literary Representations of German History",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 4126",
             "title": "Advanced Stylistics: Grammar and Discourse",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 4500",
             "title": "Advanced Intercultural Seminar",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "GRMN 4693",
             "title": "Industrial Transformation and German Society/Economy",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ID 2202",
             "title": "History of Modern Industrial Design",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ID 2241",
             "title": "History of Art 1",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ID 2242",
             "title": "History of Art 2",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ID 4206",
             "title": "Culture of Objects: A Seminar on the Design and Culture of Objects",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "INTA 4743",
             "title": "Japanese Society and Politics",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "JAPN 1002",
             "title": "Elementary Japanese II",
-            "credit_hours": 4
+            "creditHours": 4
         },
         {
             "name": "JAPN 2001",
             "title": "Intermediate Japanese I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "JAPN 2002",
             "title": "Intermediate Japanese II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "JAPN 3001",
             "title": "Advanced Japanese I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "JAPN 3691",
             "title": "Technical and Scientific Japanese",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "JAPN 3692",
             "title": "Business Japanese",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "JAPN 3693",
             "title": "Japan Today",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "JAPN 4113",
             "title": "Advanced reading and Listening in Japanese",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "JAPN 4123",
             "title": "Technical and Business Japanese Translation",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "JAPN 4163",
             "title": "Introduction to Japanese Literature and Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "JAPN 4165",
             "title": "Critical Readings in Japanese Culture and Arts",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "JAPN 4173",
             "title": "Japanese Culture and Society through Anime",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "JAPN 4231",
             "title": "Designing Websites in Japanese",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "JAPN 4233",
             "title": "CALI Pedagogy for Japanese",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "JAPN 4235",
             "title": "3D RPG Development for Japanese Instruction",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "JAPN 4500",
             "title": "Advanced Intercultural Seminar",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "JAPN 4543",
             "title": "Advanced Japanese for NLP Development",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "JAPN 4743",
             "title": "Japanese Society and Politics",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "JAPN 4750",
             "title": "Japanese Discourse and Grammar",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "JAPN 4780",
             "title": "Japanese Applied Linguistics",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "KOR 1002",
             "title": "Elementary Korean II",
-            "credit_hours": 4
+            "creditHours": 4
         },
         {
             "name": "KOR 2001",
             "title": "Intermediate Korean I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "KOR 2002",
             "title": "Intermediate Korean II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "KOR 3001",
             "title": "Advanced Korean I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "KOR 3002",
             "title": "Advanced Korean II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "KOR 3410",
             "title": "Korean Culture: Old and New",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "KOR 3415",
             "title": "Korea in Media: K-Pop, Film, and Drama",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "KOR 3691",
             "title": "Business Korean",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "KOR 3692",
             "title": "Current Issues and Technology in Korea",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "KOR 3693",
             "title": "Exploring Modern Korea",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "KOR 4001",
             "title": "Contemporary Korean",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "KOR 4002",
             "title": "Selected Readings Of Modern Korean",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LING 2100",
             "title": "Introduction to Linguistics",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LING 3100",
             "title": "Applications of Linguistics",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LING 4780",
             "title": "Japanese Applied Linguistics",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 2000",
             "title": "Introduction to Literature, Media, and Communication",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 2050",
             "title": "Seminar in Literature, Media, and Communication",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 2060",
             "title": "Introduction to Literary Studies",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 2100",
             "title": "Introduction to Science, Technology and Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 2200",
             "title": "Introduction to Gender Studies",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 2400",
             "title": "Introduction to Media Studies",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 2500",
             "title": "Introduction to Film",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 2600",
             "title": "Introduction to Performance Studies",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3102",
             "title": "Science, Technology, and the Classical Tradition",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3104",
             "title": "The Age of Scientific Discovery",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3106",
             "title": "The Age of Scientific Revolution",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3112",
             "title": "Evolution and the Industrial Age",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3202",
             "title": "Studies in Fiction",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3204",
             "title": "Poetry and Poetics",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3206",
             "title": "Communication and Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3208",
             "title": "African American Literature and Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3210",
             "title": "Ethnicity in American Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3212",
             "title": "Women, Literature, and Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3214",
             "title": "Science Fiction",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3215",
             "title": "Science Fiction Film and Television",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3219",
             "title": "Literature and Medicine",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3225",
             "title": "Gender Studies in the Disciplines",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3226",
             "title": "Major Authors",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3228",
             "title": "Shakespeare",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3234",
             "title": "Creative Writing",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3236",
             "title": "Writing for the Stage and Screen",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3253",
             "title": "Animation",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3254",
             "title": "Film History",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3255",
             "title": "Cinema and Digital Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3256",
             "title": "Major Filmmakers",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3257",
             "title": "Global Cinema",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3258",
             "title": "Documentary Film",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3259",
             "title": "Experimental Film",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3263",
             "title": "Music, Culture, and Society",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3302",
             "title": "Science, Technology, and Ideology",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3304",
             "title": "Science, Technology, and Gender",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3308",
             "title": "Environmentalism and Ecocriticism",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3310",
             "title": "The Rhetoric of Scientific Inquiry",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3314",
             "title": "Technologies of Representation",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3316",
             "title": "Science, Technology, and Postcolonialism",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3318",
             "title": "Biomedicine and Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3352",
             "title": "Film and/as Technology",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3405",
             "title": "Media, Culture, and Society",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3502",
             "title": "Ancient and Medieval Literature and Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3504",
             "title": "Renaissance Literature and Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3506",
             "title": "Enlightenment and Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3511",
             "title": "American Literature & Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3512",
             "title": "British and Continental Romanticism",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3514",
             "title": "Victorian Literature and Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3516",
             "title": "Literary and Cultural Modernism",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3518",
             "title": "Literary and Cultural Postmodernism",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 3520",
             "title": "Contemporary Issues in Literature & Culture",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "LMC 4204",
             "title": "Poetry and Poetics II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "ML 2500",
             "title": "Think Globally, Act Locally: An Introduction to Cross-Cultural Studies",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "MUSI 2010",
             "title": "Fundamentals of Musicianship I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "MUSI 2011",
             "title": "Fundamentals of Musicianship II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "MUSI 2700",
             "title": "Introduction to Music Theory",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "MUSI 3121",
             "title": "Concert Band",
-            "credit_hours": 1
+            "creditHours": 1
         },
         {
             "name": "MUSI 3131",
             "title": "Symphonic Band",
-            "credit_hours": 1
+            "creditHours": 1
         },
         {
             "name": "MUSI 3231",
             "title": "Chamber Choir",
-            "credit_hours": 1
+            "creditHours": 1
         },
         {
             "name": "MUSI 3241",
             "title": "Chorale",
-            "credit_hours": 1
+            "creditHours": 1
         },
         {
             "name": "MUSI 3251",
             "title": "Glee Club",
-            "credit_hours": 1
+            "creditHours": 1
         },
         {
             "name": "MUSI 3261",
             "title": "Treble Choir",
-            "credit_hours": 1
+            "creditHours": 1
         },
         {
             "name": "MUSI 3311",
             "title": "Jazz Ensemble",
-            "credit_hours": 1
+            "creditHours": 1
         },
         {
             "name": "MUSI 3450",
             "title": "Survey of Music Technology",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "MUSI 3511",
             "title": "Percussion Ensemble",
-            "credit_hours": 1
+            "creditHours": 1
         },
         {
             "name": "MUSI 3531",
             "title": "New Music Ensemble",
-            "credit_hours": 1
+            "creditHours": 1
         },
         {
             "name": "MUSI 3551",
             "title": "Rock and Pop Ensemble",
-            "credit_hours": 1
+            "creditHours": 1
         },
         {
             "name": "MUSI 3611",
             "title": "Symphony Orchestra",
-            "credit_hours": 1
+            "creditHours": 1
         },
         {
             "name": "MUSI 3621",
             "title": "Musicians & their Music",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "MUSI 3630",
             "title": "The History of Jazz, the Roots and Evolution of an American Musical Art Form",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "MUSI 4450",
             "title": "Integrating Music Into Multimedia",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "MUSI 4455",
             "title": "Streaming Media",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "PERS 1002",
             "title": "Elementary Persian II",
-            "credit_hours": 4
+            "creditHours": 4
         },
         {
             "name": "PERS 2001",
             "title": "Intermediate Persian I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "PERS 2002",
             "title": "Intermediate Persian II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "PHIL 2010",
             "title": "Introduction to Philosophical Analysis",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "PHIL 2025",
             "title": "Philosophical Analysis of Policy Choices",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "PHIL 3050",
             "title": "Political Philosophy",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "PHIL 3102",
             "title": "Ancient Philosophy",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "PHIL 3103",
             "title": "Modern Philosophy",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "PHIL 3105",
             "title": "Ethical Theories",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "PHIL 3109",
             "title": "Engineering Ethics",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "PHIL 3113",
             "title": "Logic and Critical Thinking",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "PHIL 3115",
             "title": "Philosophy of Science",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "PHIL 3127",
             "title": "Science, Technology, and Human Values",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "PHIL 3135",
             "title": "Philosophy of Technology",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "PHIL 3140",
             "title": "Philosophy of Food",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "PHIL 4110",
             "title": "Theories of Knowledge",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "PHIL 4174",
             "title": "Perspectives in Science and Technology",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "PHIL 4176",
             "title": "Environmental Ethics",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "PHIL 4752",
             "title": "Philosophical Issues in Computation",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "RUSS 1002",
             "title": "Elementary Russian II",
-            "credit_hours": 4
+            "creditHours": 4
         },
         {
             "name": "RUSS 1250",
             "title": "Vampires and Memory of Stalinism in Post-Soviet Russia",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "RUSS 1692",
             "title": "Intensive Elementary Russian II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "RUSS 2001",
             "title": "Intermediate Russian I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "RUSS 2002",
             "title": "Intermediate Russian II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "RUSS 2691",
             "title": "Intensive Intermediate Russian I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "RUSS 2692",
             "title": "Intensive Intermediate Russian II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "RUSS 3001",
             "title": "Advanced Russian I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "RUSS 3002",
             "title": "Advanced Russian II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "RUSS 3222",
             "title": "The Russian Twentieth Century in Literature and Film",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "RUSS 3691",
             "title": "Intensive Advanced Russian",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "RUSS 3692",
             "title": "Advanced Reading and Composition for Business, Science and Technology",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "RUSS 3698",
             "title": "Russia Yesterday and Today",
-            "credit_hours": 1
+            "creditHours": 1
         },
         {
             "name": "SPAN 1002",
             "title": "Elementary Spanish II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 2001",
             "title": "Intermediate Spanish I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 2002",
             "title": "Intermediate Spanish II",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 2690",
             "title": "Intermed Span Abroad",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 3050",
             "title": "Introduction to Reading Hispanic Literature",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 3061",
             "title": "Spanish for Business I: Fundamentals",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 3064",
             "title": "Medical Spanish",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 3101",
             "title": "Spanish Conversation: Issues and Strategies I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 3111",
             "title": "Composition: Analysis and Development I",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 3122",
             "title": "Cultural History of Spain II: Nineteenth and Twentieth Century Spain",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 3211",
             "title": "Spain Today",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 3235",
             "title": "Latin America Today",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 3241",
             "title": "The Individual and the Family in Hispanic Literature",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 3242",
             "title": "Society in Hispanic Literature",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 3260",
             "title": "Identity in Hispanic American Literature",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 3500",
             "title": "Science Fiction in Latin America",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 3691",
             "title": "Business Communication and Correspondence in the Hispanic",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 3692",
             "title": "Business and Culture in the Hispanic World",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 3693",
             "title": "Science and Technology in the Hispanic World",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 3694",
             "title": "Business and Culture in the Hispanic World: Seminar Abroad",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 3697",
             "title": "Spanish for Health Care Professionals",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 3698",
             "title": "Health Care Industry in Spain",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 4061",
             "title": "Spanish for Science and Technology I: Fundamentals",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 4062",
             "title": "Spanish for Science and Technology II: Applications",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 4065",
             "title": "Spanish Linguistics",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 4101",
             "title": "Advanced Communication Workshop",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 4150",
             "title": "Learning in the Hispanic Community",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 4160",
             "title": "U.S. Spanish: Language and Cultures",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 4165",
             "title": "Bilingualism in the Spanish Speaking World",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 4170",
             "title": "Spanish Applied Linguistics",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 4220",
             "title": "Nation and Narration in Latin America",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 4251",
             "title": "Hispanic Community Internship",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 4255",
             "title": "Hispanic Drama Workshop",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 4350",
             "title": "Ibero-American Cities",
-            "credit_hours": 3
+            "creditHours": 3
         },
         {
             "name": "SPAN 4500",
             "title": "Advanced Intercultural Seminar",
-            "credit_hours": 3
+            "creditHours": 3
         }
     ]
 }

@@ -175,8 +175,20 @@ async function fourYearPlanToJson(url, major) {
     })
 }
 
+async function courseScheduleToJson(url) {
+    return await pdfjs.getDocument(url).promise.then(async function(pdf) {
+        for (let i = 1; i <= 1; i++) {
+            return await pdf.getPage(i).then(async function(page) {
+                return await page.getTextContent().then(function(textContent) {
+                    console.log(textContent.items);
+                });
+            });
+        }
+    });
+}
+
+
 async function getThreadInfo(page, browser, urls, major) {
-    // go to the url
     let html;
 
     let json = {}
@@ -246,11 +258,10 @@ async function getThreadInfo(page, browser, urls, major) {
         html = json;
         
         const file = fs.readFileSync(`data/thread-info/${major}-engineering.json`);
-        // append the json to the threads array
+        
         const data = JSON.parse(file);
         data.threads.push(json);
     
-        // write the file
         fs.writeFile(`data/thread-info/${major}-engineering.json`, JSON.stringify(data, null, 4), function(err) {
             if (err) {
                 console.log(err);
@@ -259,14 +270,6 @@ async function getThreadInfo(page, browser, urls, major) {
     
     }
 
-    // append it to the threads attribute (of type array) in the computer-engineering.json file in the data/threads folder
-    
-    // get the file
-
-
-
-
-    // close the browser
     await browser.close();
     return html;
 }
@@ -282,6 +285,7 @@ export {
     scrapeSite,
     courseRequirementsToJson,
     fourYearPlanToJson,
+    courseScheduleToJson,
     getThreadInfo,
     processHtml
 };
