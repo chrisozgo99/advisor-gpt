@@ -108,10 +108,35 @@ const computerEngineeringFourYearPlanURLs = [
     'https://ece.gatech.edu/sites/default/files/documents/undergraduate/curriculum-threads/cmpe/eightsemesterplanspdf_cmpechea_devices_.pdf',
 ];
 
+const computerEngineeringThreads = [
+    'https://ece.gatech.edu/distributed-system-software-design',
+    'https://ece.gatech.edu/cybersecurity-thread',
+    'https://ece.gatech.edu/computing-hardware-emerging-architectures-thread',
+    'https://ece.gatech.edu/information-internetworks-thread',
+    'https://ece.gatech.edu/systems-architecture-thread',
+    'https://ece.gatech.edu/robotics-autonomous-systems-thread',
+    'https://ece.gatech.edu/telecommunications-thread',
+    'https://ece.gatech.edu/academics/undergraduate/signal-information-processing-thread',
+    'https://ece.gatech.edu/devices-thread',
+];
+
+const electricalEngineeringThreads = [
+    'https://ece.gatech.edu/academics/undergraduate/signal-information-processing-thread',
+    'https://ece.gatech.edu/robotics-autonomous-systems-thread',
+    'https://ece.gatech.edu/bioengineering-thread',
+    'https://ece.gatech.edu/ee-thread/telecommunications',
+    'https://ece.gatech.edu/sensing-exploration-thread',
+    'https://ece.gatech.edu/electric-energy-systems-thread',
+    'https://ece.gatech.edu/electronic-optoelectronic-devices-thread',
+    'https://ece.gatech.edu/circuit-technology-thread',
+]
+
+
 
 export {
     electricalEngineeringCourseRequirementsURLs,
     computerEngineeringCourseRequirementsURLs,
     electricalEngineeringFourYearPlanURLs,
     computerEngineeringFourYearPlanURLs,
+    electricalEngineeringThreads,
 };

@@ -1,0 +1,742 @@
+{
+    "info": "In addition to required courses for the computer engineering degree, the program offers the ability to customize studies with a variety of electives. Elective courses for the major are grouped into thematic areas. Students can choose to pursue one of these threads or pick electives that span multiple areas. The bachelor's degree in computer engineering consists of the three computer engineering foundation threads (Distributed Systems & Software Design, Cybersecurity, Computing Hardware & Emerging Architectures); three Computer Science threads (Devices, Information Internetworks, Systems & Architecture); and three electrical engineering threads (Robotics & Autonomous Systems, Telecommunications, Signal & Information Processing) shown below. Students satisfy degree requirements by selecting two of the threads listed below with at least one thread being chosen from one of the three computer engineering foundation threads. For example, students may select threads in one of the following ways: 1) Two computer engineering foundation threads, 2) One computer engineering foundation thread / one computer science thread (NOTE: ECE2020 and ECE2035 substitute for CS2110; ECE3058 substitutes for CS2200), 3) One computer engineering foundation thread  / one electrical engineering thread (NOTE: Requires taking ECE2026)",
+    "threads": [
+        {
+            "name": "Distributed Systems & Software Design",
+            "info": "Software directs the countless computing devices that permeate our lives, instructing what to compute, how to assist, and coordinating the many interconnected sources of information we rely upon. This thread explores how software systems are created to do this—from controlling small scale embedded microarchitectures to large-scale data centers, and from tracking personal fitness to coordinating distributed technology in smart cities. For instance, how do we orchestrate a massive array of computers to accelerate the search for new pharmaceuticals or immunotherapies? How can we share knowledge with each other and collaborate through cloud services while maintaining consistency, accessibility, and security? How does a network of smart cameras seamlessly track an Olympic ice skater or skier during a fast-paced event? How do we coordinate geographically dispersed, interconnected devices in smart cities, farms, and forests, that balance computing locally ('on the edge') with leveraging shared information globally ('in the cloud') to achieve performance and energy efficiency? Engineers in these areas work closely with experts in computing hardware and networks to both harness the power of emerging technologies and to drive new hardware advances to meet computational needs.",
+            "potentialCareerPaths": [
+                "Software Engineering (Microsoft, IBM, Apple, Facebook, NCR, Delta Airlines, Adobe, nearly every industry)",
+                "Cloud computing (Google, Amazon AWS, Microsoft Azure, Dropbox, IBM, etc.)",
+                "Edge computing (Cloudflare, ARM, Ericsson, Mutable, Oracle, HP, IBM, Microsoft, Dell, Cisco, etc.)",
+                "IoT, Smart homes, cities, farms, forests (Honeywell, Cisco, Siemens, Hitachi, Ericsson, Toshiba, Oracle, CropX, Arable, and many more)",
+                "Self-driving cars, including fleet navigation (Intel, Waymo, Uber, Tesla, and most automotive companies)",
+                "Climate modeling (NASA, Lawrence Livermore National Laboratory, etc)",
+                "Aerospace (Lockheed Martin, SpaceX, Boeing, JPL, NASA, etc.)",
+                "Virtual and augmented reality (Oculus, Samsung, Magic Leap, WorldViz, Google, Unity, Nvidia, etc.)",
+                "Concurrent systems, including accelerating CGI, AI, gaming systems (Nvidia, AMD, Intel, Asus, etc)",
+                "Assistive technologies (Orcam, Panasonic, Honda, Tobii Technology, etc.)",
+                "Sport performance analysis (ESPN, NBC/CBS/Fox Sports, etc.)"
+            ],
+            "requiredCourses": [
+                {
+                    "courseCode": "CS 3251",
+                    "courseName": "Computer Networking",
+                    "creditHours": 3
+                }
+            ],
+            "threadSpecificTopics": [
+                {
+                    "numberOfCoursesRequired": 3,
+                    "courseOptions": [
+                        {
+                            "courseCode": "CS 4220",
+                            "courseName": "Programming Embedded Systems",
+                            "creditHours": 3
+                        },
+                        {
+                            "courseCode": "ECE 4122",
+                            "courseName": "Advanced Programming Techniques",
+                            "creditHours": 3
+                        },
+                        {
+                            "courseCode": "ECE 4795",
+                            "courseName": "GPU Programming for Video Games",
+                            "creditHours": 3
+                        },
+                        {
+                            "courseCode": "ECE 4150",
+                            "courseName": "Cloud Computing",
+                            "creditHours": 3
+                        },
+                        {
+                            "courseCode": "ECE 4180",
+                            "courseName": "Embeded Systems Design",
+                            "creditHours": 4
+                        },
+                        {
+                            "courseCode": "CS 4605",
+                            "courseName": "Mobile and Ubiquitous Computing",
+                            "creditHours": 3
+                        },
+                        {
+                            "courseCode": "CS 3651",
+                            "courseName": "Building Intelligent Appliances",
+                            "creditHours": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cybersecurity",
+            "info": "Stopping the next devastating cyberattack requires building secure systems from the bottom up. The ECE Cybersecurity thread teaches the fundamentals of secure system design and cyber defense. Courses in this thread span from building new secure hardware platforms and vulnerability analysis to malware investigation and cyberattack response. As cyberattacks continue to affect our everyday lives, this thread provides students with an increasingly in-demand skill set for careers that transcend the tech industry’s cybersecurity goals.",
+            "potentialCareerPaths": [
+                "Hardware Security Engineer – design custom integrated circuits for security purposes including encryption, decryption and authentication",
+                "Side Channel Engineer – analyze hardware for power and other side-channel attacks aiming to discover secrets such as keys",
+                "Software threat analyst - joins a team of software experts to perform intelligent software analysis (including vulnerability research), reverse engineering (including malware analysis), and research and development on secure cyber systems.",
+                "Software security engineer - develop software and/or firmware with specific attention to vulnerability hardening and resiliency, build and apply security patches, vulnerability discovery and development to test the robustness of critical software systems."
+            ],
+            "requiredCourses": [
+                {
+                    "cc": "ECE 4115",
+                    "name": "Introduction to Computer Security",
+                    "hours": "4"
+                }
+            ],
+            "threadSpecificTopics": [
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "CS 3251",
+                            "name": "Computer Networking",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 3600",
+                            "name": "Computer Communications",
+                            "hours": "3"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 2,
+                    "courses": [
+                        {
+                            "cc": "ECE 3170",
+                            "name": "Cryptographic Hardware for Embedded Systems",
+                            "hours": "4"
+                        },
+                        {
+                            "cc": "ECE 4112",
+                            "name": "Internetwork Security",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4117",
+                            "name": "Introduction to Malware Reverse Engineering",
+                            "hours": "4"
+                        },
+                        {
+                            "cc": "ECE 4147",
+                            "name": "Advanced Topics in Malware Analysis ",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4156",
+                            "name": "Hardware Oriented Security Trust",
+                            "hours": "3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Devices",
+            "info": "The Devices thread is concerned with embedded computational artifacts that interact with people or the physical world. In this thread one learns how to create and evaluate devices that operate under physical constraints such as size, power and bandwidth. Examples include cell phones, robots, jet engines, and intelligent appliances.DevicesRequiredCS 2340 - Objects and Design\t3CS 3251 - Computer Networking\t3CS 3510 or CS 3511 - Design and Analysis of Algorithms\t3Pick 1 of Building DevicesCS 3651 - The Art of Building Intelligent Appliances\t4ECE 4180 - Embedded Systems Design\t4Pick 1 of Devices in the Real WorldCS 3630 - Robotics and Perception\t3CS 4261 - Mobile Applications & Services for Converged Networks\t3CS 4476 - Intro to Computer Vision\t3CS 4605 - Mobile and Ubiquitous ComputingChangedMonday, 28 August 2023 10:45 AM EDT",
+            "requiredCourses": [
+                {
+                    "cc": "CS 2340",
+                    "name": "Objects and Design",
+                    "hours": "3"
+                },
+                {
+                    "cc": "CS 3251",
+                    "name": "Computer Networking",
+                    "hours": "3"
+                },
+                {
+                    "cc": "CS 3510 or CS 3511 - Design and Analysis of Algorithms",
+                    "hours": "3"
+                }
+            ],
+            "threadSpecificTopics": [
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "CS 3651",
+                            "name": "The Art of Building Intelligent Appliances",
+                            "hours": "4"
+                        },
+                        {
+                            "cc": "ECE 4180",
+                            "name": "Embedded Systems Design",
+                            "hours": "4"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "CS 3630",
+                            "name": "Robotics and Perception",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "CS 4261",
+                            "name": "Mobile Applications & Services for Converged Networks",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "CS 4476",
+                            "name": "Intro to Computer Vision",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "CS 4605",
+                            "name": "Mobile and Ubiquitous Computing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Computing Hardware & Emerging Architectures",
+            "info": "The Computing Hardware and Emerging Architectures thread focuses on the physical realization of computing systems—the inner workings that compute, remember, learn, and communicate results. It deals with the challenges of making computing devices respond quickly and reliably, while being energy efficient, for example, to maximize battery life or to create environmentally sustainable data centers. It explores computing architectures that integrate millions of processing elements working in synchrony to accelerate machine learning, medical image analysis, climate modeling, and other computationally intense applications. This thread also explores new computing technologies inspired by biology and quantum physics such as neuromorphic and quantum computing.",
+            "potentialCareerPaths": [
+                "Computer chip and digital system design, VLSI engineer (Intel, Qualcomm, AMD, IBM, Apple, Texas Instruments, Samsung, Nvidia etc.)",
+                "Computer architecture and parallel processing (ARM, Advanced Micro Devices, Intel, etc.)",
+                "Smart phones and mobile platforms (Qualcomm, Apple, Samsung, etc.)",
+                "Cloud and edge computing (Google, Amazon AWS, Microsoft Azure, Dropbox, Oracle, Ericsson, ARM, IBM, Cisco, etc.)",
+                "Emerging computing technologies: quantum, neuromorphic, etc. (IBM, Intel, Google, HP, Samsung, and several smaller companies)",
+                "Memory systems (Rambus, Avalanche Technology, MoSys, Netlist, etc.)",
+                "Low power, reconfigurable systems/FPGAs (Altera/Intel, Xilinx, Lattice Semiconductor, etc.)",
+                "Embedded systems (ARM, Ericsson, Texas Instruments, etc.)",
+                "Hardware acceleration for machine learning, CGI, augmented/virtual reality (Nvidia, Google, Intel, etc.)",
+                "Cybersecurity (CISCO, Broadcom, Fortinet, etc.)",
+                "High performance computing (National laboratories, AMD, Cray, Intel, Nvidia, IBM, HPE, etc.)",
+                "Energy efficient, green computing (Intel, AMD, ARM, etc.)"
+            ],
+            "requiredCourses": [
+                {
+                    "cc": "ECE 3150",
+                    "name": "VLSI & Adv Digital Design",
+                    "hours": "3"
+                },
+                {
+                    "cc": "ECE 3030",
+                    "name": "Physical Found. of Computer Engineering",
+                    "hours": "3"
+                }
+            ],
+            "threadSpecificTopics": [
+                {
+                    "numberOfCoursesRequired": 3,
+                    "courses": [
+                        {
+                            "cc": "CS 4220 Programming Embedded Systems",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4180",
+                            "name": "Embedded Systems Design",
+                            "hours": "4"
+                        },
+                        {
+                            "cc": "ECE 4130",
+                            "name": "Advanced VLSI Systems",
+                            "hours": "4"
+                        },
+                        {
+                            "cc": "ECE 4452",
+                            "name": "Integrated Circuit Fabrication",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4420",
+                            "name": "Digital Integrated Circuits",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4460",
+                            "name": "Introduction to Electronic Systems Packaging ",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4100",
+                            "name": "Adv Comp Arch",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4150",
+                            "name": "Cloud Computing",
+                            "hours": "3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Information Internetworks",
+            "info": "The Information Internetworks thread is where computing meets data enterprise. This thread deals with implications in the context of personal and organizational information management. Information Internetworks prepares students for all levels of information management by helping them to capture, represent, organize, transform, communicate, and present data so that it becomes information, using geographically distributed multi-national organizations and information needs as contextInformation InternetworksRequiredCS 2340 - Objects and Design\t3CS 3510 or CS 3511 - Design and Analysis of Algorithms\t3Pick 2 from Introduction to Information ManagementCS 4235 - Introduction to Information Security\t3CS 3251 - Computer Networking 1\t3CS 4400 - Introduction to Database Systems\t3Pick 1 from Advanced Information ManagementCS 4237 - Computer and Network Security\t3CS 4251 - Computer Networking 2\t3CS 4255 - Introduction to Network Management\t3CS 4261 - Mobile Applications and Services for Converged Networks\t3CS 4270 - Data Communications Laboratory\t3CS 4365 - Introduction to Enterprise Computing\t3CS 4420 - Database System Implementation\t3CS 4440 - Emerging Database Technologies and Applications\t3CS 4675 - Internet Computing Systems, Services, and Applications\t3ChangedMonday, 28 August 2023 10:46 AM EDT",
+            "requiredCourses": [
+                {
+                    "cc": "CS 2340",
+                    "name": "Objects and Design",
+                    "hours": "3"
+                },
+                {
+                    "cc": "CS 3510 or CS 3511",
+                    "name": "Design and Analysis of Algorithms",
+                    "hours": "3"
+                }
+            ],
+            "threadSpecificTopics": [
+                {
+                    "numberOfCoursesRequired": 2,
+                    "courses": [
+                        {
+                            "cc": "CS 4235",
+                            "name": "Introduction to Information Security",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "CS 3251",
+                            "name": "Computer Networking 1",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "CS 4400",
+                            "name": "Introduction to Database Systems",
+                            "hours": "3"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "CS 4237",
+                            "name": "Computer and Network Security",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "CS 4251",
+                            "name": "Computer Networking 2",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "CS 4255",
+                            "name": "Introduction to Network Management",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "CS 4261",
+                            "name": "Mobile Applications and Services for Converged Networks",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "CS 4270",
+                            "name": "Data Communications Laboratory",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "CS 4365",
+                            "name": "Introduction to Enterprise Computing",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "CS 4420",
+                            "name": "Database System Implementation",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "CS 4440",
+                            "name": "Emerging Database Technologies and Applications",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "CS 4675",
+                            "name": "Internet Computing Systems, Services, and Applications",
+                            "hours": "3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Systems & Architecture",
+            "info": "The Systems & Architecture thread is where many of the practical skills of computing are learned. This thread teaches you about the organization of computer systems, how they are built using different hardware and software layers and how they are programmed.The Systems & Architecture thread deals with a complete vertical slice of system building from processor design, memory organization to virtualization and operating system layers all the way up to the programming interfaces, languages and the tool chains such as compilers, debuggers and profilers. It emphasizes different system properties such as performance, power consumption, reliability, security, and availability. This thread spans a vast spectrum of systems ranging from parallel and distributed systems to emerging multi-core systems, as well as domain specific systems (such as gaming consoles, healthcare information systems, real-time embedded controllers used in avionics, and so on). Systems & ArchitectureRequiredCS 2340 - Objects and Design\t3CS 3210 - Design of Operating Systems\t3CS 3220 - Computer Structures: HW/SW Codesign of a Processor\t3CS 3510 or CS 3511 - Design and Analysis of Algorithms\t3Pick 1 of Systems Software ToolsCS 3300 - Introduction to Software Engineering\t3CS 4240 - Compilers, Interpreters, and Program Analyzers\t3Pick 1 of Advanced Systems & ArchitectureCS 4210 - Advanced Operating Systems\t3CS 4220 - Programming Embedded Systems\t3ECE4100 - Advanced Computer Architecture\t3ChangedMonday, 28 August 2023 10:47 AM EDT",
+            "requiredCourses": [
+                {
+                    "cc": "CS 2340",
+                    "name": "Objects and Design",
+                    "hours": "3"
+                },
+                {
+                    "cc": "CS 3210",
+                    "name": "Design of Operating Systems",
+                    "hours": "3"
+                },
+                {
+                    "cc": "CS 3220",
+                    "name": "Computer Structures: HW/SW Codesign of a Processor",
+                    "hours": "3"
+                },
+                {
+                    "cc": "CS 3510 or CS 3511",
+                    "name": "Design and Analysis of Algorithms",
+                    "hours": "3"
+                }
+            ],
+            "threadSpecificTopics": [
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "CS 3300",
+                            "name": "Introduction to Software Engineering",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "CS 4240 - Compilers, Interpreters, and Program Analyzers",
+                            "hours": "3"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "CS 4210",
+                            "name": "Advanced Operating Systems",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "CS 4220",
+                            "name": "Programming Embedded Systems",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE4100",
+                            "name": "Advanced Computer Architecture",
+                            "hours": "3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Robotics and Autonomous Systems",
+            "info": "Physical systems may be engineered to operate automatically. Examples from our daily lives include: temperature control systems in homes; elevator control systems at work; and automotive control systems such as traction control, braking control, adaptive cruise control, and lane keeping control. All these systems combine sensing, computation, and actuation in feedback loops to achieve stable behavior and provide high performance. The Robotics and Autonomous Systems thread prepares students to apply this basic concept in diverse areas—such as space, air and ground vehicles, and robots of various types—to safely automate tasks, or work in hazardous and hostile environments, without human input.",
+            "potentialCareerPaths": [
+                "Industrial robots (Amazon Robotics, Boston Dynamics, KUKA, Yaskawa, FANUC, Universal)",
+                "Medical robots (Intuitive Surgical, Stryker, Accuray, Medtronic)",
+                "Assistive robots (Kinova, Ekso Bionics, iRobot)",
+                "Autonomous vehicles (Tesla, GM, Ford, Chrysler, Waymo, Argo AI, Aptiv)",
+                "Automation (Siemens, ABB, Emerson, Rockwell, Honeywell, Schneider Electric, Omron)",
+                "Aerospace industry (SpaceX, NASA, Aerospace Corp, Boeing, Airbus, General Electric)",
+                "Defense industry (Lockheed Martin, Raytheon, Northrop Grumman, General Dynamics)",
+                "Microcontroller industry (Texas Instruments, NXP, Renesas, Microchip, Infineon)",
+                "Research labs (SWRI, GTRI, Battelle, SRI, MIT Lincoln Lab, NASA, DoE National Labs)"
+            ],
+            "requiredCourses": [
+                {
+                    "cc": "ECE 2026",
+                    "name": "Intro Signal Processing (part of EE common core; must be added for CmpE)",
+                    "hours": "3"
+                },
+                {
+                    "cc": "ECE 3550",
+                    "name": "Feedback Control Systems",
+                    "hours": "3"
+                },
+                {
+                    "cc": "ECE 4550",
+                    "name": "Control System Design",
+                    "hours": "4"
+                }
+            ],
+            "threadSpecificTopics": [
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 3084",
+                            "name": "Signals and Systems",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 3251",
+                            "name": "Optimization for Information Systems",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4252",
+                            "name": "Fundamentals of Machine Learning",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4560",
+                            "name": "Intro Automation&Robotic",
+                            "hours": "4"
+                        },
+                        {
+                            "cc": "ECE 4580",
+                            "name": "Computer Vision",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4570",
+                            "name": "Modern System Theory",
+                            "hours": "4"
+                        },
+                        {
+                            "cc": "ECE 4575",
+                            "name": "Numerical Methods of Optimization",
+                            "hours": "3"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 3000/4000 Elective",
+                            "hours": "3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Telecommunications",
+            "info": "The Telecommunications thread prepares students to effectively understand how to engineer and optimize communication systems that support the ever-increasing data flows critical to our daily lives. This thread focuses on the communication engineering principles and technologies that form the backbone of the information age, from data storage to data transmission, from wireless to optics. The thread develops the mathematical and engineering principles that enable the design of interconnected systems, from the physical medium where information is encoded, to the network level where protocols are designed, using tools from applied probability to signal processing.",
+            "potentialCareerPaths": [
+                "Mobile Communications, 5G/6G (AT&T, Verizon, Qualcomm, Broadcom, etc.)",
+                "Satellite Communications (Intelsat, Iridium, Viasat, NASA, etc.)",
+                "Wifi (Broadcom, Netgear, Nest Wifi, Linksys, etc.)",
+                "Wireless sensor networks (Siemens AG, ST Microelectronics, Emerson Electric Co, etc.)",
+                "Cable replacement wireless, e.g., Bluetooth (Broadcom, Cypress Semiconductor, Marvell, etc.)",
+                "Autonomous vehicles (Ford Motor Company, Tesla, GM, BMW, etc.)",
+                "GAFA (Google, Apple, Facebook, Amazon.)",
+                "Video-streaming services (Netflix, Hulu, YouTube, Google, etc.)",
+                "Defense (DoD, GTRI, Boeing, Lockheed Martin, etc.)",
+                "Networking (Cisco, Juniper, Netgear, Extreme, F5 Networks, etc.)",
+                "Content-delivery networks - companies like Akamai, Limelight, Fastly, Cloudflare",
+                "Network monitoring/WAN optimization- companies like Riverbed, Versa, Silverpeak, Cisco",
+                "Server/Desktop virtualizationd - VMware, Citrix",
+                "Video gaming companies - Electronic Arts (EA), Zynga, Ubisoft",
+                "Internet of Things - Microsoft, IBM, Oracle, Hitachi, Honeywell"
+            ],
+            "requiredCourses": [
+                {
+                    "cc": "ECE 2026",
+                    "name": "Intro Signal Processing",
+                    "hours": "3"
+                }
+            ],
+            "threadSpecificTopics": [
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 3600",
+                            "name": "Computer Communications ",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "CS 3251",
+                            "name": "Computer Networking",
+                            "hours": "3"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 4601",
+                            "name": "Communication Systems ",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4606",
+                            "name": "Wireless Communications",
+                            "hours": "3"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 3084",
+                            "name": "Signals and Systems",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4350",
+                            "name": "Electromagnetic & Microwave Applications ",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4370",
+                            "name": "Antenna Engineering ",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4500",
+                            "name": "Optical Engineering ",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4601",
+                            "name": "Communication Systems",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4606",
+                            "name": "Wireless Communications",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4607",
+                            "name": "Mobile and Wireless Networks",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4502",
+                            "name": "Fiber Optic Communications",
+                            "hours": "4"
+                        },
+                        {
+                            "cc": "ECE 4612",
+                            "name": "Telecommunications Lab",
+                            "hours": "1"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 3000/4000 Elective",
+                            "hours": "3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Signal & Information Processing",
+            "info": "The technology we use, and even rely on, in our everyday lives—computers, radios, video, cameras, cell phones, driverless vehicles, drones—is enabled by signal and information processing, a branch of electrical engineering that models and analyzes data representations of physical events. Signal and information processing is at the heart of our modern world, powering today’s entertainment and tomorrow’s technology. It’s at the intersection of biotechnology and social interactions. It enhances our ability to communicate and share information, between humans, between humans and machines, or between machines. Signal and information processing is behind every aspect of our digital lives.Over the past six decades, the types of signals and the functionalities on which this branch of science has focused have broadened to include radar signals, geophysical signals, audio, speech, music, images, videos, 3D graphics, social network data, biomedical data, bio signals, and more. Sensors feed data into a signal and information processing module that interprets the captured data and enables visualization, analysis, manipulation, and control for the SIP engineer. The discipline includes several applications of math and principles of electrical engineering to represent signals and information in ways that are beneficial for the application at hand. In today’s applications, you will find SIP in your mobile phone representing your images and videos via compression and analytics, in autonomous vehicles providing an understanding of the surrounding environment for safe and effective driving experience by machines, in healthcare establishments imaging our bodies and brains, in energy companies, and in every social media platform. Signal and information processing is the core of today’s artificial intelligence (AI) and machine learning, previously known as pattern recognition. Have you shared \"what’s on your mind” with social media friends or video chatted with family today? These are just two of the many ways we use machine learning every day. Machine learning and SIP bring together mathematics, computer science, and statistics to harness predictive power, and provide the technology behind other applications, including detecting credit card fraud, medical diagnostics, stock market analysis, speech recognition, and video understanding. ",
+            "potentialCareerPaths": [
+                "Consumer electronic and hardware (Texas Instruments, Intel, IBM, Apple, Samsung, Nvidia etc.)",
+                "Autonomous vehicles (Ford Motor Company, Tesla, GM, BMW, etc.)",
+                "Communications, 5G/6G (AT&T, Verizon, Qualcomm, Broadcom, etc.)",
+                "Energy (Oil & Gas Companies, GE, Siemens, smart grids companies, etc.)",
+                "Social media (Facebook, Twitter, etc.)",
+                "Aviation (SpaceX, JPL, NASA, Boeing, Airbus, etc.)",
+                "Gaming (Sony, Wii, EA Sport, etc.)",
+                "Content delivery and streaming services (Netflix, Hulu, YouTube, Google, etc.)",
+                "Music, sound, and audio (Bose, Apple, JBL, SONY, etc.)",
+                "Defense (DoD, GTRI, Boeing, Lockheed Martin, etc.)",
+                "Government labs (USGS, FCC, NIST, NOAA and NWS, plus DoD and other classified national security work)",
+                "Robotics and medical robotics (Boston Dynamics, iRobot, Raytheon, Amazon Robotics, Accuray)",
+                "Smart cities (Several companies in the metro Atlanta area and across the nation)",
+                "Remote sensing (Several companies)"
+            ],
+            "requiredCourses": [
+                {
+                    "cc": "ECE 2026",
+                    "name": "Intro Signal Processing (part of EE common core; must be added for CmpE)",
+                    "hours": "3"
+                }
+            ],
+            "threadSpecificTopics": [
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 4270",
+                            "name": "Fundamentals of DSP",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4252",
+                            "name": "Fundamentals of Machine Learning",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 3251",
+                            "name": "Optimization for Information Systems",
+                            "hours": "3"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 2,
+                    "courses": [
+                        {
+                            "cc": "ECE 3084",
+                            "name": "Signals and Systems",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4271",
+                            "name": "Applications of DSP",
+                            "hours": "4"
+                        },
+                        {
+                            "cc": "ECE 4260",
+                            "name": "Random Signals and Applications ",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4273",
+                            "name": "Design Synthesis of Application Specific Signal Processors ",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4122",
+                            "name": "Advanced Programming Techniques for Engineering Applications",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4783",
+                            "name": "Introduction to Medical Image Processing",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4258",
+                            "name": "Digital Image Processing",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4270",
+                            "name": "Fundamentals of DSP",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4252",
+                            "name": "Fundamentals of Machine Learning",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 3251",
+                            "name": "Optimization for Information Systems",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4180",
+                            "name": "Embedded Systems Design",
+                            "hours": "4"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 3000/4000 Elective",
+                            "hours": "3"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

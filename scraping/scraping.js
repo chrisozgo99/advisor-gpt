@@ -175,6 +175,102 @@ async function fourYearPlanToJson(url, major) {
     })
 }
 
+async function getThreadInfo(page, browser, urls, major) {
+    // go to the url
+    let html;
+
+    let json = {}
+    for (let i = 0; i < urls.length; i++) {
+        await page.goto(urls[i]);
+
+        const title = await page.$eval('.page-title', (el) => el.innerText.split('Thread')[0].trim());
+        const threadInfo = await page.$eval('.gt-container', (el) => el.innerText.split('Sample of related career paths:')); 
+        const careerPaths = await page.$$eval('.gt-container ul li', (els) => els.map((el) => el.innerText));
+        
+        json.name = title;
+        json.info = threadInfo[0].replace(/\n/g, '');
+        json.potentialCareerPaths = careerPaths ? careerPaths : [];
+        json.requiredCourses = [];
+        json.threadSpecificTopics = [];
+
+        const courses = await page.$$eval('.gt-container table tbody tr', (els) => els.map((el) => {
+            const courseInfo = el.innerText.split('\t');
+            let course = {
+                cc: courseInfo[0].split(' - ')[0],
+                name: courseInfo[0].split(' - ')[1],
+                hours: courseInfo[1],
+            }
+            return course;
+
+        }));
+        let attribute = 'requiredCourses';
+        let numberOfCoursesRequired;
+        let arr = [];
+        courses.forEach((course) => {
+            if (course.cc.includes('Course') || course.cc === 'Required') {
+                attribute = 'requiredCourses';
+            } else if (course.cc.includes('Pick') &&
+                attribute === 'requiredCourses'
+            ) {
+                json.requiredCourses = arr;
+                arr = [];
+                attribute = 'threadSpecificTopics';
+                numberOfCoursesRequired = course.cc.split(' ')[1];
+            } else if (course.cc.includes('Choose') && arr.length !== 0) {
+                json.threadSpecificTopics.push({
+                    numberOfCoursesRequired: parseInt(numberOfCoursesRequired),
+                    courses: arr,
+                })
+                arr = [];
+                numberOfCoursesRequired = 1;
+            } else if (course.cc.includes('Pick')) {
+                json.threadSpecificTopics.push({
+                    numberOfCoursesRequired: parseInt(numberOfCoursesRequired),
+                    courses: arr,
+                })
+                arr = [];
+                numberOfCoursesRequired = course.cc.split(' ')[1];
+            } else {
+                if (course.cc.trim() !== '') {
+                    arr.push(course);
+                }
+            }
+        });
+        if (arr.length !== 0) {
+            json.threadSpecificTopics.push({
+                numberOfCoursesRequired: parseInt(numberOfCoursesRequired),
+                courses: arr,
+            })
+        }
+
+        html = json;
+        
+        const file = fs.readFileSync(`data/thread-info/${major}-engineering.json`);
+        // append the json to the threads array
+        const data = JSON.parse(file);
+        data.threads.push(json);
+    
+        // write the file
+        fs.writeFile(`data/thread-info/${major}-engineering.json`, JSON.stringify(data, null, 4), function(err) {
+            if (err) {
+                console.log(err);
+            }
+        });
+    
+    }
+
+    // append it to the threads attribute (of type array) in the computer-engineering.json file in the data/threads folder
+    
+    // get the file
+
+
+
+
+    // close the browser
+    await browser.close();
+    return html;
+}
+
 async function processHtml(page) {
     // return text from the webpage
     const text = await page.$eval('*', (el) => el.innerText);
@@ -182,4 +278,10 @@ async function processHtml(page) {
     return text;
 }
 
-export { scrapeSite, courseRequirementsToJson, fourYearPlanToJson, processHtml };
+export {
+    scrapeSite,
+    courseRequirementsToJson,
+    fourYearPlanToJson,
+    getThreadInfo,
+    processHtml
+};

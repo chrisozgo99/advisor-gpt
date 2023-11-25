@@ -1,5 +1,6 @@
 import fs from "fs";
-import { computerEngineeringFourYearPlanURLs } from "../utils/urls.js"
+import { computerEngineeringFourYearPlanURLs, electricalEngineeringThreads } from "../utils/urls.js"
+import { getThreadInfo, scrapeSite } from "./scraping.js";
 
 async function main() {
     // for (let i = 0; i < computerEngineeringCourseRequirementsURLs.length; i++) {
@@ -9,6 +10,11 @@ async function main() {
     //         await courseRequirementsToJson(page, browser);
     //     }
     // }
+
+    // const url = 'https://ece.gatech.edu/cybersecurity-thread';
+    const {page, browser} = await scrapeSite(electricalEngineeringThreads[0], false);
+    const text = await getThreadInfo(page, browser, electricalEngineeringThreads, 'electrical');
+    // console.log(text);
 
     // const pdfUrls = computerEngineeringFourYearPlanURLs;
     // pdfUrls.forEach(async (pdfUrl) => {
