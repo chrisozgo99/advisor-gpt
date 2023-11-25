@@ -1,0 +1,49 @@
+{
+    "name": "Joint BS/MS in Electrical and Computer Engineering",
+    "eligibility": "Be enrolled as an undergraduate student in the ECE program in order to be eligible for this degree",
+    "about": "This program allows students to receive either the bachelor of science in electrical engineering or bachelor of science in computer engineering and a master's degree in electrical and computer engineering within a five-year time frame. Students completing both a bachelor’s and master’s in electrical or computer engineering may also be eligible for the Graduate Option where they may use up to six credit hours of senior/graduate-level ECE coursework for both degrees. While earning the M.S. degree, students can choose to participate in programs such as Georgia Tech Europe and Georgia Tech Shenzhen to further enhance their graduate level experience and to broaden their education and their career opportunities. The elective hours and required minor classes taken in the M.S. program can also be a starting point for entry into M.B.A. and other non-engineering degree programs.",
+    "benefits": [
+        "Application fee waived for B.S./M.S. applicants",
+        "GRE requirement waived",
+        "Qualified B.S./M.S. students may receive GRA/GTA appointments with a stipend and reduced tuition and fees upon matriculation into the graduate program",
+        "Students with a final cumulative GPA of 3.5 or higher can move a maximum of 12 hours forward from the BS program to the MS program. Six of these 12 hours can be used toward both the B.S. and the M.S. degree (classes must fulfill degree requirements and only can be ECE 4000 level or higher). Therefore, a student can take an additional 6 hours of courses at the graduate level while an undergraduate that can move forward to the master's program. These classes cannot be used for the BS degree requirements; they are taken in excess of BS degree requirements (fall-through courses). For more information, please see https://www.ece.gatech.edu/sites/default/files/documents/grad/current_grad_handbook.pdf. Courses double-counted can only be used in group III - electives requirements. To double count hours, students must graduate with the M.S. degree within two years of completing the B.S. degree."
+    ],
+    "qualifications": {
+        "gpa": "3.5",
+        "minimumCreditHoursAtGeorgiaTech": {
+            "non-transfer-student": 30,
+            "transfer-student": 12 
+        }
+    },
+    "maintainingEligibility": [
+        "Complete the BS degree and then matriculate into the MS program.  Students cannot graduate with a BS and MS at the same time.",
+        "Start the MS program immediately after graduating with their BS degree.  The only exception to this is summer semester.  Students who graduate in the spring are allowed to take summer semester off and start in the fall semester. Summer admission is not available.",
+        "Graduate with the BS degree with a 3.5 GPA or higher.",
+        "Complete their MS degree within two years of graduating with the BS degree."
+    ],
+    "applicationLink": "https://grad.gatech.edu/admissions",
+    "applicationDeadline": {
+        "Atlanta": {
+            "fall": "September 15",
+            "spring": "May 1",
+            "summer": "May 1"
+        },
+        "Shenzhen": {
+            "fall": "September 15",
+            "spring": "May 1",
+            "summer": "May 1"
+        },
+        "Europe": {
+            "fall": "September 15",
+            "spring": "May 1",
+            "summer": "May 1"
+        },
+        "Online": {
+            "fall": "September 15",
+            "spring": "May 1",
+            "summer": "May 1"
+        }
+    }
+
+
+}

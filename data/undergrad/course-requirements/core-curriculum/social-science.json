@@ -1,0 +1,1306 @@
+{
+    "socialScienceCourses": [
+        {
+            "name": "ARCH 3135",
+            "title": "City Literacy",
+            "creditHours": 3
+        },
+        {
+            "name": "ARCH 4107",
+            "title": "Introduction to Historic Preservation",
+            "creditHours": 3
+        },
+        {
+            "name": "ARCH 4137",
+            "title": "Postwar Architecture and Urbanism in the U.S.: Design, Politics & History",
+            "creditHours": 3
+        },
+        {
+            "name": "ARCH 4335",
+            "title": "The Social Practice of Architecture",
+            "creditHours": 3
+        },
+        {
+            "name": "ARCH 4770",
+            "title": "Psychology and Environmental Design",
+            "creditHours": 3
+        },
+        {
+            "name": "CP 4010",
+            "title": "Foundations of Urban and Regional Development",
+            "creditHours": 3
+        },
+        {
+            "name": "CP 4020",
+            "title": "Introduction to Urban and Regional Planning",
+            "creditHours": 3
+        },
+        {
+            "name": "CP 4030",
+            "title": "The City and Its Technology",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 2100",
+            "title": "Economic Analysis and Policy Problems",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 2101",
+            "title": "The Global Economy",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 2105",
+            "title": "Principles of Macroeconomics",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 2106",
+            "title": "Principles of Microeconomics",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 3300",
+            "title": "Economics of International Energy Markets",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 4160",
+            "title": "Economic Forecasting",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 4180",
+            "title": "Game Theory I",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 4232",
+            "title": "Labor Economics",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 4311",
+            "title": "Strategic Economics for Global Enterprise",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 4340",
+            "title": "Economics of Industrial Competition",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 4350",
+            "title": "International Economics",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 4351",
+            "title": "International Financial Economics",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 4355",
+            "title": "Global Financial Economics",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 4357",
+            "title": "Law and Economics of the Global Trading System",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 4411",
+            "title": "Economic Development",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 4415",
+            "title": "Conflict and Security in Developing Countries",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 4421",
+            "title": "Urban and Regional Economics",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 4430",
+            "title": "Economics of Transportation and Communication Systems",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 4440",
+            "title": "Economics of Natural Resources and the Environment",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 4450",
+            "title": "Topics in African American Entrepreneurship",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 4460",
+            "title": "Public Economics",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 4510",
+            "title": "Economics of Health and Health Care",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 4610",
+            "title": "Seminar in Economic Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "ECON 4620",
+            "title": "History of Economic Thought",
+            "creditHours": 3
+        },
+        {
+            "name": "HIST 2111",
+            "title": "The United States to 1877",
+            "creditHours": 3
+        },
+        {
+            "name": "HIST 2112",
+            "title": "The United States since 1877",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 1001",
+            "title": "Introduction to History, Technology, and Society",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 1031",
+            "title": "Europe Since the Renaissance",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 1081",
+            "title": "Engineering in History",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2001",
+            "title": "Early American History",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2002",
+            "title": "The American Revolution and Constitution",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2006",
+            "title": "History of the Old South to 1865",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2007",
+            "title": "History of the New South since 1865",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2011",
+            "title": "The Gilded Age and the Progressive Era",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2013",
+            "title": "Modern America: World War II and After",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2015",
+            "title": "History of Sports in America",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2016",
+            "title": "Social Issues and Public Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2017",
+            "title": "Environmental Sociology",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2018",
+            "title": "Food and Society",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2036",
+            "title": "Revolutionary Europe: 1789-1914",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2037",
+            "title": "Twentieth Century Europe: 1914 to Present",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2040",
+            "title": "History of Islamic Societies",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2041",
+            "title": "History of the Modern Middle East",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2051",
+            "title": "Colonial Latin America and the World",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2052",
+            "title": "North American Borderlands",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2053",
+            "title": "Modern Latin American History",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2061",
+            "title": "Traditional Asia and Its Legacy",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2062",
+            "title": "Asia in the Modern World",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2080",
+            "title": "Introduction to the History of Disease and Medicine",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2081",
+            "title": "The Scientific Revolution",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2082",
+            "title": "Technology and Science in the Industrial Age",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2084",
+            "title": "Technology and Society",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2085",
+            "title": "Reel History I: US History through Hollywood Films",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2100",
+            "title": "Sci, Tech & Modern World",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 2101",
+            "title": "Historical and Social Research",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3001",
+            "title": "American Economic History",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3002",
+            "title": "History of American Business",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3005",
+            "title": "American Environmental History",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3006",
+            "title": "United States Labor History",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3007",
+            "title": "Sociology of Work, Industry, and Occupations",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3008",
+            "title": "Class, Power, and Social Inequality",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3009",
+            "title": "The American Civil War",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3011",
+            "title": "The City in American History",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3007",
+            "title": "Sociology of Work, Industry, and Occupations",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3008",
+            "title": "Class, Power, and Social Inequality",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3009",
+            "title": "The American Civil War",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3011",
+            "title": "The City in American History",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3012",
+            "title": "Urban Sociology",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3015",
+            "title": "History of the Vietnam War",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3017",
+            "title": "Sociology of Gender",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3018",
+            "title": "New Religions and Cults in America",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3019",
+            "title": "The Family, Sexuality, and Social Change in America",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3020",
+            "title": "Gender and Technology",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3021",
+            "title": "Women in Science and Engineering",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3022",
+            "title": "Gender and Sports",
+            "creditHours": 3
+        },
+
+        {
+            "name": "HTS 3024",
+            "title": "African American History to 1865",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3025",
+            "title": "African American History since 1865",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3026",
+            "title": "Sociology of Race and Ethnicity",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3027",
+            "title": "The Civil Rights Movement",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3028",
+            "title": "Ancient Greece: Gods, Heroes, and Ruins",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3029",
+            "title": "Ancient Rome: From Greatness to Ruins",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3031",
+            "title": "European Labor History",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3032",
+            "title": "Modern European Intellectual History",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3033",
+            "title": "Medieval England",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3035",
+            "title": "Britain from 1815-1914",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3036",
+            "title": "Britain Since 1914",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3038",
+            "title": "The French Revolution",
+            "creditHours": 3
+        },
+
+        {
+            "name": "HTS 3041",
+            "title": "Modern Spain",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3043",
+            "title": "Modern Germany",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3045",
+            "title": "Nazi Germany and the Holocaust",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3046",
+            "title": "Science, Politics, and Culture in Nazi Germany",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3048",
+            "title": "Modern Russian History and Society",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3051",
+            "title": "Women and the Politics of Gender in the Middle East",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3061",
+            "title": "Modern China",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3062",
+            "title": "Modern Japan",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3063",
+            "title": "Outposts of Empire: Comparative History of British",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3064",
+            "title": "Sociology of Development",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3065",
+            "title": "History of Global Societies",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3066",
+            "title": "Sociology of Politics and Society",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3068",
+            "title": "Social Movements",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3069",
+            "title": "Modern Cuba",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3070",
+            "title": "Culture and Society",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3071",
+            "title": "Sociology of Crime",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3072",
+            "title": "Sociology of Education",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3073",
+            "title": "Sociology of Sports",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3083",
+            "title": "Technology and the Shaping of American Society",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3084",
+            "title": "Culture and Technology",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3085",
+            "title": "Law, Technology, and Politics",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3086",
+            "title": "Sociology of Medicine and Health",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3087",
+            "title": "History of Medicine",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3088",
+            "title": "Race, Medicine & Science",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3100",
+            "title": "Introduction to Museum Studies",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 3102",
+            "title": "Social Theory and Social Structure",
+            "creditHours": 3
+        },
+        {
+            "name": "HTS 4001",
+            "title": "Seminar in United States History",
+            "creditHours": 4
+        },
+        {
+            "name": "HTS 4011",
+            "title": "Seminar in Sociology",
+            "creditHours": 4
+        },
+        {
+            "name": "HTS 4031",
+            "title": "Seminar in European History",
+            "creditHours": 4
+        },
+        {
+            "name": "HTS 4061",
+            "title": "Seminar in Asian History",
+            "creditHours": 4
+        },
+        {
+            "name": "INTA 1050",
+            "title": "The World Today",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 1110",
+            "title": "Introduction to International Relations",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 1200",
+            "title": "American Government in Comparative Perspective",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 2030",
+            "title": "Ethics in International Affairs",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 2040",
+            "title": "Science, Technology, and International Affairs",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 2042",
+            "title": "Introduction to Global WMD Issues",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 2100",
+            "title": "Theoretical Approaches to Great Power Relations",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 2120",
+            "title": "Introduction to International Security",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 2210",
+            "title": "Comparative Political Philosophies and Ideologies",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 2220",
+            "title": "Government and Politics of Western Europe",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 2221",
+            "title": "Politics of the European Union",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 2230",
+            "title": "Government and Politics of Asia",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 2260",
+            "title": "Government, Politics and Society of the Middle East",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3010",
+            "title": "International Technology Transfer",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3012",
+            "title": "War in the 20th Century",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3020",
+            "title": "Contemporary Mexico",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3031",
+            "title": "Human Rights in a Technological World",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3040",
+            "title": "Energy, Environment, and Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3042",
+            "title": "Energy and International Security",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3043",
+            "title": "Space Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3044",
+            "title": "Global Politics of Technology",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3050",
+            "title": "The Meaning of Global Citizenship",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3101",
+            "title": "International Institutions",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3102",
+            "title": "The Problem of Proliferation",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3103",
+            "title": "The Challenge of Terrorism",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3104",
+            "title": "International Negotiations",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3110",
+            "title": "U.S. Foreign Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3111",
+            "title": "U.S. Defense Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3120",
+            "title": "European Security Issues",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3121",
+            "title": "Foreign Policies of Russia and Eurasia",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3130",
+            "title": "Foreign Policy of China",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3131",
+            "title": "Pacific Security Issues",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3203",
+            "title": "Comparative Politics",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3220",
+            "title": "Government and Politics of Germany",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3221",
+            "title": "Post-Soviet Government and Politics",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3223",
+            "title": "Transatlantic Relations",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3230",
+            "title": "Government and Politics of China",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3231",
+            "title": "Government and Politics of Japan",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3232",
+            "title": "Sustainable Megaregion",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3240",
+            "title": "Government and Politics of Africa",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3241",
+            "title": "Latin American Politics",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3242",
+            "title": "Soccer and Global Politics",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3243",
+            "title": "US - Latin American Relations",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3260",
+            "title": "Middle East Relations",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3301",
+            "title": "International Political Economy",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3303",
+            "title": "Political Economy of Development",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3304",
+            "title": "International Trade and Production",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3321",
+            "title": "Political Economy of European Integration",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3330",
+            "title": "Political Economy of China",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 3331",
+            "title": "Political Economy of Japan",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 4011",
+            "title": "Technology and Military Organization",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 4040",
+            "title": "Environmental Politics",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 4050",
+            "title": "International Affairs and Technology Policy Making",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 4060",
+            "title": "International Law",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 4101",
+            "title": "Politics of the Vietnam War",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 4121",
+            "title": "Seminar in Europe: European Security",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 4230",
+            "title": "Seminar in Europe: European Union",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 4240",
+            "title": "Argentine Politics, History, and Culture",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 4241",
+            "title": "Democracy in the Global South",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 4330",
+            "title": "Chinese Economic Reform",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 4331",
+            "title": "Chinese Politics in Transition",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 4332",
+            "title": "Chinese Institutions and Policy Process",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 4333",
+            "title": "Korean Security Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 4340",
+            "title": "Latin American Regional Economic and Political Integration",
+            "creditHours": 3
+        },
+        {
+            "name": "INTA 4500",
+            "title": "Pro-Seminar in International Affairs",
+            "creditHours": 3
+        },
+        {
+            "name": "POL 1101",
+            "title": "Government of the United States",
+            "creditHours": 3
+        },
+        {
+            "name": "POL 2101",
+            "title": "State and Local Government",
+            "creditHours": 3
+        },
+        {
+            "name": "PSYC 1101",
+            "title": "General Psychology",
+            "creditHours": 3
+        },
+        {
+            "name": "PSYC 2015",
+            "title": "Research Methods",
+            "creditHours": 4
+        },
+        {
+            "name": "PSYC 2103",
+            "title": "Human Development Over the Life Span",
+            "creditHours": 3
+        },
+        {
+            "name": "PSYC 2210",
+            "title": "Social Psychology",
+            "creditHours": 3
+        },
+        {
+            "name": "PSYC 2220",
+            "title": "Industrial/Organizational Psychology",
+            "creditHours": 3
+        },
+        {
+            "name": "PSYC 2230",
+            "title": "Abnormal Psychology",
+            "creditHours": 3
+        },
+        {
+            "name": "PSYC 2240",
+            "title": "Personality Theory",
+            "creditHours": 3
+        },
+        {
+            "name": "PSYC 2250",
+            "title": "Cross-Cultural Psychology",
+            "creditHours": 3
+        },
+        {
+            "name": "PSYC 2270",
+            "title": "Introduction to Engineering Psychology",
+            "creditHours": 3
+        },
+        {
+            "name": "PSYC 2280",
+            "title": "Psychology of Creativity and Art",
+            "creditHours": 3
+        },
+        {
+            "name": "PSYC 2760",
+            "title": "Human Language Processing",
+            "creditHours": 3
+        },
+        {
+            "name": "PSYC 3012",
+            "title": "Introduction to Cognitive Psychology",
+            "creditHours": 3
+        },
+        {
+            "name": "PSYC 3040",
+            "title": "Sensation and Perception",
+            "creditHours": 3
+        },
+        {
+            "name": "PSYC 3041",
+            "title": "Human Sensation and Perception",
+            "creditHours": 4
+        },
+        {
+            "name": "PSYC 4260",
+            "title": "Psychology of Aging",
+            "creditHours": 3
+        },
+        {
+            "name": "PSYC 4770",
+            "title": "Psychology and Environmental Design",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 2010",
+            "title": "Political Processes",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 2012",
+            "title": "Foundations of Public Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 2030",
+            "title": "Organizations and Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 3000",
+            "title": "American Constitutional Issues",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 3016",
+            "title": "Judicial Process",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 3020",
+            "title": "Applied Political Economy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 3030",
+            "title": "Policy Analysis",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 3042",
+            "title": "Data Science for Public Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 3120",
+            "title": "Statistical Analysis for Public Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 3130",
+            "title": "Research Methods and Problem Solving",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 3201",
+            "title": "Introduction to Social Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 3214",
+            "title": "African American Politics",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 3230",
+            "title": "STEM Education Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 3315",
+            "title": "Environmental Policy and Politics",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 3350",
+            "title": "Energy Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 3510",
+            "title": "Politics and Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 3600",
+            "title": "Sustainability, Technology, and Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 3610",
+            "title": "Pre-Law Seminar",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4010",
+            "title": "Policy Task Force I",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4020",
+            "title": "Policy Task Force II",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4111",
+            "title": "Internet and Public Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4120",
+            "title": "Survey Research Methods",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4140",
+            "title": "Foundations of Leadership",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4200",
+            "title": "Social Policy Issues",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4211",
+            "title": "Urban Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 3320",
+            "title": "Climate Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 3510",
+            "title": "Politics and Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 3600",
+            "title": "Sustainability, Technology, and Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 3610",
+            "title": "Pre-Law Seminar",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4010",
+            "title": "Policy Task Force I",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4020",
+            "title": "Policy Task Force II",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4111",
+            "title": "Internet and Public Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4120",
+            "title": "Survey Research Methods",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4140",
+            "title": "Foundations of Leadership",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4200",
+            "title": "Social Policy Issues",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4211",
+            "title": "Urban Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4212",
+            "title": "Women and Public Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4214",
+            "title": "Gender, Science, Technology, and Public Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4226",
+            "title": "Business and Government",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4260",
+            "title": "Economic Development Policy and Planning",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4338",
+            "title": "Environmental Impact Assessment",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4410",
+            "title": "Science, Technology, and Public Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4414",
+            "title": "Technology, Innovation, and Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4416",
+            "title": "Critical Issues in Science and Technology",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4440",
+            "title": "Science, Technology, and Regulation",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4501",
+            "title": "Info Policy & Management",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4514",
+            "title": "Mass Communication Policy",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4600",
+            "title": "Senior Seminar/Thesis",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4609",
+            "title": "Legal Practice",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4640",
+            "title": "Technology Law, Policy, and Management",
+            "creditHours": 3
+        },
+        {
+            "name": "PUBP 4650",
+            "title": "Internet Law",
+            "creditHours": 3
+        },
+        {
+            "name": "SOC 1101",
+            "title": "Introduction to Sociology",
+            "creditHours": 3
+        }
+    ]
+}

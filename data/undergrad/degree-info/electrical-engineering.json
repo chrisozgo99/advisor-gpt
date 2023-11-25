@@ -1,0 +1,754 @@
+{
+    "info": "In addition to required courses for the electrical engineering degree, the program offers the ability to customize studies with curriculum threads. Elective courses for the major are grouped in the following thematic areas. Students can choose to pursue one of these threads or pick electives that span multiple areas.",
+    "programObjectives": [
+        "Be successful and recognized leaders in professional practice in electrical and computer engineering or in related fields.",
+        "Be adaptive-learners and life-long innovators through advanced education/degrees, strategic professional development, and entrepreneurship that focuses on the needs of stakeholders.",
+        "Be problem solvers who consider global, societal, and environmental impact and are prepared to address problems that are beyond conventional technical understanding and knowledge. Graduates will demonstrate technical competence, ethical reasoning, and creativity in identifying, formulating, analyzing, and developing solutions using appropriate techniques, skills, and tools.",
+        "Be team builders, who lead and participate in culturally diverse teams and promote breadth of perspectives in developing, communicating, and executing solutions."
+    ],
+    "designators": [
+        {
+            "name": "Cooperative Plan",
+            "description": "The Georgia Tech Undergraduate Cooperative Education Program allows students to combine classroom study with paid practical work experience directly related to the academic major. Co-ops alternate semesters of on-campus study with semesters of full-time employment, normally beginning the program as freshmen or sophomores. Over 30 percent of ECE undergraduates participate in the co-op program. The degree requirements for students in the co-op program are the same as those for other students in the major. The Cooperative Plan designation may be pursued separately or in combination with the International Plan and/or the Research Option. Begun in 1912, Georgia Tech's program is currently the largest optional co-op program in the United States and has perennially been listed in U.S. News & World Report as one of the top ten co-op programs in America. As an integral part of the overall education experience, the co-op program allows students to take on increasing levels of responsibility and to use their job knowledge and classroom learning to make meaningful contributions to the organizations in which they work. Many co-op graduates are hired by their co-op employer, and more than 700 companies or government organizations throughout the United States and abroad currently employ Georgia Tech Undergrad Co-op Program students. Because the School of ECE in Atlanta offers a wide range of electives and almost all required courses every term, including summer, co-op students have substantial flexibility in completing their degree requirements. Many students continue their co-op work assignments through the senior year. Additionally, co-op students working in the Atlanta area may be able to take certain ECE courses, particularly laboratories offered in the evening, during the work term. In addition to the co-op program, the Center for Career Discovery and Development also offers the Undergraduate Professional Internship and Work Abroad programs. These programs also provide opportunities for students to gain practical work experience, without the long-term commitment of the co-op program."
+        },
+        {
+            "name": "International Plan",
+            "description": "The International Plan is intended for students who seek an intensive international experience integrated into their undergraduate studies in computer engineering. The International Plan develops global competence through a combination of coursework, language study, and residential overseas experience. Students who complete this option receive a designation on their transcript and diploma. The electrical engineering aspects of the BS EE - International Plan degree requirements are identical to those for the regular BS EE. Please refer to the BS EE catalog description for general information about the degree program. Students may be able to satisfy the additional requirements imposed for the International Plan designation through appropriate choices of electives without additional credit hours to complete the degree. The International Plan designation may be pursued separately, or in combination with the Cooperative Plan and/or the Research Option. The School of Electrical and Computer Engineering offers a junior-year program at the Georgia Tech-Europe campus in Metz, France, that is designed to facilitate participation in the International Plan. However, electrical engineering majors are not restricted to this option and may complete any allowable courses, languages, and overseas experiences that satisfy the International Plan requirements."
+        },
+        {
+            "name": "Research Option",
+            "description": "The Research Option is intended for students who seek a concentrated research experience, culminating in an undergraduate thesis, integrated into their undergraduate studies in computer engineering. This option includes three or four semesters of structured research and provides an open evaluation of a student's research capabilities, viewable by the public via a required Web-based research portfolio. Students who complete this option receive a designation on their transcript. The computer engineering aspects of the BS EE-Research Option degree requirements are identical to those for the regular BS EE. Please refer to the BS EE catalog description for general information about the degree program. Students may be able to satisfy the additional requirements imposed for the Research Option designation through appropriate choices of electives without additional credit hours to complete the degree. The Research Option designation may be pursued separately, or in combination with the Cooperative Plan and/or the International Plan. The School of Electrical and Computer Engineering (ECE) offers a two-semester Undergraduate Research Opportunity Program (UROP), which may be completed to provide a less-intensive research experience or as the initial phase of the Research Option. Contact the ECE Academic Office for additional information about the Research Option, including specific Institute and ECE requirements, and assistance in planning your schedule to allow participation in this program."
+        },
+        {
+            "name": "BS/MS Electrical and Computer Engineering",
+            "description": "This program allows highly qualified students to receive the Bachelor of Science in either Electrical Engineering or Computer Engineering and a master's degree in Electrical and Computer Engineering. The joint BS/MS degree program affords undergraduate electrical or computer engineering majors the opportunity to broaden their studies and improve their career prospects. Eligible Georgia Tech undergraduates normally apply for this program during their junior year. Contact the Electrical and Computer Engineering Graduate Affairs Office for program information, eligibility requirements, and applications."
+        },
+        {
+            "name": "Dual BS in Computer Engineering",
+            "description": "Students may pursue the BSEE degree from the Korea Advanced Institute of Science and Technology (KAIST) as they earn the BSEE or BSCmpE from Georgia Tech. KAIST offers one of the top engineering programs in Korea and the Far East. All lectures at KAIST are given in English to better serve a growing number of students from overseas. While earning their dual degrees, students spend two years each at both Georgia Tech and KAIST."
+        }
+    ],
+    "threads": [
+        {
+            "name": "Signal & Information Processing",
+            "info": "The technology we use, and even rely on, in our everyday lives—computers, radios, video, cameras, cell phones, driverless vehicles, drones—is enabled by signal and information processing, a branch of electrical engineering that models and analyzes data representations of physical events. Signal and information processing is at the heart of our modern world, powering today’s entertainment and tomorrow’s technology. It’s at the intersection of biotechnology and social interactions. It enhances our ability to communicate and share information, between humans, between humans and machines, or between machines. Signal and information processing is behind every aspect of our digital lives.Over the past six decades, the types of signals and the functionalities on which this branch of science has focused have broadened to include radar signals, geophysical signals, audio, speech, music, images, videos, 3D graphics, social network data, biomedical data, bio signals, and more. Sensors feed data into a signal and information processing module that interprets the captured data and enables visualization, analysis, manipulation, and control for the SIP engineer. The discipline includes several applications of math and principles of electrical engineering to represent signals and information in ways that are beneficial for the application at hand. In today’s applications, you will find SIP in your mobile phone representing your images and videos via compression and analytics, in autonomous vehicles providing an understanding of the surrounding environment for safe and effective driving experience by machines, in healthcare establishments imaging our bodies and brains, in energy companies, and in every social media platform. Signal and information processing is the core of today’s artificial intelligence (AI) and machine learning, previously known as pattern recognition. Have you shared \"what’s on your mind” with social media friends or video chatted with family today? These are just two of the many ways we use machine learning every day. Machine learning and SIP bring together mathematics, computer science, and statistics to harness predictive power, and provide the technology behind other applications, including detecting credit card fraud, medical diagnostics, stock market analysis, speech recognition, and video understanding.",
+            "potentialCareerPaths": [
+                "Consumer electronic and hardware (Texas Instruments, Intel, IBM, Apple, Samsung, Nvidia etc.)",
+                "Autonomous vehicles (Ford Motor Company, Tesla, GM, BMW, etc.)",
+                "Communications, 5G/6G (AT&T, Verizon, Qualcomm, Broadcom, etc.)",
+                "Energy (Oil & Gas Companies, GE, Siemens, smart grids companies, etc.)",
+                "Social media (Facebook, Twitter, etc.)",
+                "Aviation (SpaceX, JPL, NASA, Boeing, Airbus, etc.)",
+                "Gaming (Sony, Wii, EA Sport, etc.)",
+                "Content delivery and streaming services (Netflix, Hulu, YouTube, Google, etc.)",
+                "Music, sound, and audio (Bose, Apple, JBL, SONY, etc.)",
+                "Defense (DoD, GTRI, Boeing, Lockheed Martin, etc.)",
+                "Government labs (USGS, FCC, NIST, NOAA and NWS, plus DoD and other classified national security work)",
+                "Robotics and medical robotics (Boston Dynamics, iRobot, Raytheon, Amazon Robotics, Accuray)",
+                "Smart cities (Several companies in the metro Atlanta area and across the nation)",
+                "Remote sensing (Several companies)"
+            ],
+            "requiredCourses": [
+                {
+                    "cc": "ECE 2026",
+                    "name": "Intro Signal Processing (part of EE common core; must be added for CmpE)",
+                    "hours": "3"
+                }
+            ],
+            "threadSpecificTopics": [
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 4270",
+                            "name": "Fundamentals of DSP",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4252",
+                            "name": "Fundamentals of Machine Learning",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 3251",
+                            "name": "Optimization for Information Systems",
+                            "hours": "3"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 2,
+                    "courses": [
+                        {
+                            "cc": "ECE 3084",
+                            "name": "Signals and Systems",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4271",
+                            "name": "Applications of DSP",
+                            "hours": "4"
+                        },
+                        {
+                            "cc": "ECE 4260",
+                            "name": "Random Signals and Applications ",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4273",
+                            "name": "Design Synthesis of Application Specific Signal Processors ",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4122",
+                            "name": "Advanced Programming Techniques for Engineering Applications",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4783",
+                            "name": "Introduction to Medical Image Processing",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4258",
+                            "name": "Digital Image Processing",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4270",
+                            "name": "Fundamentals of DSP",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4252",
+                            "name": "Fundamentals of Machine Learning",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 3251",
+                            "name": "Optimization for Information Systems",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4180",
+                            "name": "Embedded Systems Design",
+                            "hours": "4"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 3000/4000 Elective",
+                            "hours": "3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Robotics and Autonomous Systems",
+            "info": "Physical systems may be engineered to operate automatically. Examples from our daily lives include: temperature control systems in homes; elevator control systems at work; and automotive control systems such as traction control, braking control, adaptive cruise control, and lane keeping control. All these systems combine sensing, computation, and actuation in feedback loops to achieve stable behavior and provide high performance. The Robotics and Autonomous Systems thread prepares students to apply this basic concept in diverse areas—such as space, air and ground vehicles, and robots of various types—to safely automate tasks, or work in hazardous and hostile environments, without human input.",
+            "potentialCareerPaths": [
+                "Industrial robots (Amazon Robotics, Boston Dynamics, KUKA, Yaskawa, FANUC, Universal)",
+                "Medical robots (Intuitive Surgical, Stryker, Accuray, Medtronic)",
+                "Assistive robots (Kinova, Ekso Bionics, iRobot)",
+                "Autonomous vehicles (Tesla, GM, Ford, Chrysler, Waymo, Argo AI, Aptiv)",
+                "Automation (Siemens, ABB, Emerson, Rockwell, Honeywell, Schneider Electric, Omron)",
+                "Aerospace industry (SpaceX, NASA, Aerospace Corp, Boeing, Airbus, General Electric)",
+                "Defense industry (Lockheed Martin, Raytheon, Northrop Grumman, General Dynamics)",
+                "Microcontroller industry (Texas Instruments, NXP, Renesas, Microchip, Infineon)",
+                "Research labs (SWRI, GTRI, Battelle, SRI, MIT Lincoln Lab, NASA, DoE National Labs)"
+            ],
+            "requiredCourses": [
+                {
+                    "cc": "ECE 2026",
+                    "name": "Intro Signal Processing (part of EE common core; must be added for CmpE)",
+                    "hours": "3"
+                }
+            ],
+            "threadSpecificTopics": [
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 3550",
+                            "name": "Feedback Control Systems",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4550",
+                            "name": "Control System Design",
+                            "hours": "4"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 3084",
+                            "name": "Signals and Systems",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 3251",
+                            "name": "Optimization for Information Systems",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4252",
+                            "name": "Fundamentals of Machine Learning",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4560",
+                            "name": "Intro Automation&Robotic",
+                            "hours": "4"
+                        },
+                        {
+                            "cc": "ECE 4580",
+                            "name": "Computer Vision",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4570",
+                            "name": "Modern System Theory",
+                            "hours": "4"
+                        },
+                        {
+                            "cc": "ECE 4575",
+                            "name": "Numerical Methods of Optimization",
+                            "hours": "3"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 3000/4000 Elective",
+                            "hours": "3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bioengineering",
+            "info": "The recent events in the US and across the world have again highlighted the critical role of technology in addressing major societal problems in health. Learning about the intersection between engineering and health can help you create the next generation of diagnostic devices for viral infections, design inexpensive physiological monitoring tools to broaden healthcare accessibility in medically underserved populations, implement digital health approaches for deriving disease biomarkers from patients without the need for expensive lab tests or physician visits, conceive machine learning algorithms for deriving clinically-relevant information from large amounts of health data, and address many other exciting and topical problems. This thread explores the intersection between electrical and computer engineering (ECE) and health/biosciences to equip you with what you need to succeed in a bioengineering career.",
+            "potentialCareerPaths": [
+                "Medical device industry (Medtronic, Abbott, Johnson & Johnson, GE Healthcare, etc.)",
+                "Consumer electronics companies with interests in health (Apple, Microsoft, Samsung, Google, etc.)",
+                "Medical instrumentation companies (Welch Allyn/Hill-Rom, Philips, Masimo, etc.)",
+                "Wearable tech companies (FitBit, Nike, Garmin, etc.)",
+                "AI for health companies (Google Health, IBM Watson, etc.)",
+                "Digital health (huge number of smaller companies and start-ups in this area)",
+                "Bioelectronic Medicine/Neuromodulation companies (GSK, Boston Scientific, Abbott, Medtronic, Cyberonics, Nevro, etc.)",
+                "Government labs and other research institutes (DoD, GTRI, SRI, Lincoln Labs, etc.)"
+            ],
+            "threadSpecificTopics": [
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE4781",
+                            "name": "Biomedical Instrumentation",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE4784",
+                            "name": "Engineering Electrophysiology",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE4782",
+                            "name": "Biosystems Analysis",
+                            "hours": "3"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 2,
+                    "courses": [
+                        {
+                            "cc": "ECE3084",
+                            "name": "Signals and Systems",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE4781",
+                            "name": "Biomedical Instrumentation",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE4784",
+                            "name": "Engineering Electrophysiology",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE4782",
+                            "name": "Biosystems Analysis",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE4350",
+                            "name": "Emag applications",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE4435",
+                            "name": "Operational Amplifier Design",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE4370",
+                            "name": "Antenna Engineering",
+                            "hours": "3"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 3000/4000 Elective",
+                            "hours": "3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Telecommunications",
+            "requiredCourses": [
+                {
+                    "cc": "ECE 2026",
+                    "name": "Intro Signal Processing (part of EE common core; must be added for CmpE)",
+                    "hours": "3"
+                }
+            ],
+            "threadSpecificTopics": [
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 3600",
+                            "name": "Computer Communications",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "CS 3251",
+                            "name": "Computer Networking",
+                            "hours": "3"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 4601",
+                            "name": "Communication Systems ",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4606",
+                            "name": "Wireless Communications",
+                            "hours": "3"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 3084",
+                            "name": "Signals and Systems",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4350",
+                            "name": "Electromagnetic & Microwave Applications ",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4370",
+                            "name": "Antenna Engineering ",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4500",
+                            "name": "Optical Engineering ",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4601",
+                            "name": "Communication Systems",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4606",
+                            "name": "Wireless Communications",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4607",
+                            "name": "Mobile and Wireless Networks",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4502",
+                            "name": "Fiber Optic Communications",
+                            "hours": "4"
+                        },
+                        {
+                            "cc": "ECE 4612",
+                            "name": "Telecommunications Lab",
+                            "hours": "1"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 3000/4000 Elective",
+                            "hours": "3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sensing & Exploration",
+            "info": "We naturally develop an incredible ability to sense our surroundings and then communicate via those senses. We ask our engineering tools to do the same, and the Sensing and Exploration thread is all about making that happen. How do radars detect raindrops 100 miles away and distinguish them from snow or a flock of birds? How do we still receive messages from a satellite that has escaped the solar system? How are driverless cars and robots able to “see” their surroundings? What can medical sensors observe about the state of a person? How do we navigate known spaces and explore new spaces with these sensors? This thread explores the intellectual challenges that underlie this critical engineering need.",
+            "potentialCareerPaths": [
+                "The space industry (SpaceX, JPL, NASA, etc.)",
+                "Sensor development for driverless cars (Waymo, Uber, etc.)",
+                "5G and 6G development (Verizon, Qualcomm, etc.)",
+                "Government labs (USGS, FCC, NIST, NOAA, and NWS, plus DoD and other classified national security work)",
+                "Robotics including medical robotics (Boston Dynamics, iRobot, Raytheon, Amazon Robotics, Accuray)",
+                "Energy sector (Geophysical prospecting, SmartGrid sensing)",
+                "Smart cities (Huge number of smaller companies in this area)",
+                "Scientific remote sensing (Woods Hole, Oceaneering, many environmental monitoring companies)",
+                "Satellite sensing and imagery (DigitalGlobe, for example, but many others)",
+                "Drone and aircraft development (Boeing, for example, but many others)"
+            ],
+            "requiredCourses": [
+                {
+                    "cc": "ECE4390",
+                    "name": "Introduction to Radars and Remote Sensing & Exploration",
+                    "hours": "3"
+                }
+            ],
+            "threadSpecificTopics": [
+                {
+                    "numberOfCoursesRequired": 2,
+                    "courses": [
+                        {
+                            "cc": "ECE 3084",
+                            "name": "Signals and Systems",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4260",
+                            "name": "Random Signals and Applications",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4350",
+                            "name": "Emag applications",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4360",
+                            "name": "RF Microwave Measurement Lab",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4370",
+                            "name": "Antenna Engineering",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4371 Antenna Engineering Lab",
+                            "hours": "1"
+                        },
+                        {
+                            "cc": "ECE 4580",
+                            "name": "Computer Vision",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4445 Audio Engineering",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4446 Audio Engineering Lab",
+                            "hours": "1"
+                        },
+                        {
+                            "cc": "ECE 4781",
+                            "name": "Biomedical Instrumentation",
+                            "hours": "3"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 3000/4000 Elective",
+                            "hours": "3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Electric Energy Systems",
+            "info": "Access to clean, reliable, and inexpensive electrical power is key for achieving an economically competitive, environmentally sustainable, and healthier society. Our daily lives depend on electricity more than ever before. Advancements in the production, distribution, and use of electrical power and energy are required to enable decarbonization and electrification of the transportation and industrial sectors, and digitalization of our economy. Parallel developments in information and digital control technologies enable the complex operations of the resulting smart grid in a cyber-secure environment. This thread explores power systems and markets, smart grids, power electronics, electric machines, dielectric materials, end use technologies, and secure protection and control approaches to creatively contribute to the transformation of the electric energy sector and enable career paths in the areas outlined below.",
+            "potentialCareerPaths": [
+                "Electric power sector - Independent Systems Operators, utilities, contractors (B&V, Power Engineers, etc.), manufacturers (GE, ABB, SEL, Siemens, etc.).",
+                "Integration of solar, wind, energy storage, microgrids, and distributed generation into the power grid (Sunrun, Vestas, Tesla).",
+                "Electric cars and trucks (Tesla, General Motors, Ford, many newcomers).",
+                "Electric airplanes (Airbus, Boeing, Uber).",
+                "Electric ships (US Navy and shipbuilding industry, cruise industry, cargo).",
+                "Electric trains (Bombardier, Siemens).",
+                "Smart energy and smart cities (Large number of smaller companies in this area).",
+                "Robotics and mobile technology (Boston Dynamics, iRobot, Raytheon, Amazon Robotics).",
+                "Defense and space industry (Boeing, Lockheed-Martin, SpaceX, Raytheon, Rolls-Royce, Airbus).",
+                "Power systems for data centers and IT (Microsoft, Google, Amazon, Facebook).",
+                "Energy access for off-grid communities and emerging markets.",
+                "Computer aided manufacturing (many, many companies of every size).",
+                "Electrical equipment industry (Rockwell Automation, General Electric, Siemens, Schneider Electric)."
+            ],
+            "requiredCourses": [
+                {
+                    "cc": "ECE 3072",
+                    "name": "Electrical Energy Systems",
+                    "hours": "3"
+                },
+                {
+                    "cc": "ECE 3300",
+                    "name": "Electromechanical and Electromagnetic Energy Conversion",
+                    "hours": "3"
+                }
+            ],
+            "threadSpecificTopics": [
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 4320",
+                            "name": "Power System Analysis and Control",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4321",
+                            "name": "Power System Engineering",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4325",
+                            "name": "Electric Power Quality",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4330",
+                            "name": "Power Electronics",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4335",
+                            "name": "Electric Machinery Analysis",
+                            "hours": "3"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 3000/4000 Elective",
+                            "hours": "3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Electronic & Optoelectronic Devices",
+            "info": "In the hierarchy of electronics and optoelectronics, spanning from devices to systems, functional stand-alone collections of circuits are known as systems. Thus, devices are the smallest and most fundamental element of this hierarchy. Device design is the most basic element and skill needed in the optoelectronics/electronics industry and as the devices most often limit performance such as speed, power efficiency, or behavior, knowledge of device design and manufacture is critically sought by industry. Systems are analogous to the human body. The circuits are analogous to the heart and the devices analogous to the heart muscle cells, i.e. the core building block of the entire system/body. But unlike the human body, we have control of the design of the device allowing it to be made faster, more power efficient, or even the ability to create new devices with new behaviors. The Electronic & Optical Devices thread prepares you for a career designing and manufacturing nano-scale devices that for example, are used in complex circuitry to perform some desired function such as computation, sensing, control, communications, and amplification, among countless other functions.Unlike other threads that focus exclusively on one functionality using pre-made device “components” outside your control, this thread provides detailed understanding of device operational principles, design methods, and methods and limitations in manufacturing these devices that allow you to understand how to make new or improve on existing devices. As all circuits use optoelectronic/electronics devices, it is broadly applicable and marketable.",
+            "potentialCareerPaths": [
+                "Computer chip design (Intel, AMD, HP, IBM, Apple, TSMC, etc.)",
+                "Solar power (First Solar, Sun Power, etc.)",
+                "Aerospace, drone and aircraft development (SpaceX, JPL, NASA, Boeing, etc.)",
+                "Power electronics industries  (Seimens, International Rectifier, Vishay Intertechnology (Siliconix), Infineon Technologies, Fairchild Semiconductor, STMicroelectronics, Texas Instruments, Linear Technology, Motorola, Microchip Technology, Philips Semiconductors, Toshiba, Maxim Integrated Products, Dallas Semiconductor, National Semiconductor, Power Integrations, IXYS, Microsemi, etc.)",
+                "Consumer optoelectronics (Sharp, Osram, Texas Instruments, Philips, Cree, SSC, Lumileds, Vishay, Samsung, Sony, FOSP Optoelectronics, Autoliv, Avago, Foryard Optoelectronics, OSI Optoelectronics)",
+                "Communications optoelectronics (Teledyn, Broadcom, Boston Electronics, Hamamatsu, Osram, OSI Optoelectronics Inc, Excelitas Technologies, TT Electronics, Vishay, ON Semiconductor, Trumpf, Opto Diode Corporation, Viavi Solutions and Lumentum Holdings)",
+                "5G and 6G development (Verizon, Qualcomm, etc.)",
+                "Government labs (USGS, FCC, NIST, NOAA, and NWS, plus DoD and other classified national security work)"
+            ],
+            "requiredCourses": [
+                {
+                    "cc": "ECE 3450",
+                    "name": "Semiconductor Devices",
+                    "hours": "3"
+                },
+                {
+                    "cc": "ECE 4452",
+                    "name": "Integrated Circuit Fabrication",
+                    "hours": "3"
+                }
+            ],
+            "threadSpecificTopics": [
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE4350",
+                            "name": "Electromagnetic and Microwave Applications",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4470",
+                            "name": "Devices in Renewable Energy",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4500",
+                            "name": "Optical Engineering",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE4751",
+                            "name": "Laser Theory and Applications",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE4460",
+                            "name": "Introduction to Electronic Systems Packaging",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE4754",
+                            "name": "Electronics Packaging Assembly, Reliability, Thermal Mgt, and Test",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE4755",
+                            "name": "Electronic Packaging Substrate Fabrication",
+                            "hours": "3"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 3000/4000 Elective",
+                            "hours": "3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Circuit Technology",
+            "info": "In the hierarchy of electronics, spanning from devices to systems, functional stand-alone collections of circuits are known as systems. Thus, circuit design is the core element and skill needed to take individual electronic devices (elements that do some rudimentary function on current and voltage) and supply functionality to create systems. Systems are analogous to the human body. The circuits are analogous to the heart and the devices analogous to the heart muscle cells, i.e. the core building block of the entire system/body. But unlike the human body, we have control over how these devices are arranged and interact via circuit design, creating new functionality or improving on prior performance. The Circuits Technology thread prepares you for a career designing and manufacturing both nano-scale (small circuits written collectively onto a tiny “chip”) and component level (typically large pre-packaged devices soldered together on a board) complex circuitry to perform some desired function such as computation, sensing, control, communications, and amplification, among countless other functions. Unlike other threads that focus exclusively on one electronics functionality, this thread provides the detailed understanding of design and circuit operation applicable to a wide range of applications.  It is the most broadly applicable and marketable of all the circuit application threads.",
+            "potentialCareerPaths": [
+                "Computer chip design (Intel, AMD, HP, IBM, Apple, etc.)",
+                "Power electronics industries  (Seimens, International Rectifier, Vishay Intertechnology (Siliconix), Infineon Technologies, Fairchild Semiconductor, STMicroelectronics, Texas Instruments, Linear Technology, Motorola, Microchip Technology, Philips Semiconductors, Toshiba, Maxim Integrated Products, Dallas Semiconductor, National Semiconductor, Power Integrations, IXYS, Microsemi, etc.)",
+                "Aerospace, drone and aircraft development (SpaceX, JPL. NASA, Boeing, for example, but many others)",
+                "Automotive industry including power, control, and convenience development for driverless cars (GM, Ford, Chrysler, Tesla, Waymo, Uber, etc.)",
+                "Industrial machinery and factory automation",
+                "5G and 6G development (Verizon, Qualcomm, etc.)",
+                "Government labs (USGS, FCC, NIST, NOAA, and NWS, plus DoD and other classified national security work)",
+                "Robotics including medical robotics (Boston Dynamics, iRobot, Raytheon, Amazon Robotics, Accuray)",
+                "Energy sector (Geophysical prospecting, SmartGrid sensing)",
+                "Smart cities (Huge number of smaller companies in this area)"
+            ],
+            "requiredCourses": [
+                {
+                    "cc": "ECE 3400",
+                    "name": "Analog Electronics",
+                    "hours": "3"
+                },
+                {
+                    "cc": "ECE 4452",
+                    "name": "Integrated Circuit Fabrication",
+                    "hours": "3"
+                }
+            ],
+            "threadSpecificTopics": [
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 4043",
+                            "name": "Analog Electronics Lab",
+                            "hours": "2"
+                        },
+                        {
+                            "cc": "ECE 4415",
+                            "name": "RF Engineering I",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4420",
+                            "name": "Digital Integrated Circuits",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4430",
+                            "name": "Analog Integrated Circuits",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4435",
+                            "name": "Operational Amplifier Design",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4445",
+                            "name": "Audio Engineering",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4446",
+                            "name": "Audio Engineering Lab",
+                            "hours": "1"
+                        },
+                        {
+                            "cc": "ECE 4502",
+                            "name": "Optical Fiber Communications",
+                            "hours": "4"
+                        },
+                        {
+                            "cc": "ECE 4370",
+                            "name": "Antenna Engineering",
+                            "hours": "3"
+                        },
+                        {
+                            "cc": "ECE 4391",
+                            "name": "Electromagnetic Compatibility",
+                            "hours": "3"
+                        }
+                    ]
+                },
+                {
+                    "numberOfCoursesRequired": 1,
+                    "courses": [
+                        {
+                            "cc": "ECE 3000/4000 Elective",
+                            "hours": "3"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
