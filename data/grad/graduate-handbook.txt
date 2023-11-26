@@ -1,0 +1,979 @@
+2023
+–
+2024
+ECE
+GRADUATE
+HANDBOOK
+SCHOOL OF ELECTRICAL AND COMPUTER
+ENGINEERING
+GEORGIA INSTITUTE of TECHNOLOGY A Unit of the University System of Georgia Atlanta, Georgia USA 30332-0250
+(404) 894-2983
+E-mail:
+https://ece.gatech.edu/form/contact-graduate-affairs-office The
+ECE Graduate Handbook can be accessed online at http://www.ece.gatech.edu/academics/graduate/internal/graduate/current_grad_handbook.pdf Some of the information included in this handbook is derived from the Georgia Institute of Technology General Catalog, which can be accessed at http://www.catalog.gatech.edu Individuals with disabilities, who wish to acquire this publication in an alternate format, should contact the Graduate Affairs Office of the School of Electrical and Computer Engineering at (404) 894-2900 or a
+t
+https://ece.gatech.edu/form/contact-graduate-affairs-office .
+Revised July 2023
+
+INTRODUCTION
+Purpose of this Handbook The administrative and academic units of Georgia Institute of Technology endeavor to provide policy and procedural information as well as the personal guidance needed by students to successfully complete degree programs at Tech. The ECE Graduate Handbook provides information about ECE’s graduate degree programs as well as the policies and procedures of the School. Its purpose is to familiarize ECE graduate students with degree program requirements, policies, procedures, and the resources available to students through the ECE Graduate Affairs Office and other Georgia Tech administrative offices. This manual is not intended to be an exhaustive set of rules. The policies and procedures of the Board of Regents of the University System of Georgia, as well as those issued by the central administration of the Georgia Institute of Technology, supersede the information contained in this document. It is the responsibility of each student to know and understand the information in this manual and the Georgia Institute of Technology general catalog. The administrative staffs of the ECE Graduate Affairs Office, the Georgia Tech Registrar's Office and the Graduate Education office are additional sources of information regarding departmental, institute and university system policies and regulations. The Georgia Institute of Technology General Catalog is a web-based document, located at: http://www.catalog.gatech.edu/rules/ All ECE graduate students are expected to know and understand the information provided in the General Catalog, paying specific attention to the “Graduate Academics” (https://catalog.gatech.edu/academics/graduate/) and “Rules and Regulations” (http://www.catalog.gatech.edu/policies/) sections for valuable procedural and policy information.
+A Welcome from the Chair Georgia Tech School of Electrical and Computer Engineering On behalf of the School of Electrical and Computer Engineering (ECE) at Georgia Tech, I would like to welcome you to one of the best ECE programs in the nation. Your admission to the school means that you belong to an elite group and there is no question that you have the capability and potential to succeed here at Georgia Tech and in your subsequent professional career. It is the goal of the School's faculty and staff to help you be successful in your studies, and ultimately to assist you in realizing your potential. Georgia Tech's School of ECE is one of the nation's leading producers of electrical engineering and computer engineering graduates. Because of our size, we can offer an unmatched richness and diversity of educational experiences. The School offers courses and programs across the breadth and spectrum of both electrical engineering and computer engineering and our curricula are specifically designed to enable you to tailor your programs to suit your individual needs and interests by selecting appropriate electives, both from ECE course offerings and from courses available from other units of Georgia Tech. Your program of studies will provide you with technical preparation for a professional career. Equally important is the matter of professional ethics, which is implicitly and explicitly woven throughout your program of studies. Our Faculty Credo and our Student Honor Code are presented on the following pages. It is essential that you understand, fully endorse, and commit to the ethical practice of your profession. We are delighted that you have chosen to join us in the School of Electrical and Computer Engineering and we are deeply committed to making sure that you will continue to regard that as a wise choice during your tenure at Georgia Tech and beyond. Dr. Arijit Raychowdhury Professor and Steve W. Chaddick School Chair School of Electrical and Computer Engineering, Georgia Institute of Technology 6
+Honor Code Georgia Tech School of Electrical and Computer Engineering It is expected that all students in the Georgia Tech School of Electrical and Computer Engineering will maintain the high degree of professionalism held standards for all engineers. We, as engineers, always expect academic honesty and integrity from ourselves. Students shall conduct themselves in a professional manner as described in, but not limited to, the list below, taken from the IEEE (Institute of Electrical and Electronics Engineers) Code of Ethics and the
+Georgia Tech Student Conduct Code. 
+1. Accept responsibility for your actions.
+2. Respect and treat your instructors and fellow students fairly regardless of personal characteristics.
+3. Engage in no acts of cheating, as defined by each instructor.
+4. BE HONEST:
+(a) Never lie to or mislead an instructor.
+(b) Never use improperly acquired information.
+(c) Never collaborate with others in an unauthorized manner.
+(d) Never misuse data.
+(e) Never plagiarize.
+(f) Never engage in unethical conduct in general.
+
+The Student Advisory Board of the School of Electrical and Computer Engineering generated this Honor Code in October 1992. In order for any Honor Code to be successful, the EE/CmpE Student Advisory Board feels that the following must be accomplished:
+(1) Require each professor to clearly define cheating for each class. Whatever standards a given professor sets should be handed out in writing to each student at the beginning of each term along with the course syllabus. Instructors in the School of Electrical and Computer Engineering are expected to provide access to old quizzes and examinations so that students may use them as a study resource.
+(2) Clearly define and adhere to punishment for anyone caught cheating.
+
+IMPORANT - This Honor Code is subject to the provisions of the Institute Honor Code, which became effective in October 1996.
+Faculty Credo Georgia Tech School of Electrical and Computer Engineering
+
+UNITY OF PURPOSE
+Our purpose is to provide students at all degree levels with the highest quality preparation for successful professional careers, and, through dedicated scholarship, to advance our profession. We will contribute to the expansion and responsible application of knowledge to the benefit of society. Our relentless pursuit of these goals will fulfill our vision of a Georgia Tech preeminent in information and telecommunications systems, energy, and automation systems, and in the underlying enabling technologies. DIVERSITY OF FUNCTION
+We recognize and embrace the technical diversity of our profession. We seek to enhance this diversity by active engagement with relevant associated Georgia Tech and external professional activities. We will encourage cultural diversity within the ranks of the profession by being a leader in the education of minority and women electrical and computer engineers, students attracted and taught by a faculty equally rich in role models. PROFESSIONALISM OF METHOD
+We participate in the noblest aspect of a noble profession. We will honor that profession by example, instilling in our students by our own conduct the highest standards of professional behavior. 8
+
+ACADEMIC ADVISEMENT
+The Graduate Affairs Office
+With approximately 1,400 undergraduate and 1,200 graduate students, the School of Electrical and Computer Engineering is one of the largest EE/CmpE programs in the USA. Because of the large numbers of both students and faculty, we have established certain policies and procedures in order to operate efficiently. Students should consult this manual and the ECE Graduate Affairs Office staff for policy, procedure, and advisement information. Guidance provided by fellow students may not be the most up to date and may be unreliable. For graduate students, the primary contact with the administration of the School will be through the Graduate Affairs Office, which is in Room W-208 of the Van Leer (ECE) Building.
+. The Graduate Affairs Office is administered by the Associate Chair for Graduate Affairs, Professor Matthieu Bloch. The staff in the office consists of Mr. Christian Gaille, Mrs. Olivia Kulisz, Ms. Katrina Patton, Dr. Daniela Staiculescu, and Ms. Tasha Torrence. The primary functions of the ECE Graduate Affairs Office are:
+• Process and make recommendations to the Graduate Admissions Office of the Institute on all applications for admission to the graduate program.
+• Process and make recommendations to the ECE school chair on all applications for financial assistance in support of graduate programs.
+• Initiate and maintain a file on each incoming graduate student.
+• Coordinate the assignment of examination and reading committees for thesis and dissertation activity.
+• Receive, process, and validate all petitions and applications for graduate degrees.
+• Process information on graduate assistantships and monitor eligibility for tuition waivers.
+• Prepare draft requests for student (F and J) visas; assure compliance with Bureau of Citizenship and Immigration (BCIS) and SEVIS rules and regulations.
+• Provide academic advisement and guidance to ECE graduate students. • Make teaching assistantship assignments.
+• Issue registration permits for ECE graduate level classes. The preferred way to contact the ECE Graduate Affairs Office is through the “Contact Us” website at https://www.ece.gatech.edu/contact-graduate-office-current-students 
+
+. Our office number is 404-894- 2983, and our fax number is 404-894-3047.
+
+The ECE Graduate Affairs Office provides academic advisement to ECE students in a variety of ways:
+Daily Advisement Hours
+• Students desiring one-to-one advisement are welcome to visit the ECE Graduate Affairs Office.
+• The office staff is available from 9:30 a.m. to 12:00 noon and 1:30 p.m. to 4:00 p.m. on Monday through Friday.
+• The Academic Office holds advising sessions both in person and virtually. Specifics on each team member’s schedule and appointments are communicated by email.
+• All staff members may not be available during the posted office hours.
+• Students wishing to meet with the Associate Chair for Graduate Affairs must make an appointment. An appointment request should be made at the front desk in Van Leer W208.
+• Suggesting dates and times when you could be available for a meeting could speed up the process.
+
+New Students
+• New, on-campus ECE graduate students are required to complete an orientation program prior to the start of classes.
+• The Academic Office holds virtual orientation sessions for the new Online MS students each fall and spring semester. Online MS residing in the Atlanta area are welcome to attend the on- campus orientation when available.
+• Students admitted into the Georgia Tech – Europe or Georgia Tech – Shenzhen program participate in the advisement program on their campus.
+
+Continuing Students
+• Advisement for continuing students is provided prior to the first phase of registration each term. Advisors are available during the hours listed above for any students needing assistance.
+
+Web-based Materials
+• The ECE website (www.ece.gatech.edu) serves as a means by which students may obtain information about graduate degree requirements, policies, and procedures.
+• All electronic forms for both faculty and students are all available on the forms resource page https://www.ece.gatech.edu/current-students/graduate/forms.
+• Degree program information, frequently used forms, handbooks, are all available on the Student Resources page of the ECE website (https://www.ece.gatech.edu/current-students/graduate).
+
+Email Communication
+• At both the administrative and the academic levels, email is the official means of communication with Georgia Tech students. The list grads@ece.gatech.edu includes the email addresses of all enrolled ECE graduate students. This list is updated after the close of registration each term and is used to send information related to academic issues - policies, procedures, registration, or deadlines, etc. - to the entire ECE graduate student body.
+• If you are interested in announcements on jobs, news, assistantship positions, teaching opportunities, internships, and seminars, please subscribe to the email list news_grads. To subscribe to this list, do as follows: o From your GT email (any others will be rejected), send a message to sympa@lists.gatech.edu.
+    o In the subject line of your email, type in subscribe news_grads.
+    o Leave the message body blank.
+
+Faculty Advisors
+• Faculty (or research) advisors are not required for students pursuing a non-thesis master's degree.
+• Ph.D. students and M.S. students choosing the thesis option must have research advisors and are expected to select an advisor early in their degree program.
+• Students selecting advisors outside of ECE must have a co-advisor who is ECE faculty. Ph.D. Research Advisor
+• Ph.D. students are expected to select an advisor by the end of the term in which they pass the Ph.D. Coursework Qualifier.
+• The advisor selection form is available online at https://www.ece.gatech.edu/current-students/graduate/forms. This form should be submitted as soon as the advisor selection is confirmed.
+• Students in the process of choosing an advisor may use the ECE website (http://www.ece.gatech.edu/research) for up-to-date information on faculty research interests.
+• Open research positions listed by ECE faculty can be found at https://researchopportunities.ece.gatech.edu/research-positions.
+
+M.S. Thesis Advisors
+• M.S. thesis option students should select a research advisor during their first term and no later than the end of registration for their second term in residence.
+• The ECE Graduate Affairs Office is informed of the advisor selection by the submission of the signed “Select M.S. Thesis Advisor” form. This form is available through our website at: https://www.ece.gatech.edu/current-students/graduate/forms.
+• Only after the submission of the form can the student register for ECE 7000 (M.S. Thesis Research) under the selected advisor. Changing Advisors
+• Circumstances may arise which make it necessary for a student pursuing the Ph.D. or M.S. thesis option degree to change advisors. The decision to change advisors is not to be made lightly. Students considering a change of advisor are urged to meet with the Associate Chair for Graduate Affairs for guidance before making a change. It is important that all involved (student, current advisor, and new advisor) are aware of the situation and that a mutually acceptable resolution results from the change of advisor.
+• Students are expected to make satisfactory progress in completing their chosen degree program. A single change of advisor, where warranted, is understandable. Multiple advisor changes are viewed as an indication of poor degree completion progress and may have a negative impact on the student’s funding and future academic status.
+
+REGISTRATION
+Registration Structure New Student Information Sessions 
+• Prior to the start of each term, ECE holds general advisement sessions for students entering our graduate program. The specific dates and times of these sessions are announced to new students approximately four weeks before the term starts. Attendance at the advisement sessions is mandatory, even for recent bachelor's degree graduates of Georgia Tech.
+• Other Georgia Tech entities may also provide orientation/advisement sessions. Students are expected to be aware of these programs and to participate in those that apply to them.
+• ECE makes every effort to schedule our advisement program so that it does not interfere with other sessions that ECE students may be required to attend. Web-based Registration
+• Registration for classes takes place on-line through the Georgia Tech's OSCAR (" On-line Student Computer Assisted Registration") system at https://oscar.gatech.edu/.
+• The Registrar’s Office staff is available to handle questions regarding registration from 9:30 a.m. to 3:30 p.m. Monday through Friday during registration periods.
+• Registration-related questions may be sent to comments@registrar.gatech.edu or filed through the registrar’s “Contact Us” site at: http://www.registrar.gatech.edu/contact.php.
+• Additional registration assistance and/or information may be found at www.registrar.gatech.edu under the “Registration” or “Student” tabs. Registration at Georgia Tech is divided into two phases: Phase I Registration Phase I is for continuing students and internship students at work.
+• Specific dates for this phase of registration are available on the OSCAR System and through the Registrar’s website (http://www.registrar.gatech.edu).
+• Current graduate students, especially those holding graduate research or teaching assistantships, are expected to register during Phase I.
+• To provide maximum access to ECE graduate classes for our students, all ECE graduate level classes are restricted to ECE majors through the first phase of registration.
+    o Major restrictions are lifted after all ECE students have had a chance to register.
+    o Failure to register during Phase I can limit access to popular ECE classes.
+    o Registering during Phase I enables the ECE administration to assess expected enrollments. Classes may be cancelled due to low enrollment in Phase I registration enrollment. 
+
+Phase II, Registration/Schedule Changes
+• Newly admitted students, readmitted students, and continuing students who need to make schedule adjustments register during Phase II.
+• Specific dates for this phase of registration are available on the OSCAR System and through the Registrar’s website (http://www.registrar.gatech.edu).
+• This registration period runs through Friday of the first week of classes for the term.
+• All students are required to pay their tuition and fees no later than the Monday after registration is closed. Failure to do so will result in a late fee being added to the assessment for the term.
+• Students who were not able to finalize their schedule during Phases I must do so during Phase II.
+• Phase II is the last chance students have to add courses to their schedules or to change hours on variable hour classes (for example: ECE 8999, 7000, 8900, 9000).
+• Students may change the grade basis of classes listed with multiple grade options (e.g., letter grade, pass/fail, and audit). Changes from letter grade to audit can be made through the close of registration in each term. Changes from letter grade to pass/fail may be made through drop day of the term. However, ECE classes are offered on a single grade basis, so this option may not be available for ECE classes. Please check degree requirements before changing to an audit or pass/fail basis for a course.
+• There is no way to add classes after registration for the term closes at 4:00 p.m. on Friday of the first week of school.
+• Students should be aware of the difference between schedule changes made prior to the close of the final phase of registration for a term and withdrawing from (or dropping) a course between the close of registration and "Drop Day."
+
+Registration Restrictions
+• A student attempting to register for classes may not be able to do so because of registration restrictions that have been placed by an academic or administrative unit at Georgia Tech. A permit must be issued by the unit that placed the registration restriction before one is able to register.
+• A registration hold may prevent registration until required documentation is provided to the Institute or a change in the student’s status or classification is made.
+• The ECE Academic Affairs Office may be able to assist in dealing with restrictions, but it may be necessary to seek assistance from another academic or administrative unit in some cases. Some of the registration restrictions that students may encounter include:
+    Campus Restriction
+        • Georgia Tech classes are offered on campus in Atlanta, at Georgia Tech Lorraine in France, at Georgia Tech Shenzhen in China, and the online Video campus.
+        • Registration is structured so that students can only register for the classes taught through the specific program and/or at the specific campus to which they were admitted.
+        • Students who attempt to register for classes in a program other than the one in which they are enrolled will receive a “CAMPUS RESTRICTION” error message. A student cannot take classes on different programs/campuses during the same term.
+    Major Restriction
+        • Academic units may place enrollment restrictions on their classes to ensure that students in their major area have full access to the classes they offer. For example, ECE graduate level classes are restricted to ECE majors until the Monday of the second phase of registration. This way we can be sure that ECE students have access to our classes.
+        • Each academic unit determines its own criteria for awarding permits. Students attempting to register for classes with this restriction receive a “MAJOR RESTRICTION” error message.
+        • Permits to override the “Major Restrictions” can only be issued by the academic unit that offers the classes.
+        • Additional information regarding “Major Restrictions” can be found on OSCAR.
+        • The academic affairs office of the unit offering the class is also a good place to ask for a major restriction permit.
+    Maximum Hours Restriction
+        • The maximum number of hours for which a student may register in fall or spring semester is 21; in summer term the maximum allowed is 16.
+        • Students attempting to register for more hours will receive a “MAXIMUM HOURS EXCEEDED” error message and must see the Registrar’s Office to request an exception.
+        • Students wishing to be approved for this exception should advise the ECE Graduate Affairs Office of their plans, as the Registrar’s Office will contact us for additional information regarding the request.
+    Permit Required
+        • Some classes are set up so that no one can register for them without permission. Students attempting to register for classes with this restriction receive a “PERMIT REQUIRED” error message.
+        • In ECE, Special Problem (ECE 8901, 8902, 8903) classes are restricted to those with registration permits. ECE 8999 (Search for a Research Topic and/or Advisor) and ECE 8022 (Professional Communications Seminar) are also offered on a permit-only basis.
+        • The “permit required” restriction for classes offered by other academic units can only be handled by the unit offering the class.
+    Time Conflicts
+        • Students attempting to register for two classes that meet at the same time will receive a “TIME CONFLICT WITH XXXX” error message.
+        • Assuming that the instructors of both classes are willing to accommodate a student in this situation, a permit to register for both classes may be obtained. A time conflict form must be signed by the student and both instructors to receive this permit.
+        • Students with “time conflict” permits must adhere to the on-campus schedule for each class unless other arrangements are made with the faculty instructor(s).
+    Prerequisite Restriction
+        The faculty of the School of ECE expect that graduate students’ knowledge of mathematics should be equivalent or superior to that of a bachelor's degree recipient in Electrical or Computer Engineering at Georgia Tech. This expected mathematics knowledge includes the content of the following Georgia Tech courses:
+            Math 1551: Differential Calculus http://math.gatech.edu/courses/math/1551
+            Math 1552: Integral Calculus http://math.gatech.edu/courses/math/1552
+            Math 1553: Introduction to Linear Algebra http://math.gatech.edu/courses/math/1553
+            Math 2551: Multivariable Calculus http://math.gatech.edu/courses/math/2551
+            Math 2552: Differential Equations http://math.gatech.edu/courses/math/2552
+            It is recommended that a graduate student who has not taken these courses or their equivalent at other institutions should acquire this mathematics knowledge in order to be successful in ECE graduate courses. The course listings in the General Catalog of Georgia Institute of Technology (http://www.registrar.gatech.edu) and on-line at https://oscar.gatech.edu/ contain information regarding class prerequisites.
+        • Prerequisite requirements for graduate level (6000 and higher) classes are not hard-wired into the registration system. Students taking graduate classes may register for and take classes for which they do not have the specific prerequisite. Graduate students lacking prerequisites (or who are unsure as to whether they have the required background) for a graduate level class are encouraged to contact the course instructor for an assessment of their background before registering for the class.
+        • Prerequisite requirements for undergraduate level (1000-4999) classes are hard-wired into the registration system.
+            o Students attempting to register for classes with this restriction receive a “LACKS PRE-REQUISITE” error message .
+            o Permits for ECE undergraduate classes are handled by the undergraduate advisors in the ECE Academic Affairs Office.
+            o Graduate students seeking to enroll in undergraduate classes with prerequisites must file a registration permit through the web-based permit request system found at https://secure.ece.gatech.edu/overloads_permits/
+            o The ECE undergraduate advisors may require that students requesting prerequisite permits meet with them before a registration permit is awarded.
+        • Prerequisite permits for classes in areas other than ECE are handled by the schools or departments offering the classes.
+    Course Overload Policy
+        A specific number of registration spaces are allotted for each class offered through Georgia Tech. When the number of students enrolled in a class reaches the allotted number, registration for that class is closed.
+        • Students attempting to register for classes that are closed will receive a “CLOSED SECTION” error message.
+        • Although ECE graduate level classes are very popular with ECE and non-ECE graduate students as well as some upper-class undergraduate students, we do not accept requests from students to be considered for overloads into our graduate level classes. ECE makes every reasonable effort throughout registration to manage enrollment availability in order to accommodate as many ECE students as possible in our courses.
+        • Students attempting to register for a graduate class that is full should continue to monitor registration for openings. It is common for spaces to become available in classes that once appeared to be filled. This is especially true after the first few days of classes and throughout the final phase of registration.
+        • To seek permission to register for a non-ECE course that is closed, students should contact the school or department offering the course and follow that academic unit’s overload procedure. Contact information for other academic units can be found in OSCAR. Registration Holds Registration holds are used by various Georgia Tech academic or administrative units to get the attention of students. When a hold is issued, students cannot register for classes, remove classes from their schedules, withdraw from school, etc. A hold may even prevent graduation. A very brief explanation of the reason for the hold and an indication of the unit placing the hold are indicated in OSCAR.
+        • Holds can only be removed by the academic unit that placed the hold.
+        • Although the ECE Graduate Affairs Office can only remove holds that we have placed, we can help determine which unit placed a non-ECE hold if that is not clear.
+        • To have a hold removed so that one may register (drop a class, withdraw from school, etc.), it is necessary to contact the unit that issued the hold.
+        • Graduate students with a registration hold entered by ECE, must contact us via email through the “Contact Us” site https://ece.gatech.edu/form/contact-graduate-affairs-office or by coming to the ECE Graduate Affairs Office during regular office hours.
+        
+    Proper Registration    
+        Students who use the facilities and/or the services of Georgia Tech’s personnel (faculty, staff) in a term must be registered. Only students approved for enrollment waivers in their graduating term or taking a term off from school cannot be enrolled in a term.
+        • Full-time enrollment for graduate students is defined as a minimum of 12 hours, at least 9 of which must be on a letter grade and/or pass-fail basis. This status applies to the following groups of students:
+            o International students (on F1 or J1 visas)
+            o Students supported on fellowships, scholarships, and/or other sponsorships that require full-time enrollment to be eligible to receive funds
+            o Students supported with Graduate Research or Teaching Assistantships
+        • All students who are working on research should register for 21 hours in the fall/spring and 16 hours in the summer.
+            o Ph.D. students who have passed the Coursework Qualifier and selected a research advisor should register for ECE 9000.
+            o Ph.D. students who selected a research advisor but have not passed the Coursework Qualifier should register for ECE 8900.
+            o M.S. thesis students should register for ECE 7000. Non-thesis M.S. students should not register for ECE 7000.
+            o Students who are working on research but are not eligible to register for thesis hours should sign up for ECE 8900 under the professor who is directing their research.
+            o All students who are registered for ECE 9000, ECE 7000 and ECE 8900 and are GRAs or funded by an entity that requires full time status should register for 21 hours in fall/spring and 16 hours in the summer.
+            o Students who are searching for a research advisor or research topic should register for ECE 8999, which is a permit-restricted class. For more details on ECE 8999 restrictions see “Variable Credit Hour Courses”.
+            o Students who are GTAs should register for ECE 8997 and GRAs for ECE 8998.
+    WARNING:
+        • Students who have received a tuition waiver have to be enrolled full time. Full time status must be maintained after dropping classes with a W grade. Students who are not enrolled full time or who lose the full-time status after dropping classes will lose their tuition waiver and will be charged full tuition (around $15,000 for out of state students). Additionally, international students who lose full-time status will fall out of compliance with their visa status and will be required to leave the country until their status is cleared.
+        • Summer Term: All the above requirements are in place during the summer semester, as summer is considered a standard term for Georgia Tech. Students who are on-campus in summer term and meet one or more of the criteria above are expected to be registered on a full-time basis during that term as well.
+            o International students (on F1 or J1 visas) may take summer term as a vacation term and may be permitted to register on a part-time basis in summer without jeopardizing their visa status. Visa requirements are independent of GTA/GRA requirements.
+            o Students who plan to be away from campus for a large part of the summer are not eligible to register as a full-time student and cannot hold GRA/GTA positions. They might be eligible to be hired as an hourly employee. Note that hourly employees are limited in the number of hours that they can work.
+        
+    Change Course Grade Basis
+        To be able to make a change in the grade basis of a course, it must be offered with multiple options (letter grade, pass fail, and/or audit). With the exception of marker courses, ECE classes are only offered on a letter grade basis. Care should be taken to remain within the degree requirements when seeking to make grade basis changes for both ECE and Non-ECE classes. One could delay completion of the degree by opting to take a class on a pass fail or audit basis. ECE restricts the use of pass-fail hours toward graduate coursework requirements and does not approve the use of audit hours other than those associated with the marker courses. 
+            
+COURSES AND SCHOLASTIC REQUIREMENTS
+The information in this section is a synopsis of general graduate school requirements, especially those policies for which there are special ECE requirements. Additional information regarding specific Institute rules and regulations may be found in the Georgia Institute of Technology General Catalog. The information in this handbook is by no means exhaustive; students are required to be familiar with policies, rules, and regulations as recorded in the General Catalog available at http://www.catalog.gatech.edu. The Student Rules and Regulations (http://www.catalog.gatech.edu/rules/) section of the catalog is especially useful for students.
+
+Academic Standing
+    Students whose grades and/or grade point averages fall below the applicable minimums in any term will have academic standings of “Warning,” “Probation,” “Review,” or “Dismissal” depending upon their specific situation. The Georgia Institute of Technology General Catalog at http://www.catalog.gatech.edu/ provides the official description of these academic standings and their consequences. ECE students whose overall and/or term grade point average is below that required by the Institute will be contacted by the Associate Chair for Graduate Affairs to discuss their progress and plans for improving their academic performance. Withdrawal from Classes Withdrawing from (or dropping) a course is a serious decision. Students are expected to make satisfactory progress toward completing their degrees. Graduate Research and Teaching Assistants, students holding F or J Visas or on fellowships, and active-duty military are expected to maintain full-time status after the drop date. • A Georgia Tech student is entitled to withdraw from a course during the early weeks of the term. Students withdrawing from classes after the close of registration for the term will receive "W" grades in the classes from which they withdraw. Students who must have full-time status must make sure they will retain that full-time status after the withdrawal.
+    • The exact date of the deadline for withdrawal from classes is posted in the Official School Calendar (http://www.registrar.gatech.edu) and is also found on the OSCAR system. It is each student's responsibility to know the exact deadline for each term.
+    • Students withdraw from classes electronically through the OSCAR System. Prior to dropping a class, all students are encouraged to check with an Academic Advisor if their full-time status and/or degree progress will be affected by dropping the class. If you are not sure, ALWAYS ask an Academic Advisor! You can send your inquiry online at https://ece.gatech.edu/form/contact-graduate-affairs-office or visit the Academic Office during office hours.
+Withdrawal from School
+    A student who needs to leave school does so by withdrawing from all classes.
+    • Students are responsible for completing the electronic withdrawal from school before the official Institute deadline.
+    • Full-time graduate students who withdraw from school during a term are required to remain out of school in the following term as well. A petition to the faculty (available on the registrar’s website) requesting a waiver of this requirement may be filed.
+    • If the student is not registered for three consecutive terms (including the one in which the withdrawal occurred), an application for readmission must be filed. An application fee is charged when submitting an “Application for Readmission.”
+    • Part-time graduate students who withdraw during a term are not required to remain out of school for an additional term.
+Readmission
+    • Any student in "Good" academic standing not enrolled for two consecutive terms (fall, spring, or summer) can re-enroll without applying for readmission to the Institute.
+    • Any student not enrolled for three or more consecutive terms (including summer) must apply for readmission.
+    • An “Application for Readmission” form is used for this purpose and can be obtained by accessing https://registrar.gatech.edu/forms. A fee will be charged for readmission.
+    • For readmission purposes, there is no distinction between the regular academic year's terms (fall and spring) and the summer term. Graduate Level Course Structure ECE's graduate level courses are grouped among 11 Technical Interest Areas (TIAs) or Technical Interest Groups (TIGs), listed below. For a list of the current classes under each TIA, check the projected class schedule on the ECE website at https://ece.gatech.edu/sites/default/files/documents/graduate/course_schedule.pdf.
+        Bioengineering (BioE)
+        Computer Systems & Software (CSS)
+        Digital Signal Processing (DSP)
+        Electrical Energy (EE)
+        Electromagnetics (Emag)
+        Electronic Design & Applications (EDA)
+        Nanotechnology (Nano)
+        Optics & Photonics (Opt)
+        Systems & Controls (S&C)
+        Telecommunications (Comm)
+        VLSI Systems & Digital Design (VSS)
+
+Cross-Listed Courses The term "cross-listed courses" is used in two different ways in the School of Electrical and Computer Engineering.
+    • Some ECE courses are cross listed between two ECE technical interest areas.
+        o Students using these classes toward the degree program can use the cross listed courses as either of the TIAs that they belong to. The cross-listed courses are indicated in the TIA Course listings of this handbook. For details on degree requirements for the M.S. and for the Ph.D., consult those sections of this handbook.
+    • The other use of "cross-listed courses" has an Institute-wide connotation and refers to classes that are offered with the same number and same course content in more than one discipline. (For example: ECE 6789 is also listed as BMED 6789, CHE 6789, ME 6789 and MGT 6789.)
+        o These classes have course numbers beginning with "67," but not all "67xx" courses are cross listed.
+        o The Georgia Tech General Catalog indicates which "67xx" courses are cross-listed and the disciplines with which they are cross-listed.
+        o Classes cross-listed with ECE can be used toward the minor Ph.D. requirement. Examples of ECE courses cross-listed with other disciplines are as follows. To confirm that a specific class is cross listed, check the current term on Oscar. 
+        Course# CourseName TIA(s) GTCrossListing
+        6771 Optoelectronics: Materials, Processes, Devices Opt/Nano Physics
+        6780 Medical Image Processing Bio/DSP Computer Science and BME
+        6460 Microelectromechanical Devices Nano CHBE and ME
+        
+GTA/GRA Marker Courses:
+    • GRAs must sign up for ECE 8998, which is a one credit hour audit course that shows up on a transcript indicating the GRA status.
+    • GTAs must sign up for ECE 8997, which is a three credit hours audit course that shows up on a transcript indicating the GTA status.
+    • In addition, all GTA/GRAs must be registered full time. Variable Credit Hour Courses: There are several variable credit hour courses. The default is usually 1 credit hour when students try to register for the courses, so students must change the number of credits when they register. Many of these courses allow up to 21 hours, and we ask all students who plan to take these courses to sign up for the maximum load, which is 21 hours in fall/spring and 16 hours in summer.
+    • Research Hours: Students undertaking research must register for research hours to document their activities on their GT transcript and should register for 21 hours in the fall/spring and 16 hours in the summer.
+        o ECE 9000 Ph.D. Thesis (P/F): Doctoral degree students who have passed the Ph.D. Coursework Qualifier, have selected a research advisor, and have submitted the Ph.D. Advisor Selection form online should register for Ph.D. dissertation hours (ECE 9000) under their advisor.
+        o ECE 7000 M.S. Thesis (P/F): Master’s degree students who are taking the “Thesis Option” should register for M.S. thesis hours (ECE 7000). M.S. thesis option students must also provide a completed M.S. Thesis Advisor Selection form to the ECE Graduate Affairs Office before registering for ECE 7000 hours.
+        o ECE 8900 Special Problems (P/F): Students who do research under the supervision of an ECE faculty member and are not pursuing the M.S. thesis option degree or have not passed the Ph.D. Coursework Qualifier may register for the section of ECE 8900 assigned to their research advisor. This course is pass/fail and does not count towards degree credit. It should not be confused with ECE 8901, ECE8902, and ECE8903, also called “Special Problems”, which are letter grade courses.
+    • ECE 8999 Ph.D. Dissertation Preparation (P/F): For students who are seeking an advisor or a research topic. This class is permit only and can be taken for a maximum of 9 credit hours. It is limited to one semester for M.S. students who seek a M.S. Thesis advisor and to two semesters for Ph.D. students who seek a Ph.D. advisor. Special Problem and VIP Hours Special Problem hours, ECE 8901, ECE 8902, ECE 8903 and CS 8903 are independent study courses under the direction of a faculty supervisor. Special Problem courses are an excellent way to get to know faculty members and to become involved in research that is going on at Georgia Tech. Please note that students may not count Special Problems course credit towards their degree if they simultaneously were paid for doing the work (as a Graduate Research Assistant (GRA) or as a Graduate Assistant (GA) or if they were registered for thesis/dissertation hours to do the same work. VIP courses can also be used to satisfy Group III requirements only for the non-thesis option. A combined maximum of 6 VIP and/or special problems credits can count toward the degree requirements. Additional VIP or special problems credits cannot be applied.
+    • Master’s students may include up to six special problem credits in their graduate program as free elective hours.
+    • Ph.D. students, under specific circumstances and with approval by the Associate Chair for Graduate Affairs, may use up to six hours of special problem credits as free elective hours in their graduate programs.
+    • A registration permit is required to register for special problem hours.
+    • The last digit in the course number refers to the number of credit hours awarded for the ECE Special Problem, i.e., 8901 = 1 credit, 8902 = 2 credits, and 8903 = 3 credits.
+    • CS special problem hours can also be used towards the elective course requirements, both for M.S. and Ph.D. students. CS 8903 is a variable hour course that must be taken for letter grade. ECE accepts CS 8903 only for 1, 2 or 3 credit hours and only with the letter grade option. Please visit the Academic Office before taking a special problem in CS that you plan to use towards your degree requirements.
+    • Students wishing to undertake a special problem should o Meet with a faculty member and define a research problem.
+        o After the problem is defined a special problem form is prepared and signed by the student and faculty advisor. The forms are found as follows:
+            ECE (DocuSign): https://www.ece.gatech.edu/current-students/graduate/forms
+            CS https://www.cc.gatech.edu/graduate-forms-procedures
+        o A one-page proposal of the problem is included with the special problem form. The proposal should state the problem, the study method to be applied, and the expected results.
+        o The completed ECE 8901/8902/8903 special problem request is automatically submitted upon DocuSign completion to the Graduate Affairs Office for approval. Once approved, a registration permit will be issued for the faculty member’s section.
+        o CS 8903 permits will be issued by the CS department.
+
+Audit Hours
+    • The GRA/GTA marker courses ECE 8998 and 8997 are the only audit hours that ECE students should be using toward their full-time course loads.
+    • ECE classes are not offered on an audit basis, therefore, no ECE courses other than 8997 and 8998 can be scheduled on an audit basis.
+    • Students wishing to take classes in other schools or departments on an audit basis must contact that school to inquire if this is possible.
+    • Since ECE classes are only offered on a letter grade basis, students wishing to take an ECE class on an audit basis may only do so informally by “sitting in” on the class in agreement with the class instructor.
+
+Seminar Courses
+    • Seminar courses are one credit hour pass/fail courses. Some of the following courses may be allowed to be used as free electives (M.S. and Ph.D. degree requirements differ): ECE 8001, ECE 8002, CS/CSE 800x, ECE 8022, ECE 6792, ECE 7721, PHIL 6000.
+
+PLEASE NOTE:
+    Throughout the Master of Science and Ph.D. degree sections which follow in this handbook, the term “6000 level” is used frequently when referring to graduate classes. Included under the heading of “6000 level” are courses at the 7000 and 8000 levels. An indication that a “6000 level class” is needed to meet a requirement, means that an appropriately approved 7000 or 8000 level class may also be used. It should be further noted that not all ECE 6000, 7000, 8000 level courses are approved for use toward the graduate degree coursework requirements. Specific notations as to the type of classes that must be used to fulfill requirements are indicated in the information that follows.
+
+THE MASTER OF SCIENCE DEGREE
+
+The School of Electrical and Computer Engineering offers an extensive graduate program encompassing many specialization areas. When designing the M.S. curriculum, the ECE faculty intended that the graduate degree requirements would be flexible enough to meet the individual needs of ECE graduate students while at the same time ensuring that all graduates complete a well-rounded program of study that will support their professional goals. The school offers two options: a thesis option and a non-thesis option.
+
+M.S.E.C.E Degree Requirements
+The following table summarizes the requirements for the master's degree in the School of Electrical and Computer Engineering.
+Requirement | Class Hours (Non-Thesis Option) | Class Hours (Thesis Option)
+Group I - ECE 6000 level classes in one or two Technical Interest Areas (TIAs) | 9 | 6
+Group II - ECE 6000 level classes, at least two of which come from TIA(s) other than those in Group I | 9 | 6
+Group III - Elective Hours (4000 level or above) | 9 | 3
+Group III cont. - Technology Entrepreneurship *Mandatory course for students who matriculate in Fall 2020 or after* | 3 | 3
+M.S. Thesis Research | 0 | 12
+Total Hours | 30 | 30
+
+Groups I and II – Selection of ECE 6000 Level or Higher Classes 6000-level or higher ECE courses offered by specific TIAs can be used to satisfy these requirements, including Special Topics courses.
+• Technical Interest Areas (TIAs) are groups of related courses within electrical and computer engineering and include Bioengineering, Computer Systems & Software, VLSI Systems & Digital Design, Digital Signal Processing, Electrical Energy, Electromagnetics, Electronic Design & Applications, Nanotechnology, Optics & Photonics, Systems & Controls, and Telecommunications.
+• Nine hours of 6000 level or higher coursework in one or two Technical Interest Areas (TIAs) are needed to fulfill the Group I requirement for non-thesis master’s candidates and six hours for the thesis master’s students.
+• In Group II, at least six hours of 6000 level or higher coursework must be completed outside the TIA(s) of Group I. These courses can be cross listed with the TIA(s) chosen for Group I. Group II classes may be selected from one, two, or three TIAs, provided degree requirements are met. ECE courses not designated to belong to a TIA (Technical Interest Areas) cannot be used for Group II or Group II requirements.
+• To verify the technical interest area of a course, look at the course listings in the “Graduate Level Course Structure” Section of this manual or on the ECE website at https://ece.gatech.edu/sites/default/files/documents/graduate/course_schedule.pdf.
+• Pass/Fail, audit, and Special Problems courses cannot be used to satisfy Group I and Group II requirements.
+• M.S. students planning to pursue the Ph.D. degree should note that all nine hours of classes in Group II must be from TIAs other than those in Group I to fulfill the Ph.D. coursework requirement.
+Group III (Electives and Technology Entrepreneurship): 12 Hours
+• These hours may be selected from most disciplines offered at Georgia Tech (including ECE). Students choosing elective hours outside of ECE or other technical/engineering/math/science disciplines may be asked to justify their choices.
+• Any on-campus student who matriculated in Fall 2020 or after and any online student who matriculated in Fall 2023 or after will be required to complete the Technology Entrepreneurship course or similar.
+Group III: 9 Elective credit hours (4000 level or above) and 3 credit hours of Technology Entrepreneurship ECE 6001. Special Problems courses, ECE8901, ECE8902, and ECE8903 (but not ECE8900), CS 8903 and VIP courses can be used to satisfy Group III requirements only for the non-thesis option. A combined maximum of 6 VIP or special problems credits can count toward the degree requirements. Additional VIP or special problems credits cannot be applied.
+• No courses below the 4000 level can be used toward Group III (Electives) or any other portion of the M.S. program.
+• In the thesis-option M.S. degree, only 6 Group III ECE electives are needed. The rest of the degree requirement is fulfilled by 12 hours of 7000 hours (M.S. thesis research).
+• Pass/fail hours may only be used in the Group III portion of the program, and no more than three hours of pass/fail coursework may be used toward the non-thesis M.S. degree. The only pass/fail courses that are acceptable elective hours are the ECE seminars (ECE 6792, 8001, 8002, 8022, 7721), CS/CSE seminars (CS/CSE 800x) or PHIL 6000 (Responsible Conduct of Research).
+• Ph.D. students, who have completed the Professional Communications Seminar (ECE 8022) and/or Future Faculty (ECE 7721) and are petitioning for an M.S. degree, may use ECE 8022/ECE 7721 as pass/fail classes that may be used in the elective portion of their M.S. degree requirements.
+
+General Requirements
+• A minimum grade of “C” is required in all classes used toward the master’s degree.
+• A master’s degree student must have a minimum GPA of 2.70 to graduate. Georgia Tech does not round GPAs, they truncate them. So, a 2.67 is not sufficient to graduate.
+• A cumulative grade point average of 2.70 must be maintained to remain in “Good” academic standing in the M.S. program.
+• No more than 9 hours of 4000 level courses can be used toward a graduate level ECE degree.
+• ECE 8900, 8997, 8998, 8999, 9000 and CETL (Center for the Enhancement of Teaching and Learning) courses cannot be used to satisfy degree requirements.
+
+Thesis Option
+• Students registered for M.S. thesis hours are expected to complete the M.S. thesis option degree. However, circumstances might arise that impede the completion of the thesis. The student can switch to the non-thesis option only if in agreement with the thesis advisor but will not be able to count any of the thesis hours toward the non-thesis degree requirements.
+• Students choosing the M.S. thesis option must complete a minimum of 12 hours of ECE 7000 to meet degree requirements. These hours are shown in the Group III (Electives) portion of the M.S. coursework plan.
+• 6 credit hours in Group I: 6000-level or higher ECE classes in one or two Technical Interest Areas (TIAs)
+• 6 credit hours in Group II: 6000-level or higher ECE classes from TIA(s) other than those in Group I
+• *6 credit hours in Group III: Elective Hours 3 Credits (4000 level or above) and 3 Credits of Technology Entrepreneurship
+• 12 credit hours in Thesis Research
+• 30 credit hours total
+• Thesis option students are required to have a research advisor who will indicate their commitment to serve as advisor by signing the "M.S. Thesis Advisor Selection" form and submitting the completed form to the ECE Graduate Affairs Office.
+• M.S. thesis option students present a research review (proposal) to their M.S. Thesis Committee (research advisor and two additional ECE faculty members) when a sizable portion of their research is completed.
+• The research advisor determines the way this review is to be presented.
+• After the research progress is reviewed, the committee provides a signed “Master’s Thesis Topic Approval” form to the ECE Graduate Affairs Office for processing. The form must be submitted together with a Thesis Summary of 5 to 10 pages.
+• There must be a minimum of 90 days between the submission of the Master Thesis Topic Approval form and the submission of the Certificate of Thesis Approval.
+• Detailed guidelines related to the M.S. thesis option degree, along with a link to the M.S. Thesis Topic Approval Form, can be found on the ECE website at: https://www.ece.gatech.edu/masters-degrees.
+• Georgia Institute of Technology thesis preparation and submission guidelines are available at: http://grad.gatech.edu/theses-dissertations.
+• The links for all the above listed documents and forms, along with a checklist, are available at http://www.grad.gatech.edu/theses-dissertations-forms.
+• The format of the thesis and other related reporting are controlled by the Graduate Education office. The student must stay connected with that office to ensure all degree requirements are met.
+• The Graduate Education office strongly urges M.S. thesis students to have their thesis format checked before submitting the final version of the thesis to them. A thesis checking deadline is posted on their website at: https://grad.gatech.edu/theses-dissertations/deadlines.
+• If, at any time, there is uncertainty about the M.S. thesis process, check with the ECE Graduate Affairs Office. Do not rely on secondhand information! RCR Requirement for M.S. Thesis
+• The Responsible Conduct of Research (RCR) Academic policy requires M.S. students enrolled in 7000 thesis hours to complete the appropriate RCR training requirement before the Request for Approval of Master’s Thesis Topic form can be processed.
+    o First Option - Successfully complete the online CITI RCR course https://rcr.gatech.edu/online-training
+        OR
+    o Second Option - Successfully complete an in-person requirement - PHIL 6000 has been approved for ECE doctoral students and may also be used for M.S. Thesis students. ECE does not have its own in-house RCR course, but it will accept an academic program’s in-house RCR training approach (Please see the Ph.D. section of this handbook for approved courses).
+
+M.S. in Cybersecurity
+Starting Fall 2018, graduate students in the School of Electrical and Computer Engineering may pursue the Master of Science in Cybersecurity with a Cyber-Physical Systems track (M.S.C.S.E.C.) degree.
+The Master of Science in Cybersecurity degree requires 32 credit hours of coursework (including a 5-credit practicum project course). Two of the core courses, which students in each track will take, will provide a broad overview of technology and policy dimensions of cybersecurity. The flexible core course will provide breadth because it must come from a track separate from the one in which a student is enrolled. Finally, a practicum project (5 credit hours) with common learning objectives across all participating units is a core requirement.
+Core Courses:
+Group I 
+Course # | Course Name | Hrs
+CS 6035 | Introduction to Information Security | 3
+CS/MGT/PUBP 6725 | Information Security Policies | 3
+CS/ECE/PUBP 6727 | Information Security Practicum | 5
+CS/PUBP 6XXX | Flexible core course – 3-hour course must be different from ECE’s track – (To meet this requirement, a student must complete a required course from a specialization track that is different from the one in which they are enrolled). | 3
+Total Core Course Hours 14
+
+Cyber-Physical Systems Track:
+Group II - Select Four Courses from List Below:
+Course # | Course Name | Hrs
+ECE 6156 | Hardware-Oriented Security and Trust | 3
+ECE 6320 | Power Systems Control and Operation | 3
+ECE 6374 | Cyber-Physical Security in Electric Energy Systems (Same as Introduction to Cyber-Physical Electrical Energy Systems) | 3
+ECE 8813 | Introduction to Cyber-Physical Systems Security | 3
+ECE 8803 | Cybersecurity of Drones | 3
+ECE 8823 | Cyber Physical Design and Analysis | 3
+Total ECE Track Hours 12
+
+Electives: Group III - Select Two Courses from List Below
+Course # | Course Name | Hrs
+ECE 6550 | Linear Systems and Controls | 3
+ECE 6607 | Computer Communication Networks | 3
+ECE 6615 | Sensor Networks | 3
+ECE 6102 | Dependable Distributed Systems | 3
+ECE 6323 | Power System Protection | 3
+ECE 8813 | Advanced Computer Security | 3
+ECE 8813 | Network Forensics | 3
+ECE 8813 | Smart Electricity Grids | 3
+ECE 6747 | |Advanced Topics in Malware | 3
+ECE 6100 | Advanced Computer Architecture | 3
+ECE 6254 | Statistical Machine Learning | 3
+ECE 6273 | Methods of Pattern Recognition with Application to Voice | 3
+ECE 6557 | Manufacturing System Design | 3
+ECE 6562 | Autonomous Control of Robotic Systems | 3
+ECE 6563 | Networked Control and Multiagent Systems |3
+ECE 6601 | Random Processes | 3
+ECE 6612 or CS 6262 | Computer Network Security Network Security | 3
+ECE 6610 | Wireless Networks | 3
+ECE 6615 | Sensor Networks | 3
+ECE 6780 | Medical Image Processing | 3
+ECE 6787 | Quantitative Electrophysiology | 3
+ECE 6790 | Information Processing Models in Neural Systems | 3
+ECE 7142 | Fault Tolerant Computing | 3
+ECE 8803 | Empirical Computer Security | 3
+ECE 8843 | Side Channels and Their Role in Cybersecurity | 3
+ECE 8893 | Parallel Programming for FPGAs | 3
+CS 6263 | Intro to CPS Security | 3
+CS 8803 | Critical Infrastructure Security | 3
+Total Elective Hours | 6
+
+TOTAL DEGREE REQUIREMENTS | 32
+
+More details about the program can be found on the School of Cybersecurity and Privacy website at https://scp.cc.gatech.edu/.
+
+Degree Completion Progres
+Graduate students in the ECE degree programs are expected to make diligent progress toward completion of degree requirements. It is in the best interests of both students and faculty for all students to progress through the program expeditiously. The following recommendations indicate reasonable progress in the M.S. program: Non-thesis Option
+• A full-time Master’s student seeking the non-thesis M.S.E.C.E. should complete all degree requirements in a maximum of three semesters of enrollment, not counting summer terms, or a maximum of four semesters of enrollment if that student participates in the Internship program.
+• It is possible to complete the requirements in fewer terms.
+• Students can spend one regular (non-summer) semester as an intern in an industrial or government position during their program of study. For more information about the internship program please refer to the “Graduate Internship Program” section of this handbook.
+Thesis Option
+• A full-time Master’s student seeking the thesis-option M.S.E.C.E. should complete all degree requirements in four semesters of enrollment, not counting summer terms.
+• Students can spend one regular (non-summer) semester as an intern in an industrial or government position. For more information about the internship program please refer to the “Graduate Internship Program” section of this handbook.
+Transfer Credits
+• Up to six semester hours of graduate-level credit from another graduate school in the United States or an international partner school may be transferred toward the ECE M.S. degree. The grades for classes to be transferred must be at the “B” level or higher.
+• Students who are enrolled at Georgia Tech may not receive credit for courses completed at another institution during the same academic term, unless prior permission has been obtained for cross enrollment or concurrent registration.
+• A completed “Request to Transfer Classes” form, original transcript showing completion of the class(es), and a syllabus and other descriptive materials must be submitted to the Academic Office for use in arranging transfer credit.
+• An original letter from the registrar of the institution where the classes were taken must be provided. This letter certifies that the classes to be transferred were not used toward any degree at that school.
+• The ECE Faculty will evaluate this material and decide. Not all classes completed elsewhere will be allowed to transfer.
+
+Change from M.S. to Ph.D.
+Students admitted as M.S. who want to switch to Ph.D. must apply to the ECE Academic Office to be considered alongside the other Ph.D. program applicants. M.S. students who wish to be admitted into the Ph.D. program must meet the following requirements:
+    • Pass the Ph.D. Coursework Qualifier
+    • Find a research advisor
+    • Have a funding source
+    • Maintain a 3.5 graduate GPA
+The following papers will have to be submitted to the Academic Office for approval prior to filling out a Change of Major form with the Registrar’s Office:
+    • Advisor selection form (online, VPN needed if not on a GT computer)
+    • https://ece.gatech.edu/academics/graduate/student-forms-and-guidelines
+    • Recommendation letter from the Ph.D. advisor
+    • Proof of funding
+    • Statement of purpose form https://ece.gatech.edu/sites/default/files/documents/graduate/change-from-msece-to-phd-ece.pdf
+    Additional requirements, to be verified in the Academic Office, are:
+        • Pass the Coursework Qualifier
+        • Maintain a 3.5 minimum graduate GPA
+
+THE PH.D. DEGREE
+The Doctor of Philosophy degree requires concentration in a particular area of electrical or computer engineering as well as demonstrated mastery over the fundamentals of electrical and computer engineering. It is awarded in recognition of demonstrated proficiency and high achievement in the student’s major field within electrical or computer engineering. A significant contribution to the knowledge in electrical and computer engineering is made through successful dissertation research. The Ph.D. degree requirements include:
+• 43 credit hours of coursework
+• Responsible Conduct of Research training
+• Ph.D. Residency requirement
+• Passing the Ph.D. Comprehensive Exam, including the Proposal Exam
+• Conducting research, writing, and successfully defending a Ph.D. dissertation PH.D.
+
+TIMELINE
+Coursework requirements
+    The following table summarizes the coursework requirements for the Ph.D. degree in the School of Electrical and Computer Engineering. Groups I and II – Selection of ECE 6000 Level or Higher Classes 6000-level or higher ECE courses offered by specific TIAs can be used to satisfy these requirements, including Special Topics courses. • Technical Interest Areas (TIAs) are groups of related courses within electrical and computer engineering and include Bioengineering, Computer Systems & Software, VLSI Systems & Digital Design, Digital Signal Processing, Electrical Energy, Electromagnetics, Electronic Design & Applications, Nanotechnology, Optics & Photonics, Systems & Controls, and Telecommunications. • In Group II, all nine hours of coursework must be completed outside the TIA(s) of Group I. These courses can be cross listed with the TIA(s) chosen for Group I. Group II classes may be selected from one, two or three TIAs, provided degree requirements are met. Courses that do not belong to any TIA cannot be used to satisfy Group I or Group II requirements. 
+    Requirement | Hours | Description
+    Group I: ECE 6000 level classes in one or two TIAs | 9 | Nine hours of classes in one or two technical interest areas (TIAs) of the student's choice. All for letter grade credit.
+    Group II: ECE 6000-level classes | 9 | Nine hours of classes, all of which must be from one or more TIAs that are outside the TIA(s) in Group I. All for letter grade credit.
+    Group III: Minor in an area outside ECE | 9 | Nine hours of classes in a single discipline outside of ECE. All for letter grade credit.
+    Group IV: Electives | 14 | (Up to 12 M.S. thesis hours, recorded as such on an official transcript, may be used in this area)
+    ECE 8022 (Professional Communications Requirement) | 1 | Pass/fail. Permit required. Students must pass the Coursework Qualifier to receive a permit. To be completed no later than the third year into the program.
+    Responsible Conduct of Research (RCR) requirement (PHIL 6000) | 1 | Pass/fail.
+    Total hours | 43
+
+    • Pass/Fail, audit, and Special Problems courses cannot be used to satisfy Group I and Group II requirements.
+    • To determine the TIA of a course, students may examine the Projected Course Schedule available on the Graduate Website at https://ece.gatech.edu/sites/default/files/documents/graduate/course_schedule.pdf.
+    
+Groups I and II – Selection of ECE 6000 Level or Higher Classes
+6000-level or higher ECE courses offered by specific TIAs can be used to satisfy these requirements,
+including Special Topics courses.
+• Technical Interest Areas (TIAs) are groups of related courses within electrical and computer engineering and include Bioengineering, Computer Systems & Software, VLSI Systems & Digital Design, Digital Signal Processing, Electrical Energy, Electromagnetics, Electronic Design & Applications, Nanotechnology, Optics & Photonics, Systems & Controls, and Telecommunications.
+• In Group II, all nine hours of coursework must be completed outside the TIA(s) of Group I. These courses can be cross listed with the TIA(s) chosen for Group I. Group II classes may be selected from one, two or three TIAs, provided degree requirements are met. Courses that do not belong to any TIA cannot be used to satisfy Group I or Group II requirements.
+Group III (Minor):
+9 Hours outside ECE as a Minor Field of Study A minor consists of nine credit hours of courses in a single discipline (e.g., Math, Physics, Mechanical Engineering, etc.). 4000 level or higher classes may be taken subject to the following guidelines:
+    • Minors are expected to be in subject areas that enhance and relate to Ph.D. students’ research. Students may choose Math, CS, any non-ECE engineering or science discipline. Other fields would need to be approved by the ECE Graduate Committee. Minor courses in non-technical areas (for example, Management) need special approval. Classes that are part of the TI:GER program in the Scheller College of Business can be used toward the Ph.D. minor.
+    • Minor courses can be cross listed with ECE classes.
+    • All minor courses must be taken for letter grades.
+    • 6000 level minor courses are preferred, 4000 level or a combination of 4000 and 6000 level courses will be considered for approval, provided the overall degree requirements are met.
+    • Math and CS are the most popular Ph.D. minors for ECE students. A list of recommended CS and undergraduate Math courses are listed on the ECE website at https://ece.gatech.edu/graduate-coursework-planning
+    • The PhD minor courses must have a minimum grade average of 3.0/4.0.
+    • Approval of the minor courses is secured from the ECE Graduate Affairs Office via the web- based Ph.D. coursework completion plan at https://www.ece.gatech.edu/current- students/graduate/forms.
+    When the coursework is marked complete, the student is finalizing the minor approval process by submitting the PhD minor form via DocuSign. The form can be found on the office of Graduate Education website: https://grad.gatech.edu/theses-dissertations/forms.
+
+Group IV General Elective Courses
+• General electives are meant to enhance the technical background of students. Non-technical classes should be pre-approved by the ECE Graduate Office.
+• Up to 6 credit hours of Special Problems (ECE 8901, 8902, 8903 and CS 8903) may be used as general elective courses, subject to approval by the ECE Graduate Office. Faculty supervisors must certify that the work done for these courses is at Ph.D. level and is not simultaneously being done for pay (as in a GRA) or for other credit (as for ECE 9000, ECE 8900, or ECE 7000). To receive approval for these courses to be counted towards the Ph.D. degree, students need to complete the validation form found on the ECE website at https://www.ece.gatech.edu/current-students/graduate/forms. It is expected that these courses are rigorous, and the level of work is commensurate with the equivalent credit of a graduate level course.
+• The number of total research hours in Group IV should not be higher than 12. That means that special problem courses (ECE 8901, 8902, 8903 and CS 8903) cannot be used in Group IV along with 12 hours of MS Thesis but can be used if the MS Thesis from another institution was evaluated at less than 12 equivalent credit hours.
+• Non-ECE Special Topics courses can be used for general electives.
+• Center for Teaching and Learning (CTL) courses do not satisfy the Ph.D. degree coursework requirements.
+• Pass/fail courses cannot be used in any other Group except for Group IV General Electives. The only pass/fail hours that can be used are ECE seminars (ECE 8001, 8002, 8022, 7721, and 6792), CS/CSE seminars (CS/CSE 800x), and the RCR requirement (PHIL 6000). No more than four pass/fail hours can be used for the Group IV General Electives.
+• Only 4000 level or higher courses can be used for degree requirements but note that there is a TOTAL limit of 9 hours of 4000 level courses that can be used for the Ph.D. degree (between groups III and IV).
+• Students are welcome and encouraged to take additional elective courses to enhance their background. These courses would be for the student’s benefit and would not count towards degree requirements.
+
+The Professional Communications Requirement
+• All ECE Ph.D. students must complete ECE 8022, a one-hour professional communications seminar, to fulfill the Ph.D. coursework requirement.
+• Permits are required for ECE 8022. Only students classified as “Ph.D.” and who have passed the Coursework Qualifier will be allowed to take ECE 8022.
+• All the Ph.D. students are expected to take ECE 8022 the first fall or spring semester after they passed the Ph.D. Coursework Qualifier, and no later than the end of the 3rd year.
+• Besides ECE 8022, students are encouraged and may be required by their research advisor or their proposal review committee to take additional communications courses offered by Center for Teaching and Learning (CTL). Responsible Conduct of Research (RCR) Requirement Georgia Tech requires all Ph.D. students to complete an RCR requirement that consists of on-line training and in-person training. M.S. students who transition to Ph.D. must also meet this requirement. Additional graduate students may need to complete this requirement, depending on their source of funding. Students may refer to the applicability criteria listed in the Georgia Tech RCR Compliance Policy to determine if their source of funding requires RCR training (https://rcr.gatech.edu/compliance-policy).
+
+The On-line CITI Requirement: The online portion of the requirement, a CITI RCR course, must be successfully completed within 90 days of when students begin the first full semester in their doctoral program. The CITI RCR course can be found here: https://www.citiprogram.org. If a student goes past the 90-day time limit, a hold may be placed on course registration until the student completes the online training. The In-Person Requirement : Students covered by this policy are required to successfully complete PHIL 6000 OR an academic program’s in-house RCR training approach. Students are strongly encouraged to complete in-person training within the first 12 months of their doctoral program. In general, applicable students will be expected to take PHIL 6000 during the first summer session after they begin their doctoral program at Georgia Tech. Additional sections will be available during the fall and spring semesters for those students who would not otherwise be enrolled during the summer session. ECE does not have its own in-house RCR course but would accept any of the courses approved for other schools. A current list of those courses can be found at http://rcr.gatech.edu/doctoral-courses. These courses or PHIL 6000 can be counted in the Group IV General Elective category. More information as well as an FAQ can be found at http://www.rcr.gatech.edu/resources.
+Ph.D. Residency Requirement
+All Ph.D. students, with no exception, must be enrolled full time for at least one semester while classified as graduate students. The residency requirement is verified before the Ph.D. coursework is approved and certified.
+
+Additional Restrictions and Conditions on Coursework
+• Students with prior graduate work, including an M.S. degree from another institution may have up to 30 hours of courses applied towards the ECE Ph.D. degree requirements, subject to approval.
+• No more than three senior (4000) level courses (9 semester hours) are permitted to be used toward the Ph.D. coursework requirement. 4000 level classes can only be used toward the elective (Group IV) or minor (Group III) areas of the Ph.D. coursework requirements.
+• No more than a total of four pass/fail hours can be used toward the Ph.D. coursework requirement—this includes 8022 and PHIL 6000.
+• Georgia Institute of Technology requires that Ph.D. students maintain a cumulative grade point average of 3.0/4.0 to remain in good standing and must have at least a 3.0/4.0 to graduate.
+• The minor courses (Group III) must have a minimum grade average of 3.0/4.0.
+• All classes used to fulfill the Ph.D. coursework requirement must have grades of “C” or above.
+• Ph.D. students must complete at least one full-time term on campus. ECE expects that most if not all of one’s Ph.D. coursework and research will be completed on campus, under the supervision of an ECE faculty member.
+
+Filing a Coursework Plan
+• All ECE Ph.D. students must file a coursework plan no later than the Ph.D. proposal submission.
+• Coursework plans are filed through the ECE website. The link can be found at https://www.ece.gatech.edu/current-students/graduate/forms
+Applying M.S. Coursework Completed at other Schools toward the Ph.D. Coursework
+    There is no formal transfer of credit for the Ph.D. degree, that is, classes taken elsewhere would not appear on the Georgia Tech transcript. However, M.S. coursework completed at other schools can be used toward the ECE Ph.D. coursework requirement. An approved Ph.D. coursework plan serves as an agreement between the student and ECE (on behalf of Georgia Tech) to permit the student to count courses from another school toward the Ph.D. coursework requirement.
+    • The course transfer can only be started after the student completed the Coursework Qualifier requirement.
+    • When submitting the coursework plan for the Ph.D. degree, students who have started or completed an M.S. degree at another institution will list classes completed at the M.S. school along with classes to be completed at Georgia Tech. These classes should be listed as they appear on the M.S. school's transcript, using that school's number (if any), course name, and grade awarded.
+        o To request approval of these courses, students should submit a transcript and a syllabus and other descriptive materials to the ECE Graduate Office. o The credit hours for classes completed elsewhere should be reported in semester hours. If the M.S. classes were recorded in quarter hours, those hours are to be converted to semester hours by multiplying the number of quarter hours by 2/3, making a three-hour quarter class equivalent to two semester hours.
+    • If a thesis was completed at the M.S. school, it may be possible to apply up to 12 semester hours of thesis credit toward the 43-hour Ph.D. coursework requirement. The following items are needed for this option to be considered for approval:
+        o English version of the M.S. thesis
+        o Documentation on the official transcript of completion of the M.S. with a thesis
+        o Completion of M.S. thesis research hours on the M.S. school’s transcript
+    • Six hours of the previously completed coursework that was transferred toward a Georgia Tech ECE M.S. degree may be applied toward the Ph.D. coursework requirement.
+Coursework Qualifier
+The Coursework Qualifier consists of four courses selected by each student from lists prepared by the ECE Technical Interest Groups (TIGs). The lists are included below. A student may select four courses from a single TIG’s list: or three courses from one TIG’s list and a single course from another TIG’s list. A student’s advisor may ask that they select courses from a particular TIG’s list; however, the School of ECE will not enforce this. To successfully complete the Coursework Qualifier requirement, a student must earn a grade point average (GPA) of 3.5 in the four courses they have selected. Once this requirement has been completed, the student must complete the Coursework Qualifier form and turn it in to the ECE Graduate Office for verification. This requirement must be completed by the end of the second year after the student matriculated into an ECE Graduate program. The Coursework Qualifier requirement will apply to all students starting in Fall 2018. For ECE PhD students matriculating into an ECE graduate program in Fall 2018 or after, the Coursework Qualifier requirement must be completed by the end of their second year. Any ECE PhD student who has already passed the ECE Preliminary Exam is exempted from the Coursework Qualifier requirement.
+An MS student who wishes to become a PhD student must complete the Coursework Qualifier requirement, secure funding, and identify a willing ECE faculty advisor before being considered for transfer to the PhD program.
+
+All the Coursework Qualifier Courses must be taken at Georgia Tech. Classes taken at other institutions cannot be used towards the Coursework Qualifier requirements. The courses that satisfy the Coursework Qualifier requirements are as follows:
+Bioengineering:
+ECE 6200 - Biomedical Applications of MEMS
+ECE 6229 - Introduction to MEMS (Cross-listed with CHBE/ME 6229)
+ECE 6250 - Advanced Digital Signal Processing
+ECE 6780 – Medical Image Processing (cross-listed with BMED/CS 6780) 
+ECE 6781 - Biomedical Sensing Systems
+ECE 6786 – Medical Imaging Systems (cross-listed with BMED 6786) 
+ECE 6790 - Information Processing Models in Neural Systems (cross-listed with BME 6790) 
+ECE 88x3 - Implantable Microelectronic Devices 
+ECE 88x3 - Medical Ultrasound: From Diagnostic Imaging to Image-Guided Therapy (cross-listed with BMED 8813 MU)
+ECE 8843 - Advanced Medical Imaging Systems: CT/PET/SPECT Physics, Engineering and Applications (cross-listed with BMED 8813 AMI)
+BMED 6210 - Magnetic Resonance Imaging
+BMED 8813 - Optical Microscopy Computer Systems & Software: 
+ECE 6100/CS 6290 - Advanced Computer Architecture 
+ECE 6101 - Parallel and Distributed Computer Architecture 
+ECE 6102 - Dependable Distributed Systems
+ECE 6115 - Interconnection Networks for High Performance Systems
+ECE 6122 - Advanced Programming Techniques
+ECE 6130 - Advanced VLSI Systems
+ECE 6156 - Hardware Oriented Security and Trust
+ECE 6276 - DSP Hardware System Design
+ECE 6280 - Cryptography and Security
+ECE 6612/CS6262 - Computer Network Security 
+ECE 6747 - Advanced Topics in Malware Analysis
+ECE 8803 - Empirical Computer Security
+ECE 8893 - Parallel Programming for FPGAs
+ECE 8803/CS8803 - Intro to Quantum Computing
+ECE 8803/CS 8803 – Cybersecurity of Drones
+ECE 88x3 - Introduction to Cyber-Physical Systems Security
+CS 6210 - Advanced Operating Systems
+CS 6238 - Secure Computer Systems
+CS 6241 - Design and Implementation of Compilers
+CS 8803 - SMR: Systems for ML
+Digital Signal Processing:
+ECE 6250 - Advanced Digital Signal Processing or ECE 7750 - Mathematical Foundations of Machine Learning
+ECE 6254 - Statistical Machine Learning (Core course in the PhD ML degree)
+ECE 6255 - Digital Processing of Speech Signals
+ECE 6258 - Digital Image Processing
+ECE 6260 - Data compression and modeling
+ECE 6270 - Convex Optimization for SP
+ECE 6271 – Adaptive Filtering
+ECE 6272 - Fund of Radar Signal Processing
+ECE 6282 - Radar Imaging
+ECE 6605 - Information Theory
+ECE 7251 - Signal Detection and Estimation
+ECE 7751 - Probabilistic Graphical Models in Machine Learning (cross-listed ECE/ISYE/CS)
+Electromagnetics:
+ECE 6250 - Advanced Digital Signal Processing
+ECE 6272 - Radar Signal Processing
+ECE 6350 - Applied Electromagnetics
+ECE 6360 - Microwave Design
+ECE 6370 - Electromagnetic Radiation and Antennas
+ECE 6380 - Intro to Computational Electromagnetics
+ECE 6390 - Satellite Comm and Navigation Systems
+ECE 6420 - Wireless IC Design
+ECE 6520 - Integrated Optics
+ECE 7350 - Topics in Analytical EM
+ECE 7380 - Topics in Computational EM
+ECE 6375 - Radio Wave Propagation in the Earth and Space Environment
+EAS 6145 - Remote Sensing of the Atmospheres and Ocean
+EAS 6360 - Space Physics and Instrumentation
+EAS 8803 – Space Plasma Physics
+Electronic Design and Applications:
+ECE 6412 - Analog Integrated Circuit Design
+ECE 6414 - Analog Integrated System Design
+ECE 6420 - Wireless IC Design
+ECE 6422 - Interface IC Design
+ECE 6430 - Digital MOS Integrated Circuits
+ECE 6435 - Neuro Analog VLSI Circuits
+ECE 6444 - Si-based Hetero Devices and Circuits
+ECE 6445 - Power IC
+Design Energy:
+ECE 6320 - Control and Operation of Power Systems
+ECE 6323 - Power System Protection
+ECE 6331 - Power Electronic Circuits
+ECE 6332 - Power Electronics CAD Laboratory
+ECE 6335 - Electric Machinery Analysis (jointly taught with ECE 4335)
+ECE 6336 - Dynamics & Ctrl Electric Machine Drive
+ECE 6337 - Electricity Markets
+ECE 6374 - Cyber-Physical Security in Electric Energy Systems
+ECE 6445 - Power IC Design 39
+ECE 6456 - Solar Cells ECE 88x3 - Smart Grids
+ECE 88x3 - High Voltage Engineering
+Nanotechnology:
+ECE 6229 - Introduction to MEMS
+ECE 6444 - Silicon-Based Heterostructure Devices and Ckts
+ECE 6450 - Intro to Microelectronics Technology
+ECE 6451 - Intro to the Theory of Microelectronics
+ECE 6453 - Theory of Electronic Devices
+ECE 6455 - Semiconductor Process Control
+ECE 6456 - Solar Cells
+ECE 6458 - Gigascale Integration
+ECE 6460 - Microelectromechanical Devices
+ECE 6465 - Memory Device Technologies and Applications
+ECE 6542 - Optoelectronics: Dev, Integr, Pkg, Sys
+ECE 6771 - Optoelectronics: Matls, Processes, Dev
+ECE 6776 - Microelectronic Systems Packaging Technologies
+ECE 6779 - Thermal Engineering for Packaging of Micro and Nano Systems
+ECE 88x3 – Failure Mechanisms in Microelectronics
+ECE 88x3 – III Nitride Semiconductor Technology
+Optics and Photonics:
+ECE 6350 - Applied Electromagnetics
+ECE 6451 - Intro to the Theory of Microelectronics
+ECE 6500 - Fourier Tech System & Analysis
+ECE 6510 - Electro-Optics
+ECE 6515 - Nanophotonics
+ECE 6520 - Integrated Optics
+ECE 6522 - Nonlinear Optics
+ECE 6530 - Modulation, Diffractive & Crystal Optics
+ECE 6540 - Organic Optoelectronics
+ECE 6542 - Optoelectronics: Dev, Intgr, Pkg, Sys
+ECE 6543 - Fiber Optic Networks
+ECE 6771 - Optoelectronics: Matls, Processes, Dev
+Systems and Controls:
+ECE 6500 - Fourier Tech System & Analysis
+ECE 6550 - Linear Systems and Controls
+ECE 6551 – Digital Control
+ECE 6552 - Nonlinear Systems
+ECE 6553 - Optimal Control
+ECE 6554 - Adaptive Control
+ECE 6555 - Optimal Estimation
+ECE 6562 - Control Robotic Systems
+ECE 6563 – Networked Control
+Telecommunications:
+ECE 6601 - Random Processes
+ECE 6602 - Digital Communications
+ECE 6604 - Personal and Mobile Communication
+ECE 6605 - Information Theory
+ECE 6606 - Coding Theory & Applications
+ECE 6607 - Computer Communication Networks
+ECE 6610 - Wireless Networks
+ECE 6612 - Computer Network Security
+ECE 6613 - Broadband Access Networks
+ECE 6615 - Sensor Networks
+ECE 88x3 – Advanced Wireless Networks VLSI
+Systems and Digital Design:
+ECE 6130 - Advanced VLSI Systems
+ECE 6132 - Computer-Aided System Design
+ECE 6133 - Physical Design Automation
+ECE 6135 - Digital Systems at Nanometer Nodes
+ECE 6140 - Digital Systems Test
+ECE 6250 - Advanced Digital Signal Processing
+ECE 6254 - Statistical Machine Learning
+ECE 6331 - Power Electronic Circuits
+ECE 6412 - Analog Integrated Circuit Design
+ECE 6414 - Analog Integrated System Design
+ECE 6420 - Wireless IC Design
+ECE 6451 - Introduction to the Theory of Microelectronics
+ECE 6458 - Gigascale Integration
+ECE 6465 - Memory Device Technologies and Applications
+ECE 88x3 - Hardware Oriented Security and Trust
+ECE 88x3 - Foundations of VLSI Design and Implementation
+ECE 88x3 – Advanced Logic Transistor
+ECE 88x3 - Quantum Computing Devices and Hardware
+CS 6550 - Design and Analysis of Algorithms
+CS 7641 - Machine Learning
+
+Advisor Selection
+• Students who are looking for advisors and/or research topics should register for ECE8999.
+• While completing the Ph.D. Coursework Qualifier, a student is expected to identify a research advisor and report that advisor’s name to the ECE Office for Graduate Affairs.
+• It may be necessary and appropriate for a student to change advisors while identifying a suitable dissertation topic. Any change should be coordinated through the ECE Graduate Affairs Office.
+
+Dissertation Proposal The Dissertation Proposal Exam in the School of Electrical and Computer Engineering serves two functions:
+1. The second part of the ECE Comprehensive Exam (the Coursework Qualifier being the first part.)
+    • Test whether the student has sufficient background to enter the Ph.D. Program
+    • Allow the committee to judge the student’s ability to execute a research task and to communicate the results.
+2. Evaluation of the Ph.D. Dissertation topic and research plan by the Dissertation Reading Committee.
+    • Evaluate the proposed topic to ensure that, if completed as posed, it constitutes an original contribution to knowledge.
+    • Evaluate the proposed research plan to ensure that it is well-conceived and feasible to complete within a reasonable time.
+
+Timing of the Proposal Exam
+    • The proposal exam must happen in a semester in which the student is enrolled in at least 3 research credit hours (ECE 9000 under the advisor). The proposal cannot be completed while doing a full-time internship or during an off semester.
+    • The Proposal Exam must be successfully completed by the end of the 7th semester (not including summer) after the student matriculated into an ECE Graduate program.
+    • The student is not expected to have completed a large body of the original research that is necessary for their PhD Thesis to complete the PhD Proposal. The student must demonstrate background knowledge of their dissertation topic and a fundamental understanding of the discipline. The Proposal must contain a detailed and sound plan for the completion of PhD-level research on the dissertation topic, and preferably some results. However, it is understood that any results will be early and inconclusive; and the dissertation topic, methods, and results may evolve in between the Proposal and the PhD defense.
+    • The Ph.D. coursework plan should be completed by the time of the Ph.D. Proposal. If the coursework is not completed, the Academic Office must approve the coursework form indicating when the remaining classes will be completed. The proposal examination cannot be held if the student has not completed the professional communication seminar, ECE 8022, and did not meet the institute PhD residency requirement (full time enrollment for at least one semester while classified as PhD student).
+    • The Proposal Exam must occur at least 6 months before the Ph.D. Dissertation Defense Examination.
+    • Under no circumstances will the student take the Proposal and Defense Exams during the same term.
+
+Proposal Process
+    • Ph.D. Proposal Committee is comprised of 3-4 faculty members: the advisor (and a co-advisor, if one exists), and two Georgia Tech faculty members selected by the student. At least one member must be in ECE. Additional members can be added upon request.
+    • The format for the Proposal Examination involves a written report and an oral presentation.
+    • The written proposal is no more than 35 pages including references and appendices.
+    • The proposal must contain a chapter or sub-chapter entitled “Literature Survey,” appearing anywhere in the document that the student finds appropriate. The “Literature Survey” section is a minimum of five pages and must be written by the student with no outside help.
+    • The rest of the proposal document contains at minimum a concise statement of the Ph.D. dissertation topic, summary of the research completed, outline of the research to be completed and clearly summarizes the contributions of the research. The student can get help in preparing the rest of the proposal document. The documents are submitted to the Academic Office, which oversees assigning the Ph.D. Proposal chair and sending the Ph.D. proposal documents to the members of the committee. The committee needs to be given at least two weeks to read the Ph.D. Proposal before scheduling the oral portion of the exam. If the Ph.D. Committee is satisfied with the written report, the oral presentation is scheduled. The presentation usually lasts about 40 minutes. There is a general audience question and answer period followed by a closed-door examination period with the committee. The following is the summary of the Ph.D. Proposal process. For more details, consult the Proposal Guidelines document at https://www.ece.gatech.edu/current-students/graduate/forms.
+    1. Fill out the coursework plan https://www.ece.gatech.edu/current-students/graduate/forms, showing all grades earned for the classes already completed and the planned remaining classes. The form needs to be approved by the ECE Graduate Affairs Office.
+    2. Visit the Academic Office to express the intent of submitting the proposal, to verify the coursework and the committee, and to clarify all details of the process.
+    3. Submit the following to the ECE Graduate Affairs Office:
+        o To the Academic Office (email daniela@ece.gatech.edu): Electronic (pdf) copy of the proposal document with the DocuSign disclaimer form inserted before the Table of Contents page (the disclaimer form can be found at https://www.ece.gatech.edu/current-students/graduate/forms).
+        o Online: Electronic committee form submission https://www.ece.gatech.edu/current-students/graduate/forms. The body of the email must contain a short abstract. The abstract must begin with “The objective of the proposed research is….”
+    4. The Academic Office assigns the chair and distributes the proposal materials to the committee members.
+    5. The Committee Chair coordinates proposal committee activities and seeks input on the proposal.
+    6. When the committee determines that the proposal is ready for examination, the chair schedules the exam through the ECE Graduate Affairs Office. The date, time and location of the proposal exam must be announced at least five working days in advance.
+    7. The following forms must be filled out and signed the day of the oral exam (forms to be found at https://www.ece.gatech.edu/current-students/graduate/forms):
+        a. Admission to PhD Candidacy DocuSign form (student’s responsibility). The form needs to be submitted the day before the oral exam. The form is DocuSigned by the committee members, the student, the school chair, and the graduate coordinator. Use the name of a Graduate Coordinator (Daniela Staiculescu or the person designated in her absence) for the “School Chair” and “Graduate Coordinator” fields. 
+        b. PhD Proposal Committee Chair Report (Committee chair’s responsibility)
+        c. PhD Proposal Individual Evaluation Form (All committee members’ responsibility).
+    8. The student is strongly encouraged to send a reminder to the committee right before the exam with the links to the evaluation forms (committee chair form and individual evaluation form).
+    9. The process could take as short as 3 weeks, but it can take up to 8 weeks or longer especially at busy times of the term or at times when faculty are traveling away from campus.
+
+After Passing the Proposal
+    • The Ph.D. Proposal Committee members chosen by the student, including the advisor, become the Dissertation Reading Committee Members.
+    • Because the proposal examination may occur early in the process of defining the dissertation topic, it may be necessary to modify the topic as the research progresses. • The proposal should not be construed as a “binding contract” between the committee and the student, but as a flexible agreement that is expected to evolve as the research progresses. Degree Progress Report As of Fall 2020, all ECE Ph.D. students will submit a progress report to the proposal committee on June 1st of every year, starting two years after the proposal exam (Example: if a student proposes in 2020, their first report would be due on June 1, 2022). The proposal committee evaluates the degree progress and makes a recommendation of satisfactory or non-satisfactory degree progress.
+    • The following are the steps to be taken:
+        o The student should initiate the PhD progress report form on DocuSign, found at https://www.ece.gatech.edu/current-students/graduate/forms
+        o After the student has completed their part of the form, it is automatically forwarded to the advisor, who rates the student's progress on a 1-5 scale
+        o After the advisor, the form is automatically forwarded to the Proposal Committee Chair, who will give a 'satisfactory' or 'unsatisfactory' rating on behalf of the committee. The Proposal Committee can optionally provide additional feedback to the student and advisor.
+    • In extraordinary cases, the Proposal Committee can mandate that the dissertation defense must be completed within the next year.
+    • Appeals of the Proposal Committee's determination are sent to the ECE Graduate Committee.
+    • One 'unsatisfactory' places the student on Warning. A second 'unsatisfactory' places the student on Probation. The third 'unsatisfactory' results in dismissal from the ECE PhD program. A 'satisfactory' restores the student to good standing.
+Dissertation and the Final Defense
+    • The Ph.D. student's primary requirement is to do original and substantial research reported in the Ph.D. Dissertation and Final Defense. The dissertation's quality depends on the conscientious work of the student and the Reading Committee. The School entrusts the standards of the School in this area to this committee.
+    • The Final Defense Committee is composed of five people including the Reading Committee members plus two extra members. The chair of the Dissertation Committee is the Thesis Advisor. The two extra members are chosen as follows:
+        o One member must be Academic Faculty outside the School of Electrical and Computer Engineering. This person can be from another university, with the restriction that they are not within one year of having earned the Ph.D. degree. If the person is not a Georgia Tech faculty member, then that person must provide a current CV to be approved by the Institute Graduate Office. Outside ECE academic faculty who have an adjunct position in ECE are approved, but not faculty with double appointments in ECE and another department.
+        o The last committee member can be ECE faculty. At minimum, they must hold a Ph.D. and be active in research. If the extra person is not a Georgia Tech faculty member, then a CV must be provided to the ECE Graduate Office for approval.
+    • The student must clear the dissertation with their thesis advisor before disseminating the document to the committee. The thesis advisor is responsible for reviewing the document's content before distributing it to the Reading Committee.
+    • The student should submit the dissertation to the Reading Committee with sufficient time to examine, typically at least two weeks but preferably a month. Once the Reading Committee is satisfied with the dissertation, the student must obtain their signatures on the Reading Committee Memo.
+    • The Advisor must coordinate the scheduling of the dissertation exam with the committee members and submit the Schedule Defense Memo to the ECE Graduate Affairs Office. This can be delegated to the student by the Advisor.
+    • The two memos (Reading Committee and Schedule Defense) need to be submitted to the Graduate office at least two weeks before the dissertation defense date. The memos can be found online in the “Dissertation and Final Defense” section at https://www.ece.gatech.edu/current-students/graduate/forms.
+    • The additional committee members should receive a copy of the dissertation no later than two weeks prior to the defense date. 
+    • The Certificate of Thesis Approval which is available through the Graduate Education website at http://www.grad.gatech.edu/theses-dissertations-forms should be signed via DocuSign by the final examination committee at the dissertation defense. Each committee member must fill out an electronic individual evaluation form right after the dissertation defense. The evaluation form can be found at https://www.ece.gatech.edu/current-students/graduate/forms. The student is responsible for submitting the Certificate of Thesis Approval via DocuSign right before the dissertation defense. The School Chair/Graduate Coordinator field has to be filled out with Dr. Daniela Staiculescu’s name (or someone else that she will indicate if not available at the time of the defense). The student is also responsible for disseminating the link to the individual evaluation form to the committee members right before the defense.
+    • After all signatures are collected, the student is responsible for submitting the Certificate of Thesis Approval, and the rest of the documents on the checklist found at http://www.grad.gatech.edu/theses-dissertations-forms
+    • The student is responsible for uploading the thesis after all the defense forms have been signed. The Graduate Education office controls the format of the thesis and other related reporting. The student must stay connected with that office to ensure all degree requirements are met. Guidelines for preparing and submitting the dissertation are available at the Graduate Education website - http://www.grad.gatech.edu/theses-dissertations
+    • If, at any time, there is uncertainty about what to do next or what is expected of the student, check with an advisor in the Academic Office. Do not rely on secondhand information!
+    The following is the summary of the Ph.D. Defense process:
+        • Apply for graduation by the end of Phase II registration of the graduating semester.
+        • Attend the Defense Info session that the Academic Office holds on the second week of classes.
+        • Plan on a time to defend, preferably at least one week before the gradation deadline.
+        • Be prepared to have your dissertation completed and reviewed by your advisor about a month before the planned defense date.
+        • Identify the last two committee members and contact the Academic Office if in doubt about their eligibility.
+        • Send the dissertation to the reading committee. Give them two weeks to read, then initiate the Reading Committee Memo on DocuSign.
+        • Prepare the Schedule Defense Memo. It can be submitted to the Academic Office by the student or the advisor.
+        • The two memos need to be submitted at least two weeks prior to the defense date. The Academic Office will post the exam online at https://ece.gatech.edu/events/grad.
+        • The day before the defense initiate the Certificate of Thesis approval (https://grad.gatech.edu/theses-dissertations/forms) and remind the committee members to fill out the evaluation form (found here, please include the link to the form: https://ece.gatech.edu/academics/graduate/student-forms-and-guidelines)
+        • After completion of the Certificate the Academic Office will contact you with the final steps. The graduation checklist and all the required forms can be found at: https://grad.gatech.edu/theses-dissertations/forms.
+    Reasonable Degree Progress
+        • A “Ph.D. student” is defined as one who has accepted an admission offer that indicated "Ph.D." rather than "M.S." degree. M.S. students who wish to be reclassified as Ph.D. students should contact an Academic Advisor for additional information.
+        • Graduate students in the ECE degree programs are expected to make diligent progress toward the Ph.D. degree. It is in the best interests of both students and faculty for all students to progress through the program expeditiously. Recommendations and requirements for reasonable progress are defined as follows:
+            o Students seeking a Ph.D. degree are required to pass the Coursework Qualifier in the first four semesters (not including summer).
+            o Ph.D. Students are encouraged to complete all required coursework, including the Professional Communications requirement and the minor, by the end of the third year in the program (if entering from a B.S. degree program) or the end of their second year in the program (if entering with an M.S.).
+            o Students are encouraged to identify a Ph.D. research advisor as early as possible in the program and are urged to do so by the end of the term in which they pass the Coursework Qualifier and no later than the term following the one in which they pass the Coursework Qualifier.
+            o ECE PhD students are required to complete their Proposal Exam by the end of their 7th term, not including summer.
+            o If a student has not met the above Coursework Qualifier or Proposal Exam requirements by the end of the terms specified above, they will be dismissed from the PhD program. A student may petition the graduate committee for a one-semester extension. Petitions for Proposal Exam extensions must include a statement detailing the student’s progress. Exceptions may be made by the Associate Chair for Graduate Affairs after reviewing the circumstances involved as presented by the student and the research advisor.
+            o As of Fall 2020, all ECE Ph.D. students will submit a yearly progress report to the proposal committee after the successful completion of the Ph.D. proposal to insure proper degree progress. The progress report is first submitted the second summer after the proposal completion, and every year after that.
+            o It is recommended that the Proposal Examination is successfully completed at least one year prior to the Final Defense examination, and that it must be completed at least 6 months in advance of the Defense Examination.
+            o The Institute requires that Ph.D. students (full-time or part-time) complete all degree requirements within 7 years of passing the Comprehensive Examination, that is, the Ph.D. Proposal Exam in ECE.
+        • During the Ph.D. program, students are permitted an unlimited number of summer terms of non-residence, during which they may be employed as interns at industrial or government employers. A student’s research advisor, however, may advise against summer leave if circumstances so dictate.
+            o Students supported as GRA are expected to coordinate internships with their advisor.
+            o Only one non-summer term may be used for internships or other employment without the prior permission of the ECE Associate Chair for Graduate Affairs.
+
+FINANCIAL ASSISTANCE
+Financial Aid
+• Financial Aid in the form of fellowships and loans is available to qualified students. Long and short-term student loans are handled through the Office of Scholarships and Financial Aid. Interested students should contact that office directly.
+• Many national graduate fellowships consider applicants who are “at or near” the beginning of their graduate programs. ECE encourages qualified graduate students to apply for national graduate fellowships in their studies. Information about fellowships and links to important fellowship information can be found athttps://grad.gatech.edu/fellowships-and-funding
+• Students who have been awarded the President's Fellowship or other Georgia Tech supplemental fellowships are also strongly encouraged to apply for national fellowships early in their tenure at Tech.
+
+Graduate Internship Program
+The Graduate Internship Program gives masters and doctoral students opportunities to include specialized work experiences in their studies. This program is managed through the Georgia Tech Career Center http://www.careerdiscovery.gatech.edu/graduate-students
+• Information on the internship program can be obtained through their website https://www.careerdiscovery.gatech.edu/graduate-internship-program-information.
+• Students who apply for assignments through the Graduate Internship Program must advise the ECE Graduate Affairs Office of their intentions before participation can be approved. Interns must be registered for the semester of the internship for 12 credit hours.
+
+How to submit a request to approve your graduate internship:
+• Complete Experiential Learning Application in CareerBuzz
+• Obtain a written offer letter from your prospective internship employer. Be sure it includes the dates you will work, the address where you will work, and contact information.
+• Obtain signed approval from your academic advisor allowing a full-time or part-time graduate internship. Doctoral and Master Thesis students must also have their faculty advisor approval.
+• Upload the offer letter and advisor approval form in CareerBuzz. Detailed information on the internship application process can be found at https://career.gatech.edu/graduate-student/application-process
+• Students approved for a graduate internship will receive a confirmation email and will be automatically enrolled in a no-tuition audit course by the Registrar’s Office. Please contact Career Service if you do not see the internship course posted to your account before the close of Phase II registration.
+• Students must complete a new internship request form before EACH semester’s work term.
+• If you wish to appeal your internship decision, information on the new appeal process can be found here http://career.gatech.edu/internship-appeals-process
+
+Timing of Internship:
+• ECE does not encourage students to intern during fall and spring semesters as a considerable number of courses are offered in these two terms and most faculty are on campus. ECE graduate students seeking outside work assignments should plan to be gone during summer term and be in school during fall and spring.
+    o Students may be permitted to spend one regular fall/spring semester as an intern in an industrial or government position per degree (that is, once while seeking the M.S. degree and once while seeking the Ph.D. degree).
+    o Students desiring more than one semester (fall, spring) of internship or other employment must have the expressed permission of the ECE Associate Chair for Graduate Affairs.
+• Students supported as GRAs are expected to coordinate internship with their advisor.
+• Subject to the approval of the research advisor, Ph.D. students are permitted an unlimited number of summer terms of non-residence, during which they may be employed as interns at industrial or government employers.
+• International students who have completed less than two semesters of full-time graduate level study in ECE's graduate program will not be given approval to participate in the graduate internship program.
+• Approval to work off campus will also not be granted to any student not in good academic standing or making satisfactory progress toward completing their degree program.
+
+Graduate Teaching and Research Assistantships
+Some students are offered assistantships as part of their admissions package. Others arrange assistantships through direct contact with faculty working in an area of shared research interest. Graduate Research Assistants (GRA) and Graduate Teaching Assistants (GTA) positions come with a tuition waiver, with the requirement that the students are registered full time.
+• Common Rules for GRAs and GTAs:
+    o To be eligible for the tuition waiver, GRA/GTAs must be employed at a minimum rate of one-third time (13-15 hours per week) and must be enrolled full time (at least 12 hours of credit, no more than 3 of which are audits). Students who fail to meet one of these criteria are assessed full tuition and fees based on their residency status.
+    o As a courtesy to students, the ECE Graduate Affairs Office monitors the registration status of students with GRA/GTAs. Email messages are sent to individuals who are not registered properly or have underpaid their tuition and fees. Do not ignore an “improper registration” message. Failure to comply with Institute requirements may result in a loss of the tuition waiver, cancellation of classes, loss of employment, or loss of immigration status.
+    o No student can be employed as a GTA/GRA for more than 50% of the time (20 hours per week).
+    o ECE requires that all students who hold GRAs carry a total load of 21 hours in fall and spring semesters, 16 hours in summer term.
+    o GRA/GTAs must be hired no later than the end of the final registration period for the term.
+    o It is the responsibility of hiring faculty members to supervise the assistantship efforts of the students in their employ each term.
+    o The student is responsible for ensuring that all criteria necessary for fee reduction eligibility are met and that the assistantship supervisor’s employment requirements are fulfilled.
+    o More specific details regarding employment as a GRA/GTA are available in the ECE Graduate Assistant Handbook located on the ECE website. o ECE graduate students are permitted to seek GRA/GTA appointments outside of ECE. The hiring department must hire the student in GradWorks or report the appointment to the ECE Academic Office so that the tuition waiver can be recorded.
+• Those wishing to be considered for Graduate Teaching Assistantships (GTAs) in the School of Electrical and Computer Engineering may indicate their interest by filing the Position Request form based on the email requests coming from the Associate Chair.
+    o The priority for GTA hires is the following:
+        1) students to whom GT has a commitment (such as fulfilling an admission offer obligation),
+        2) students who have a unique qualification to TA a specific course,
+        3) Ph.D. students who have temporarily lost funding and are otherwise making good progress towards their degree,
+        4) students who are well-qualified and making good progress towards their degree.
+    Ph.D. students who wish to be hired under category 3) above must have their advisor request the position by contacting the Associate Chair for Graduate Affairs. That request should contain the following information: why the student needs funding, how long the support is expected to be needed, and the last time that such a request was made by that advisor (for any of their students). Priority for these cases will be to students who are making satisfactory progress towards their degree and whose advisors have not received recent GTA funding for their students.
+
+An exception to the priorities above is for instructors of ECE 3710 and ECE 2020IE, the two courses ECE teaches for non-majors. Only students who have an M.S. degree or who have completed 30 hours towards their degree can teach these courses. We strongly encourage any student who is interested in an academic career to consider teaching ECE 3710 or ECE2020IE. We typically guarantee at least two terms of support for these instructors.
+    o All GTAs must register for ECE 8997 each semester in which they are a GTA.
+    o All GTAs must take CETL 8000, a one credit hour pass/fail class, during their first term as GTA, even if they are continuing students.
+        • Students who wish to be considered for Graduate Research Assistantships (GRAs) should make direct contact with faculty members researching in their interest area to discuss the possibility of being hired. Current GRA positions in ECE are also advertised at https://researchopportunities.ece.gatech.edu/research-positions/.
+    o ECE is using GradWorks for hiring Graduate Research Assistants every semester. After confirming being hired by a faculty member, the faculty initiates the process by filing a hire request in GradWorks. The process continues with accounting, academic office, and human resources approvals. GradWorks keeps the entire hiring process in one place for easy tracking and management.
+    o More information on GradWorks can be found at http://www.gradadmiss.gatech.edu/GTGradWorks.
+    o Once the hiring process is completed in GradWorks, students hired for the first time and students who have been off payroll for more than a year will receive an offer letter that includes additional information on ECE and Institute policies and paperwork for accepting the assistantship.
+    o No assistantship offers in the School of Electrical and Computer Engineering is valid without an offer letter from the Associate Chair for Graduate Affairs.
+    o All GRAs must register for ECE 8998 each semester in which they are a GRA.
+
+Hourly (or Graduate Assistant) Positions
+• Students may be hired as a Graduate Assistant (GA) and paid hourly. However, Georgia Institute of Technology applies significant restrictions to the hiring of graduate students as GAs (Graduate Assistant).
+    o Hourly appointments must be approved by the Associate Chair for Graduate Affairs before the student is hired since ECE must be able to justify the hourly appointment to the College of Engineering and to the GT Graduate Education Office.
+    o Hourly (GA) hires are appropriate only in the following circumstances:
+        Students are not eligible to be hired as a GRA or GTA since they are employed for less than 12 hours per week, will be away from campus for a massive portion of the semester and are not registered as full time.
+        Students whose position does not entail research or education may be hired as a GA.
+        Students whose fellowships pay for tuition are hired as a GA rather than a GTA or GRA.
+• Students employed must be registered and will pay tuition and fees based on their residency status for the course hours they are registered in.
+
+Tuition Waivers
+• Georgia Tech provides a limited number of out-of-state tuition waivers to exceptional graduate students. These waivers permit full-time students to pay Georgia resident fees instead of out-of-state fees.
+• Most of these waivers are used to fulfill agreements made with external funding agencies such as The Fulbright Commission.
+• Students wishing to be considered for a tuition waiver nomination must contact an academic graduate advisor before submitting the tuition waiver requests.
+• Military personnel and international students who are becoming permanent residents of the US should contact the Registrar’s Office for tuition waivers specific to their statuses.
+Direct Deposit
+• Georgia Institute of Technology requires that all employees (including student employees) arrange to have their salary/stipend payment directly deposited with the financial institution of their choice.
+• Arrangement for direct deposit of the GRA or GTA stipend can be made when one completes the GT hiring paperwork with the Office of Student Employment.
+• Non-employment related payments such as tuition refunds, fellowship payments, etc. are made to students through the Bursar’s Office.
+• The Bursar’s Office also offers a direct deposit option to students who may receive tuition refunds, fellowship payments, etc. through their office.
+• Information on arranging direct deposit of funds handled through the Bursar’s Office can be found at: http://www.bursar.gatech.edu/.
+
+GRADUATION
+The culmination of the efforts made to fulfill the M.S. and/or Ph.D. degree requirements is the awarding of the degree – GRADUATION!
+• All the instructions and necessary forms needed to apply for graduation are available online at https://www.ece.gatech.edu/masters-degrees for the M.S. degree and https://www.ece.gatech.edu/phd-degrees for the Ph.D. degree.
+    o Ph.D. students submit only the Online Application for Graduation (OAG). This is done through OSCAR.
+    o M.S. students submit OAG and fill out the ECE coursework form at https://ece.gatech.edu/academics/graduate/student-forms-and-guidelines.
+• The OAG and the coursework form must be completed no later than the deadline provided by the Academic Office.
+
+Enrollment in the Graduation Term
+• It is an Institute requirement that students be enrolled for a minimum of three hours in the term in which they graduate.
+• M.S. thesis option and Ph.D. students who have no requirement to be enrolled full-time (i.e., no GRA or GTA, no fellowship support, no visa requirements) can register for a single hour in their final term. The one-hour option can only be used one time . Students who do not graduate in their expected term may have to enroll in the next term.
+• Students who complete all their degree requirements before the close of registration of the next term are eligible to graduate without being enrolled (with an enrollment waiver). This option is also only available on a one-time basis.
+    o To request an enrollment waiver, the student must complete a form (signed by the thesis advisor - where applicable - and the ECE Graduate Affairs Office) certifying that all degree requirements have been met and that the student will not be making use of any of Georgia Tech’s facilities during the term of graduation.
+    o In cases where a thesis is being submitted, this waiver is filed with the required thesis submission paperwork after the thesis or dissertation has been uploaded electronically.
+    o Where a thesis is not required, the enrollment waiver is filed with the degree petition. NOTE: International students (those with F or J visa) who plan to register for less than a full-time course load in their graduation term must submit a Reduced Course Load, via iStart, with the Office of International Education. Failure to do so could result in the student being considered "out of status" in their final term. Candidates for degrees are not required to attend commencement. However, Georgia Tech's commencement program is worth attending. Information concerning each commencement is available on the GT website at: http://www.gatech.edu/commencement. Graduation Invitation Letters It is Georgia Tech policy that neither academic nor administrative units provide “Graduation Invitation Letters.” Student wishing to have family members who would need visas to enter the U.S.
+attend their graduation ceremony may write invitation letters for their relatives, but no official letter from ECE or Georgia Tech will be issued.
+
+Online Master’s Degree Students
+• It is Georgia Institute of Technology policy that Online Master’s Degree students must graduate in the term following the one in which they complete their degree requirements.
+• In addition to completing the OAG and the coursework form, online students must include a completed enrollment waiver form found at http://grad.gatech.edu/theses-dissertations-forms (The enrollment form is located under “Additional Forms”)
+
+Reactivating/Reapplying to Graduate
+• M.S. and Ph.D. students who do not graduate in the term for which they applied need to know that the application does not roll automatically into the next term. A new Online Application for Graduation (OAG) must be submitted after waiting for the old application to deactivate (usually about 10 days after the thesis/dissertation deadline).
+
+ADDITIONAL INFORMATION FOR ALL STUDENTS
+Absence from School ECE students are expected to complete their degrees in a timely manner. It is understood that professional conferences, internships, employment opportunities, vacations, family obligations, and personal emergencies may warrant time away from school. In addition, accurate student contact information must be maintained on the OSCAR system. The ECE Notice of Absence form can be found on the ECE website. Students travelling away from campus during times other than formal break periods (or who will be away from campus longer than a scheduled break period, holiday, or weekend), must file an “Absence Request” form, found on in the forms section of the ECE website. The form is prepared by the student and must be approved by the student’s advisor. Not all absence requests are approved.
+Note: It should be noted that these forms do help us to locate a student in case of an emergency or for some other valid reason that requires knowledge of their whereabouts. International students (those holding F or J visas) must check in with the Office of International Education before traveling away from Georgia Tech. Students traveling abroad should be aware of global conditions that may impede their return to Tech. International students should also be aware that the only term that they are able to take as a “vacation term” is summer. International students should take care to make travel plans with this stipulation in mind.
+All students, regardless of their citizenship status, are expected to plan leave time based upon the official Georgia Institute of Technology calendar maintained by the Registrar’s Office. Graduate Research and Teaching Assistantships are part-time, temporary positions. As such, students employed in those positions do not accrue vacation or sick time. Students (including those with GRAs or GTAs) wishing to take vacations should do so in accordance with the official school calendar. Vacations or other non-emergency leave should not be taken during the term's official period. Plans should be made so that students who take leave are back on campus no later than the first day of classes and do not leave for a significant period (other than official school holidays) until after the close of the term. Graduate classes may meet in the first session of each term. Missing class can have significant consequences later in the term. In situations in which Ph.D. students and/or M.S. thesis option students are permitted by their research advisor to leave campus during a term, every effort must be made to limit the time away from campus. Students supported with Graduate Research or Teaching Assistantships must comply with GT requirements for funding and fulfill the commitments required in compliance with the employment opportunity they accept.
+
+Alternative Study Opportunities Online Master’s Degree
+The M.S. degree in Electrical and Computer Engineering is also offered online. Detailed information about this program is available at https://pe.gatech.edu/. Most online students are admitted directly into the Online Master’s Degree program. Occasionally an on-campus student may wish to switch to online studies. A request sent to https://www.ece.gatech.edu/contact-ece-graduate-affairs-office is the best way to start this process. No change from on campus to Online Master’s Degree is made until after the student has contacted the distance learning program coordinator.’ Georgia Tech – Europe Georgia Tech operates a graduate electrical and computer engineering program at its campus in Metz, France. Nestled in Technopole 2000, an industrial park on the outskirts of Metz, Georgia Tech Europe offers a program leading to the M.S.E.C.E. and Ph.D. School of Electrical and Computer Engineering faculty members in residence at GTL teach classes. Dual degree programs with various prestigious European partner schools are also available. For information about opportunities for study at GTL, please visit the GTL website at http://europe.gatech.edu/. Georgia Tech – Shenzhen Starting in Fall 2014, Georgia Tech offers its existing M.S. degree in Electrical and Computer Engineering in Shenzhen, China, housed at the Shenzhen Virtual University Park (SZVUP). SVUP is an innovative model in China emphasizing university-industry partnerships, technology transfer and business incubation. Situated next to Hong Kong, Shenzhen has the fourth largest GDP in China. It is a clean, green city, has a young population and is very high-tech. GT-Shenzhen will serve as a platform for graduate study abroad for all GT students. A unique program - the Global Engineering Immersion Program (GEIP) - will capitalize on GT's academic presences in Atlanta, GA, Lorraine, France, and Shenzhen, China, and encourage students to complete the GT M.S. degree by studying with GT on 3 different continents as little as 12 months. More information about this program can be found on the Georgia Tech – Shenzhen website http://www.shenzhen.gatech.edu/ or by contacting the Georgia Tech – Shenzhen Program Coordinator Ms. Chelcea Warren at chelcea.warren@ece.gatech.edu or 404-385-5753.
+
+Multidisciplinary Certificates
+In addition to the specialization within electrical engineering, the school participates actively in several multidisciplinary certificate programs. These programs consist of groupings of courses that cut across existing disciplinary lines and address specific application areas. A student who successfully completes one of the multidisciplinary programs will receive a certificate from the College of Engineering in addition to the degree in electrical engineering. Examples of such certificates are: https://spp.gatech.edu/graduate/certificates/pubp http://scheller.gatech.edu/motcert. Please see a graduate advisor for any specifics on how a graduate certificate can be integrated into the ECE course requirements.
+
+Interdisciplinary Degrees
+The School of ECE participates in multiple campus-wide interdisciplinary degree programs: the M.S. in Cybersecurity, the Online M.S. in Cybersecurity, Ph.D. in Robotics, Ph.D. in Machine Learning, and the M.S. and Ph.D. degree programs in Bioengineering. New students seeking admission to Georgia Tech would mark one of these options on the application as the discipline. Existing students who wish to transfer into these programs must visit the Academic unit of the program they wish to transfer into. For specific information on all degree programs involving the school of ECE visit: https://ece.gatech.edu/future-students/graduate-admissions Certification Letters Graduate students may find that they are requested to provide documentation of their academic status or verification of employment to entities outside of Georgia Institute of Technology. The Office of Human Resources (OHR) is the official source for employment verification information. The Registrar’s Office is responsible for providing documentation related to academic matters. The ECE Graduate Affairs Office does not provide documentation of either employment or academic status. To request documentation of a teaching or research assistantship you should follow the instructions at https://ohr.gatech.edu/resources/employment-verification. Requests for certification of enrollment, academic standing, etc. can be filed through OSCAR (https://oscar.gatech.edu) or through the Registrar’s Office website (www.registrar.gatech.edu). Both the Registrar’s and Human Resources websites provide information about the time needed to process certification requests and assistance to guide you through the request process.
+
+Communication with Students 
+• The Georgia Institute of Technology email account is the official means of communication with Georgia Tech students.
+• All ECE graduate students are required to activate their Georgia Tech email accounts.
+• Students who prefer to use an email service other than the Georgia Tech email as their primary account, must arrange for messages sent to the official address to be forwarded to the preferred email address.
+• The ECE Graduate Affairs Office and other Georgia Tech administrative offices use the Georgia Tech email account as a means of conveying vital information to students.
+• Each student is responsible for knowing the information sent by email.
+• Deadline reminders are sent by the Graduate Affairs Office as a courtesy. All deadline information is available on the ECE website. Stating that a reminder email was not received is not a valid excuse for a missed deadline. It is the student’s responsibility to know of and to meet all important deadlines.
+• ECE uses three bulk email addresses to get information to our graduate students.
+    o grads@ece.gatech.edu - is used to convey academic-related information to all graduate students. This email address is built from the enrollment rolls each term.
+    o phds@ece.gatech.edu - goes only for Ph.D. students as they are classified at the beginning of the term.
+    o news_grads@ece.gatech.edu - is used to convey non-academic information, such as announcements about events in ECE, scholarships, career fairs, upcoming conferences, post-graduate employment opportunities, etc. to students who are interested in receiving that information. Students wishing to subscribe (or unsubscribe) to/from the news_grads@ece.gatech.edu list do so by emailing an empty message with the “news_grads” subject line to sympa@lists.gatech.edu from a GT email account (all others will be rejected).
+    o Students may also subscribe at https://www.gatech.edu/emergency/notification.html to an institute-wide service that will send emergency alerts to individual GT email accounts.
+• Students are required to update their personal contact information (addresses, phone numbers, etc.) with Georgia Institute of Technology through OSCAR. The ECE Graduate Affairs Office will refer to this information when attempting to contact students.
+• ECE recognizes that personnel information is confidential and under no circumstances will this information be shared with outside parties. Written permission must be given before personal information is released to anyone outside of ECE.
+
+Health Insurance
+• All graduate students who are employed as Graduate Research or Teaching Assistants and all graduate students attending Georgia Tech on F1 or J1 visas are required to obtain health insurance through a University System of Georgia negotiated health plan. Information on the program can be found at http://www.bursar.gatech.edu/content/mandatory-student-insurance.
+
+Mail Service
+• Due to limited resources and a large student population, ECE does not provide departmental mailboxes for students.
+• Students living in campus housing will be assigned a mailing address by the campus post office.
+• Students living off campus may apply for a campus post office mailbox. There is a fee for this service. More information can be found at https://studentcenter.gatech.edu/ • Graduate students must plan to have their mail sent to their local addresses or to their mailbox at the campus post office. • Mail and/or packages sent to the School of Electrical and Computer Engineering for graduate students should be sent in care of the students’ research advisors.
+• Mailboxes assigned to specific classes are provided in the ECE mail/copier room (W203, Van Leer). These boxes are for use by graduate teaching assistants (GTAs) with responsibilities for the classes designated. It is each GTA’s responsibility to check the mailbox for their assigned class daily and to be sure that all materials are removed from the mailbox at the end of the term so that assignments for the next term can be made.
+
+INFORMATION FOR ECE UNDERGRADUATES
+Permission to take Graduate Level Classes
+• The school urges qualified Georgia Tech undergraduates to attend graduate school since the master's degree is increasingly regarded as the starting point of a professional career.
+• The school provides two ways for a qualified undergraduate to get a head start on the Georgia Tech graduate degree requirements: the B.S.-M.S. Program and the Graduate Option.
+
+The B.S.-M.S. Program
+• The Joint B.S./M.S. degree program affords undergraduate electrical or computer engineering majors the opportunity to broaden their studies and improve their career prospects.
+• Interested undergraduate students can apply during their sophomore year or later. The BS/MS program is a continuous enrollment program. The application should be submitted for the semester immediately following graduation from the BS program in accordance with the application deadlines as noted at the Joint BS/MS page.
+• Students interested in applying for the B.S.-M.S. program will submit a graduate school application and a brief Statement of Purpose addressing interests and ambitions, how a graduate level degree will support these plans and offering a brief recap of academic and personal accomplishments that support their interest in graduate level work.
+    o One letter of recommendation from a faculty member or former supervisor/mentor. Additional recommendation letters are also accepted discouraged.
+    o Unofficial Georgia Tech undergraduate transcript (Required if admitted. Tech will obtain an official transcript on your behalf upon graduating from the BS program.)
+    o Employment history (if applicable) or Resume/curriculum vitae (optional)
+    o The GRE (Graduate Record Examination) and application fee requirements are waived for students admitted through the B.S.-M.S. program.
+• Once admitted, B.S.-M.S. students are expected to maintain a strong grade point average through the remainder of their undergraduate program.
+    o The final undergraduate GPA is expected to be 3.50 or higher.
+    o Students admitted into the B.S.-M.S. program cannot have an undergraduate term GPA lower than 3.0 .
+• Students admitted into the B.S.-M.S. program may use up to six credit hours of undergraduate or graduate level ECE coursework for both degrees. • To double count hours towards the B.S. and M.S., the master's degree must be completed within a two-year period from the award date of the bachelor's degree. • Students wishing to apply for the B.S.-M.S. program should first review the B.S.-M.S. materials on ECE's website http://ece.gatech.edu/academics/joint-bs-ms. B.S./M.S. students are welcome to pursue doctoral studies in ECE. For more details follow the procedures outlined in Changing Major from MS to PhD. Classes Completed as a GT Undergraduate • Students who graduated with a B.S. from ECE with at least a 3.5 GPA may choose the “Graduate Option” rather than the B.S.-M.S. plan. In this case, they apply to graduate school using the full application and they may double-count 6 credits taken as a Georgia Tech undergraduate towards their M.S. degree provided that the classes meet the requirements for both degrees. To double count class toward both the B.S. and the M.S., the M.S. degree requirements must be completed, and the M.S. degree awarded within two years of the BS degree.
+• Students who completed their undergraduate degree in ECE, including those who are ineligible for the B.S.-M.S. program may be able to count excess courses taken as an undergraduate towards their M.S. degree. This information will be verified by an ECE undergraduate advisor. o Under this option, students take hours more than those required for the undergraduate degree, at either the graduate or senior level. o An undergraduate wishing to take graduate level courses using this option must be classified as a senior, have a minimum GPA of 3.25 and receive an on-line permit before registering for the course. o The excess approved hours accumulated are considered for use toward the graduate degree by listing them along with the other classes to be used toward the graduate degree on the ECE Coursework Planning Form.
+    o These classes are distinguished from those to be taken as a graduate student by recording a grade notation of "UG” and noting the term and year in which each class was completed.
+    o The use of hours from undergraduate studies is also subject to approval by the Registrar’s Office. This is done when the M.S. degree petition is submitted.
+    o Up to 12 hours completed as an undergraduate may be used for the master's degree. B.S.-M.S. students and Graduate Option Students who double-count 6 credits towards their M.S. degree are allowed two additional graduate level courses (taken as an undergraduate and not used towards the BS degree) to count towards their M.S. degree.
+IMPORTANT NOTE: Undergraduate students are not to delay completion of the bachelor's degree by taking classes intended to be used toward a future graduate degree.
+    • Requests for permits to register for graduate level classes to be taken while classified as an undergraduate student are filed through the “Overload/Permit Request System” tab at https://ece.gatech.edu/graduate-coursework-planning. If you are seeking a permit for a graduate course, select "GRADUATE (ECE 6000-9999)”. Your request will be forwarded to our office. You will be notified by email of our decision regarding your request.
+
+INFORMATION FOR NON-ECE GRADUATE STUDENTS
+Registration Permits for Graduate (6000-9999) Level Classes
+• All ECE graduate level classes are restricted to ECE majors through the first day of classes in each term.
+• Non-ECE majors are considered for registration permits after the third day of classes.
+• Non-ECE majors seeking permission to register for ECE graduate level courses must submit requests for registration permits through the “Overload/Permit Request System” tab at https://ece.gatech.edu/graduate-coursework-planning. If you are seeking a permit for a graduate course, select "GRADUATE (ECE 6000-9999)”. Your request will be forwarded to our office. You will be notified by email of our decision regarding your request.
+Registration Permits for Undergraduate (1000-4999) Level Classes
+• Non-ECE graduate students needing prerequisite over-rides or other permission to take ECE undergraduate courses should follow the instructions above.
+• Non-ECE graduate students seeking permission to register for ECE undergraduate level courses must submit requests for registration permits through the “Overload/Permit Request System” tab at https://ece.gatech.edu/graduate-coursework-planning. If you are seeking a permit for an undergraduate course, select "UNDERGRADUATE (ECE 1000-4999)”. Your request will be forwarded to the ECE Undergraduate Advisors for review. You will be notified by email of our decision regarding your request. Non-Majors Seeking an ECE Degree • Students in other Georgia Institute of Technology graduate programs may request permission to pursue an M.S. degree in ECE as part of their studies at Georgia Tech. Students wishing to change their major to ECE are required to visit the ECE Academic Office.
+• Non-ECE students who intend to pursue a secondary ECE M.S. degree while attending the Georgia Institute of Technology must make their intentions known to ECE's Graduate Affairs Office before completing no more than four ECE courses at Georgia Tech. This is done by submitting the following materials with the ECE Graduate Affairs Office:
+    o Letter of Intent: With this letter, the student requests permission to pursue an ECE M.S. degree and includes a statement of purpose outlining the reasons for pursuing the ECE M.S. – i.e., describes how the ECE M.S. degree fulfills the student's academic, research, and career goals. The Letter of Intent must be endorsed by the Graduate Coordinator of the major school.
+    o Recommendation Letter" A recommendation letter from the student’s advisor addressing how the ECE M.S. degree supports the student’s studies in the major school. If the student does not have a research advisor, they need to submit a recommendation letter from a faculty member in their department.
+    o Request the home department to forward a copy of the initial application to Georgia Tech to the ECE Academic Office.
+
+THE FINAL WORD
+ECE Graduate Affairs
+If you are unable to find the information you seek, are unsure about specific requirements, need advice, or just need to talk to someone, please contact the ECE Graduate Affairs Office:
+    o Seek information on ECE’s website: https://www.ece.gatech.edu/, Email for guidance at: https://ece.gatech.edu/form/contact-graduate-affairs-office 
+    o Telephone 404-894-2900
+    o Come by during office hours (9:30 a.m. to 12:00 p.m. or, 1:30 p.m. to 4:00 p.m.) or request an appointment
+
+Registrar’s Office
+Seek information on their website (http://www.registrar.gatech.edu) or contact them at comments@registrar.gatech.edu or http://www.registrar.gatech.edu/contact.php for matters concerning:
+    • Registration, Graduation, Commencement, Degree Completion Verification
+    • Enrollment Certification
+    • Letters of Completion
+    • Institute Academic Policy Office of International Education Seek information on their website (www.oie.gatech.edu)
+    • Visa and Immigration Matters
+    • Optional Practical and/or Curricular Practical Training Matters
+
+Bursar’s Office
+Seek information on their website (www.bursar.gatech.edu)
+    • Student financial accounts, Fee Payments
+    • Refunds
+
+GT Career Center
+See information on their website (https://career.gatech.edu/)
+    • Internship Opportunities GT Graduate Education Office Seek information on their website (http://www.grad.gatech.edu)
+    • Thesis Deadlines, Thesis Submission Procedures and Forms
+
+Student Financial Assistance
+Seek information on their website (http://www.finaid.gatech.edu)
+    • Loans
+    • Tuition Waivers
+    • Fellowships DO NOT RELY UPON SECOND-HAND ADVICE
+
+Well intentioned faculty and fellow students may not be aware of current policy information and may unintentionally provide inaccurate information. Your degree is too important to rely on second-hand information. Contact the ECE Graduate Affairs Office for any questions.

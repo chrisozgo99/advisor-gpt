@@ -1,6 +1,6 @@
 import fs from "fs";
 import { computerEngineeringFourYearPlanURLs, electricalEngineeringThreads } from "../utils/urls.js"
-import { courseScheduleToJson, getThreadInfo, scrapeSite } from "./scraping.js";
+import { getThreadInfo, pdfToTxt, scrapeSite } from "./scraping.js";
 
 async function main() {
     // for (let i = 0; i < computerEngineeringCourseRequirementsURLs.length; i++) {
@@ -11,7 +11,13 @@ async function main() {
     //     }
     // }
 
-    let res = await courseScheduleToJson('https://ece.gatech.edu/sites/default/files/documents/undergraduate/course_schedule.pdf');
+    let res = await pdfToTxt('https://ece.gatech.edu/sites/default/files/documents/graduate/current_grad_handbook.pdf');
+    // save res as a txt file
+    fs.writeFile(`data/grad/graduate-handbook.txt`, res, function(err) {
+        if (err) {
+            console.log(err);
+        }
+    });
 
 
     // const pdfUrls = computerEngineeringFourYearPlanURLs;

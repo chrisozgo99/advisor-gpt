@@ -261,6 +261,33 @@ async function getThreadInfo(page, browser, urls, major) {
     return html;
 }
 
+async function pdfToTxt(url) {
+    return await pdfjs.getDocument(url).promise.then(async function(pdf) {
+        let text = '';
+        for (let i = 1; i <= pdf.numPages; i++) {
+            const page = await pdf.getPage(i);
+            const textContent = await page.getTextContent();
+            const textItems = textContent.items;
+            // include new line character for each item
+            for (let i = 0; i < textItems.length; i++) {
+                if (textItems[i].str.trim() === '') {
+                    continue;
+                }
+                if (
+                    textItems[i].str.trim().includes('•') ||
+                    textItems[i].str.trim().includes('o') || 
+                    textItems[i].str.trim().includes('http')
+                ) {
+                    text += textItems[i].str + ' ';
+                } else {
+                    text += textItems[i].str + '\n';
+                }
+            }
+        }
+        return text;
+    })
+}
+
 async function processHtml(page) {
     // return text from the webpage
     const text = await page.$eval('*', (el) => el.innerText);
@@ -273,5 +300,6 @@ export {
     courseRequirementsToJson,
     fourYearPlanToJson,
     getThreadInfo,
-    processHtml
+    pdfToTxt,
+    processHtml,
 };
