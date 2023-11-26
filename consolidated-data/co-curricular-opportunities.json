@@ -1,0 +1,54 @@
+{
+    "coCurricularOpportunities": [
+        {
+            "name": "Student Organizations",
+            "info": "Georgia Tech has more than 300 student groups, including many that are ECE-specific such as Institute of Electrical and Electronics Engineers (IEEE) Georgia Tech Chapter; Women in ECE (WECE); and Eta Kappa Nu, the Electrical and Computer Engineering Honors Society.",
+            "link": "https://gatech.campuslabs.com/engage/organizations"
+        },
+        {
+            "name": "Vertically Integrated Projects (VIP) Program",
+            "info": "The Vertically Integrated Projects (VIP) Program unites undergraduate education and faculty research in a team-based context. Undergraduate VIP students earn academic credits, while faculty and graduate students benefit from the design/discovery efforts of their teams.",
+            "link": "http://www.vip.gatech.edu/"
+        },
+        {
+            "name": "Opportunity Research Scholars (ORS) Program",
+            "info": "ORS matches undergraduate electrical and computer engineering students with a Ph.D. mentor. Each research team meets weekly to work on a structured research project and attends monthly enrichment workshops addressing a variety of topics related to academic success.",
+            "link": "http://ors.ece.gatech.edu/"
+        },
+        {
+            "name": "ECE Research Opportunities",
+            "info": "The Research Opportunities website hosts open research positions in ECE related fields for undergraduate and graduate students. The website also lists current ECE research labs and research opportunities",
+            "link": "https://researchopportunities.ece.gatech.edu/"
+        },
+        {
+            "name": "Undergraduate Research Opportunities Program (UROP)",
+            "info": "ECE's traditional undergraduate research program has been in place for over 20 years and offers students a chance to work on individual research projects with ECE faculty. Students who complete both semesters of UROP research can count the 3 credit hours as ECE elective hours.",
+            "link": "https://urop.gatech.edu/"
+        },
+        {
+            "name": "ECE Transfer Initiative for Engineering Scholars (TIES)",
+            "info": "TIES is funded through a competitive review process by the National Science Foundation’s (NSF) Scholarships in Science, Technology, Engineering, and Mathematics Program (S-STEM). ECE has been awarded this grant to benefit students transferring from two- and four-year schools and majoring in electrical or computer engineering. TIES consists of two components: TIES Enrichment Program and TIES Scholarships",
+            "link": "http://ties.ece.gatech.edu/"
+        },
+        {
+            "name": "Engineering for Social Innovation Center (ESI)",
+            "info": "ESI supports a collection of ongoing projects, which are selected from corporate and non-profit organizations. All projects aim to improve the lives of the underprivileged domestic population or people at the bottom of pyramid in the developing world. Undergraduates can work in the Center by designing something new, improving an existing product, conducting interdisciplinary research, or becoming a Grand Challenges Scholar.",
+            "link": "http://www.esi.gatech.edu/"
+        },
+        {
+            "name": "Create-X",
+            "info": "CREATE-X is a collective of programs designed to boost students' entrepreneurial confidence and give them the tools they need to establish startups.",
+            "link": "https://create-x.gatech.edu/"
+        },
+        {
+            "name": "Grand Challenges",
+            "info": "Established in 2012 as a part of the Leadership Education and Development Program within the Division of Student Affairs and in partnership with the College of Engineering, Grand Challenges Living Learning Community promotes student-driven, cross-disciplinary teams that investigate societally relevant technological and sociological problems. The program is open to all entering Georgia Tech students of any major.",
+            "link": "http://grandchallenges.gatech.edu/"
+        },
+        {
+            "name": "InVenture Prize",
+            "info": "Nicknamed 'American Idol for Nerds,' the InVenture Prize at Georgia Tech is an interdisciplinary innovation competition open to all undergraduate students and recent graduates of the Georgia Institute of Technology.",
+            "link": "https://inventureprize.gatech.edu/"
+        }
+    ]
+}

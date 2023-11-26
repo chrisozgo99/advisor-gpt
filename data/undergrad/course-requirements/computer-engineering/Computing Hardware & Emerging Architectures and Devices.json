@@ -3,338 +3,377 @@
     "concentration": "Computing Hardware & Emerging Architectures and Devices",
     "Wellness": [
         {
-            "cc": "APPH 1040",
-            "name": "Scientific Foundations of Health",
-            "hours": "2"
-        },
-        {
-            "cc": "or APPH 1050",
-            "name": "The Science of Physical Activity and Health",
-            "hours": "2"
-        },
-        {
-            "cc": "or APPH 1060",
-            "name": "Flourishing: Strategies for Well-being and Resilience",
-            "hours": "2"
+            "select": 1,
+            "creditHours": 2,
+            "courseOptions": [
+                {
+                    "cc": "APPH 1040",
+                    "name": "Scientific Foundations of Health",
+                    "hours": "2"
+                },
+                {
+                    "cc": "APPH 1050",
+                    "name": "The Science of Physical Activity and Health",
+                    "hours": "2"
+                },
+                {
+                    "cc": "APPH 1060",
+                    "name": "Flourishing: Strategies for Well-being and Resilience",
+                    "hours": "2"
+                }
+            ]
         }
     ],
     "Core A - Essential Skills": [
         {
-            "cc": "ENGL 1101",
+            "cc": "ENGL 1101",
             "name": "English Composition I",
             "hours": "3"
         },
         {
-            "cc": "ENGL 1102",
+            "cc": "ENGL 1102",
             "name": "English Composition II",
             "hours": "3"
         },
         {
-            "cc": "MATH 1552",
-            "name": "Integral Calculus 2",
+            "cc": "MATH 1552",
+            "name": "Integral Calculus",
             "hours": "4"
         }
     ],
     "Core B - Institutional Options": [
         {
-            "cc": "CS 1301",
-            "name": "Introduction to Computing 2",
+            "cc": "CS 1301",
+            "name": "Introduction to Computing",
             "hours": "3"
         }
     ],
     "Core C - Humanities": [
         {
-            "cc": "Any HUM 1",
-            "name": "6",
-            "hours": "3"
+            "cc": "Any HUM",
+            "hours": "6"
         }
     ],
     "Core D - Science, Math, & Technology": [
         {
-            "cc": "PHYS 2211",
-            "name": "Introductory Physics I 2",
+            "cc": "PHYS 2211",
+            "name": "Introductory Physics I",
             "hours": "4"
         },
         {
-            "cc": "PHYS 2212",
-            "name": "Introductory Physics II 2",
+            "cc": "PHYS 2212",
+            "name": "Introductory Physics II",
             "hours": "4"
         },
         {
-            "cc": "MATH 1551",
-            "name": "Differential Calculus 2",
+            "cc": "MATH 1551",
+            "name": "Differential Calculus",
             "hours": "2"
         },
         {
-            "cc": "MATH 1554",
-            "name": "Linear Algebra 2",
+            "cc": "MATH 1554",
+            "name": "Linear Algebra",
             "hours": "4"
         }
     ],
     "Core E - Social Sciences": [
         {
-            "cc": "Choose one of the following:",
-            "name": "3",
-            "hours": "4"
+            "select": 1,
+            "creditHours": 3,
+            "courseOptions": [
+                {
+                    "cc": "HIST 2111",
+                    "name": "The United States to 1877",
+                    "hours": "4"
+                },
+                {
+                    "cc": "HIST 2112",
+                    "name": "The United States since 1877",
+                    "hours": "4"
+                },
+                {
+                    "cc": "INTA 1200",
+                    "name": "American Government in Comparative Perspective",
+                    "hours": "4"
+                },
+                {
+                    "cc": "POL 1101",
+                    "name": "Government of the United States",
+                    "hours": "4"
+                },
+                {
+                    "cc": "PUBP 3000",
+                    "name": "American Constitutional Issues",
+                    "hours": "4"
+                }
+            ]
         },
-        {
-            "cc": "HIST 2111",
-            "name": "The United States to 1877",
-            "hours": "4"
+                {
+            "select": 1,
+            "creditHours": 3,
+            "courseOptions": [
+                {
+                    "cc": "ECON 2100",
+                    "name": "Economic Analysis and Policy Problems",
+                    "hours": "4"
+                },
+                {
+                    "cc": "ECON 2101",
+                    "name": "The Global Economy",
+                    "hours": "4"
+                },
+                {
+                    "cc": "ECON 2105",
+                    "name": "Principles of Macroeconomics",
+                    "hours": "4"
+                },
+                {
+                    "cc": "ECON 2106",
+                    "name": "Principles of Microeconomics",
+                    "hours": "4"
+                }
+            ]
         },
-        {
-            "cc": "HIST 2112",
-            "name": "The United States since 1877",
-            "hours": "4"
-        },
-        {
-            "cc": "INTA 1200",
-            "name": "American Government in Comparative Perspective",
-            "hours": "4"
-        },
-        {
-            "cc": "POL 1101",
-            "name": "Government of the United States",
-            "hours": "4"
-        },
-        {
-            "cc": "PUBP 3000",
-            "name": "American Constitutional Issues",
-            "hours": "4"
-        },
-        {
-            "cc": "Choose one of the following:",
-            "name": "3",
-            "hours": "4"
-        },
-        {
-            "cc": "ECON 2100",
-            "name": "Economic Analysis and Policy Problems",
-            "hours": "4"
-        },
-        {
-            "cc": "ECON 2101",
-            "name": "The Global Economy",
-            "hours": "4"
-        },
-        {
-            "cc": "ECON 2105",
-            "name": "Principles of Macroeconomics",
-            "hours": "4"
-        },
-        {
-            "cc": "ECON 2106",
-            "name": "Principles of Microeconomics",
-            "hours": "4"
-        },
-        {
-            "cc": "Any SS",
-            "name": "6",
-            "hours": "4"
+{
+            "select": 2,
+            "creditHours": 6,
+            "courseOptions": "Any SS"
         }
     ],
     "Core F - Courses Related to Major": [
         {
-            "cc": "ECE 1100",
+            "cc": "ECE 1100",
             "name": "ECE Discovery Studio",
             "hours": "1"
         },
         {
-            "cc": "ECE 2020",
-            "name": "Digital System Design 2",
+            "cc": "ECE 2020",
+            "name": "Digital System Design",
             "hours": "3"
         },
         {
-            "cc": "ECE 3005",
+            "cc": "ECE 3005",
             "name": "Professional and Technical Communications for ECE",
             "hours": "1"
         },
         {
-            "cc": "CS 1331",
+            "cc": "CS 1331",
             "name": "Introduction to Object Oriented Programming 2",
             "hours": "3"
         },
         {
-            "cc": "CS 1332",
+            "cc": "CS 1332",
             "name": "Data Structures and Algorithms for Applications 2",
             "hours": "3"
         },
-        {
-            "cc": "CS 2050",
-            "name": "Introduction to Discrete Mathematics for Computer Science 2",
-            "hours": "3"
+                 {
+            "select": 1,
+            "creditHours": 3,
+            "courseOptions": [
+                {
+                    "cc": "CS 2050",
+                    "name": "Introduction to Discrete Mathematics for Computer Science 2",
+                    "hours": "3"
+                },
+                {
+                    "cc": "CS 2051",
+                    "name": "Honors - Induction to Discrete Mathematics for Computer Science",
+                    "hours": "3"
+                }
+            ]
         },
         {
-            "cc": "or CS 2051",
-            "name": "Honors - Induction to Discrete Mathematics for Computer Science",
-            "hours": "3"
-        },
-        {
-            "cc": "MATH 2550",
+            "cc": "MATH 2550",
             "name": "Introduction to Multivariable Calculus 2",
             "hours": "2"
         },
         {
-            "cc": "MATH 2552",
-            "name": "Differential Equations 2",
+            "cc": "MATH 2552",
+            "name": "Differential Equations",
             "hours": "4"
         },
         {
-            "cc": "CHEM 1310",
-            "name": "Principles of General Chemistry for Engineers",
-            "hours": "4"
+            "select": 1,
+            "creditHours": 3,
+            "courseOptions": [
+                {
+                    "cc": "CHEM 1310",
+                    "name": "Principles of General Chemistry for Engineers",
+                    "hours": "4"
+                },
+                {
+                    "cc": "CHEM 1211K",
+                    "name": "Chemical Principles I",
+                    "hours": "4"
+                }
+            ]
         },
         {
-            "cc": "or CHEM 1211K",
-            "name": "Chemical Principles I",
-            "hours": "4"
+            "cc": "Ethics Requirement"
         },
         {
-            "cc": "Ethics 1",
-            "name": "",
-            "hours": "4"
-        },
-        {
-            "cc": "Probability/Statistics 4,9",
-            "name": "3",
-            "hours": "4"
+            "cc": "Probability/Statistics",
+            "hours": "3"
         }
     ],
     "Major Requirements": [
         {
-            "cc": "ECE 2031",
-            "name": "Digital Design Laboratory 2",
+            "cc": "ECE 2031",
+            "name": "Digital Design Laboratory",
             "hours": "2"
         },
         {
-            "cc": "ECE 2035",
-            "name": "Programming for Hardware/Software Systems 2",
+            "cc": "ECE 2035",
+            "name": "Programming for Hardware/Software Systems",
             "hours": "4"
         },
         {
-            "cc": "ECE 2040",
-            "name": "Circuit Analysis 2",
+            "cc": "ECE 2040",
+            "name": "Circuit Analysis",
             "hours": "3"
         },
         {
-            "cc": "ECE 3058",
-            "name": "Architecture, Systems, Concurrency, and Energy in Computation 2",
+            "cc": "ECE 3058",
+            "name": "Architecture, Systems, Concurrency, and Energy in Computation",
             "hours": "4"
         }
     ],
-    "Computing Hardware & Emerging Architectures 2,6,9": [
+    "Computing Hardware & Emerging Architectures": [
         {
-            "cc": "ECE 3150",
+            "cc": "ECE 3150",
             "name": "VLSI and Advanced Digital Design",
             "hours": "4"
         },
         {
-            "cc": "ECE 3030",
+            "cc": "ECE 3030",
             "name": "Physical Foundations of Computer Engineering",
             "hours": "3"
         },
         {
-            "cc": "CS 4220",
-            "name": "Programming Embedded Systems",
-            "hours": "3"
-        },
-        {
-            "cc": "ECE 4180",
-            "name": "Embedded Systems Design",
-            "hours": "3"
-        },
-        {
-            "cc": "ECE 4181",
-            "name": "Embedded Computing Systems",
-            "hours": "3"
-        },
-        {
-            "cc": "ECE 4130",
-            "name": "Advanced VLSI Systems",
-            "hours": "3"
-        },
-        {
-            "cc": "ECE 4420",
-            "name": "Digital Integrated Circuits",
-            "hours": "3"
-        },
-        {
-            "cc": "ECE 4452",
-            "name": "IC Fabrication",
-            "hours": "3"
-        },
-        {
-            "cc": "ECE 4460",
-            "name": "Introduction to Electronic Systems Packaging",
-            "hours": "3"
-        },
-        {
-            "cc": "ECE 4100",
-            "name": "Advanced Computer Architecture",
-            "hours": "3"
-        },
-        {
-            "cc": "ECE 4150",
-            "name": "Cloud Computing",
-            "hours": "3"
+            "select": 3,
+            "creditHours": 9,
+            "courseOptions": [
+                {
+                    "cc": "CS 4220",
+                    "name": "Programming Embedded Systems",
+                    "hours": "3"
+                },
+                {
+                    "cc": "ECE 4180",
+                    "name": "Embedded Systems Design",
+                    "hours": "3"
+                },
+                {
+                    "cc": "ECE 4181",
+                    "name": "Embedded Computing Systems",
+                    "hours": "3"
+                },
+                {
+                    "cc": "ECE 4130",
+                    "name": "Advanced VLSI Systems",
+                    "hours": "3"
+                },
+                {
+                    "cc": "ECE 4420",
+                    "name": "Digital Integrated Circuits",
+                    "hours": "3"
+                },
+                {
+                    "cc": "ECE 4452",
+                    "name": "IC Fabrication",
+                    "hours": "3"
+                },
+                {
+                    "cc": "ECE 4460",
+                    "name": "Introduction to Electronic Systems Packaging",
+                    "hours": "3"
+                },
+                {
+                    "cc": "ECE 4100",
+                    "name": "Advanced Computer Architecture",
+                    "hours": "3"
+                },
+                {
+                    "cc": "ECE 4150",
+                    "name": "Cloud Computing",
+                    "hours": "3"
+                }
+            ]
         }
     ],
-    "Devices 2,6,9": [
+    "Devices": [
         {
-            "cc": "CS 2340",
+            "cc": "CS 2340",
             "name": "Objects and Design",
             "hours": "3"
         },
         {
-            "cc": "CS 3251",
+            "cc": "CS 3251",
             "name": "Computer Networking I",
             "hours": "3"
         },
         {
-            "cc": "CS 3510",
-            "name": "Design and Analysis of Algorithms",
-            "hours": "3"
+            "select": 1,
+            "creditHours": 3,
+            "courseOptions": [
+                {
+                    "cc": "CS 3510 or CS 3511",
+                    "name": "Design and Analysis of Algorithms",
+                    "hours": "3"
+                },
+                {
+                    "cc": "or CS 3511",
+                    "name": "Design and Analysis of Algorithms, Honors",
+                    "hours": "3"
+                }
+            ]
         },
         {
-            "cc": "or CS 3511",
-            "name": "Design and Analysis of Algorithms, Honors",
-            "hours": "3"
+            "select": 1,
+            "creditHours": 4,
+            "courseOptions": [
+                {
+                    "cc": "CS 3651",
+                    "name": "Prototyping Intelligent Devices",
+                    "hours": "3"
+                },
+                {
+                    "cc": "ECE 4180",
+                    "name": "Embedded Systems Design",
+                    "hours": "3"
+                }
+            ]
         },
         {
-            "cc": "CS 3651",
-            "name": "Prototyping Intelligent Devices",
-            "hours": "3"
-        },
-        {
-            "cc": "ECE 4180",
-            "name": "Embedded Systems Design",
-            "hours": "3"
-        },
-        {
-            "cc": "CS 3630",
-            "name": "Introduction to Perception and Robotics",
-            "hours": "3"
-        },
-        {
-            "cc": "CS 4261",
-            "name": "Mobile Applications and Services for Converged Networks",
-            "hours": "3"
-        },
-        {
-            "cc": "CS 4476",
-            "name": "Introduction to Computer Vision",
-            "hours": "3"
-        },
-        {
-            "cc": "CS 4605",
-            "name": "Mobile and Ubiquitous Computing",
-            "hours": "3"
+            "select": 1,
+            "creditHours": 3,
+            "courseOptions": [
+                {
+                    "cc": "CS 3630",
+                    "name": "Introduction to Perception and Robotics",
+                    "hours": "3"
+                },
+                {
+                    "cc": "CS 4261",
+                    "name": "Mobile Applications and Services for Converged Networks",
+                    "hours": "3"
+                },
+                {
+                    "cc": "CS 4476",
+                    "name": "Introduction to Computer Vision",
+                    "hours": "3"
+                },
+                {
+                    "cc": "CS 4605",
+                    "name": "Mobile and Ubiquitous Computing",
+                    "hours": "3"
+                }
+            ]
         }
     ],
     "Culminating Senior Design Options (Capstone)": [
         {
-            "cc": "Culminating Senior Design 5",
-            "name": "3",
+            "cc": "Culminating Senior Design",
             "hours": "3"
         }
     ],

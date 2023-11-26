@@ -18,7 +18,7 @@ async function courseRequirementsToJson(page, browser) {
 
     json.major = await contentArea.$eval('h1', (el) => el.innerText.split(' - ')[0]);
     json.concentration = await contentArea.$eval('h1', (el) => el.innerText.split(' - ')[1]);
-    
+
     const requirementsTable = await contentArea.$('table');
 
     let header;
@@ -30,12 +30,15 @@ async function courseRequirementsToJson(page, browser) {
         return [className, text];        
     }));
 
+    console.log(rows);
+
     for (let i = 0; i < rows.length; i++) {
         if (i === rows.length - 1) {
             json.totalHours = rows[i][1].split('\t')[1];
         } else if (i === rows.length - 2) {
             json.freeElectives = rows[i][1].split('\t')[1];
         } else if (rows[i][0].includes('areaheader')) {
+            console.log(rows[i][1].split('\t')[0])
             json[rows[i][1].split('\t')[0]] = [];
             header = rows[i][1].split('\t')[0];
         } else if (!rows[i][0].includes('orclass')) {
@@ -59,15 +62,54 @@ async function courseRequirementsToJson(page, browser) {
         }
     }
 
-    await browser.close();
+    // await page.close();
     
-    fs.writeFile(`data/course-requirements/computer-engineering/${json.concentration}.json`, JSON.stringify(json, null, 4), function(err) {
+    // fs.writeFile(`data/course-requirements/computer-engineering/${json.concentration}.json`, JSON.stringify(json, null, 4), function(err) {
+    //     if (err) {
+    //         console.log(err);
+    //     }
+    // });
+
+    return json;
+}
+
+async function consolidateFourYearPlans() {
+    // Read in the json at the directory consolidated-data/all-four-year-plans.json as variable json
+    const json = fs.readFile('consolidated-data/all-four-year-plans.json', 'utf8', function(err, data) {
         if (err) {
             console.log(err);
         }
+        const json = JSON.parse(data);
+        // console.log(json);
+        // console.log(json['Bachelors of Science in Computer Engineering'])
+        fs.readdir('data/undergrad/four-year-plans/electrical-engineering', function(err, files) {
+            files.forEach(function(file) {
+                // For each file read the json, and add it to json under the major and concentration
+                fs.readFile(`data/undergrad/four-year-plans/electrical-engineering/${file}`, 'utf8', function(err, data) {
+                    if (err) {
+                        console.log(err);
+                    }
+                    const fileJson = JSON.parse(data);
+                    json['Bachelors of Science in Electrical Engineering'].threads[fileJson.concentration] = fileJson;
+                    fs.writeFile('consolidated-data/all-four-year-plans.json', JSON.stringify(json, null, 4), function(err) {
+                        if (err) {
+                            console.log(err);
+                        }
+                    });
+                });
+                
+            });
+        });
     });
 
-    return json;
+    // return json;
+    // Read in every file at the directory data/undergrad/four-year-plans/computer-engineering
+    
+
+
+    // Write the json to the directory consolidated-data/all-four-year-plans.json
+
+    
 }
 
 async function fourYearPlanToJson(url, major) {
@@ -299,6 +341,7 @@ export {
     scrapeSite,
     courseRequirementsToJson,
     fourYearPlanToJson,
+    consolidateFourYearPlans,
     getThreadInfo,
     pdfToTxt,
     processHtml,
