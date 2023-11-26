@@ -42,8 +42,7 @@ We participate in the noblest aspect of a noble profession. We will honor that p
 
 ACADEMIC ADVISEMENT
 The Graduate Affairs Office
-With approximately 1,400 undergraduate and 1,200 graduate students, the School of Electrical and Computer Engineering is one of the largest EE/CmpE programs in the USA. Because of the large numbers of both students and faculty, we have established certain policies and procedures in order to operate efficiently. Students should consult this manual and the ECE Graduate Affairs Office staff for policy, procedure, and advisement information. Guidance provided by fellow students may not be the most up to date and may be unreliable. For graduate students, the primary contact with the administration of the School will be through the Graduate Affairs Office, which is in Room W-208 of the Van Leer (ECE) Building.
-. The Graduate Affairs Office is administered by the Associate Chair for Graduate Affairs, Professor Matthieu Bloch. The staff in the office consists of Mr. Christian Gaille, Mrs. Olivia Kulisz, Ms. Katrina Patton, Dr. Daniela Staiculescu, and Ms. Tasha Torrence. The primary functions of the ECE Graduate Affairs Office are:
+With approximately 1,400 undergraduate and 1,200 graduate students, the School of Electrical and Computer Engineering is one of the largest EE/CmpE programs in the USA. Because of the large numbers of both students and faculty, we have established certain policies and procedures in order to operate efficiently. Students should consult this manual and the ECE Graduate Affairs Office staff for policy, procedure, and advisement information. Guidance provided by fellow students may not be the most up to date and may be unreliable. For graduate students, the primary contact with the administration of the School will be through the Graduate Affairs Office, which is in Room W-208 of the Van Leer (ECE) Building. The Graduate Affairs Office is administered by the Associate Chair for Graduate Affairs, Professor Matthieu Bloch. The staff in the office consists of Mr. Christian Gaille, Mrs. Olivia Kulisz, Ms. Katrina Patton, Dr. Daniela Staiculescu, and Ms. Tasha Torrence. The primary functions of the ECE Graduate Affairs Office are:
 • Process and make recommendations to the Graduate Admissions Office of the Institute on all applications for admission to the graduate program.
 • Process and make recommendations to the ECE school chair on all applications for financial assistance in support of graduate programs.
 • Initiate and maintain a file on each incoming graduate student.
@@ -51,10 +50,9 @@ With approximately 1,400 undergraduate and 1,200 graduate students, the School o
 • Receive, process, and validate all petitions and applications for graduate degrees.
 • Process information on graduate assistantships and monitor eligibility for tuition waivers.
 • Prepare draft requests for student (F and J) visas; assure compliance with Bureau of Citizenship and Immigration (BCIS) and SEVIS rules and regulations.
-• Provide academic advisement and guidance to ECE graduate students. • Make teaching assistantship assignments.
-• Issue registration permits for ECE graduate level classes. The preferred way to contact the ECE Graduate Affairs Office is through the “Contact Us” website at https://www.ece.gatech.edu/contact-graduate-office-current-students 
-
-. Our office number is 404-894- 2983, and our fax number is 404-894-3047.
+• Provide academic advisement and guidance to ECE graduate students.
+• Make teaching assistantship assignments.
+• Issue registration permits for ECE graduate level classes. The preferred way to contact the ECE Graduate Affairs Office is through the “Contact Us” website at https://www.ece.gatech.edu/contact-graduate-office-current-students. Our office number is 404-894- 2983, and our fax number is 404-894-3047.
 
 The ECE Graduate Affairs Office provides academic advisement to ECE students in a variety of ways:
 Daily Advisement Hours
@@ -64,6 +62,10 @@ Daily Advisement Hours
 • All staff members may not be available during the posted office hours.
 • Students wishing to meet with the Associate Chair for Graduate Affairs must make an appointment. An appointment request should be made at the front desk in Van Leer W208.
 • Suggesting dates and times when you could be available for a meeting could speed up the process.
+• The advisors are:
+    • Barbara Howard (barbara.howard@ece.gatech.edu) – Students with last name A-L who entered Georgia Tech as a freshman
+    • Teresa Watkins (teresa.watkins@ece.gatech.edu) – Students with last name M-Z who entered Georgia Tech as a freshman
+    • Angela Elleby (angela.elleby@ece.gatech.edu) – Transfer, RETP, Dual-Degree students
 
 New Students
 • New, on-campus ECE graduate students are required to complete an orientation program prior to the start of classes.
