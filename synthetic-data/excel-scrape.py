@@ -1,3 +1,4 @@
+from lmqg import TransformersQG
 import openpyxl
 import json
 import random
@@ -318,4 +319,27 @@ def getThreadSpecificTopicsFromThreads():
                     json.dump({"text": formatted_answer}, f)
                     f.write('\n')
 
-getThreadSpecificTopicsFromThreads()
+model = TransformersQG(language="en")
+handbook = open('consolidated-data/graduate-handbook.txt')
+data = handbook.read().splitlines()
+size = len(data)
+context = ""
+
+
+for i in range(size):
+  if len(context.split()) < 240:
+      context += data[i] + " "
+  else:
+    question_answer = model.generate_qa(context)
+    # for each qa pair, turn it into the format: "<s>[INST] question [/INST] answer </s>"
+    formatted_answer = "<s>[INST] " + question_answer[0] + " [/INST] " + question_answer[1] + " </s>"
+    
+    # Write to json file with attribute: "text": formatted_answer
+    with open('questions.json', 'a') as f:
+        # Add to an array of questions. Do not overwrite the file, simply append to it.
+        json.dump({"text": formatted_answer}, f)
+        f.write('\n')
+    
+    context = ""
+
+    
