@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "pdfjs-dist": "^4.0.189",
-    "puppeteer": "^21.5.2"
+    "puppeteer": "^21.5.2",
+    "read-excel-file": "^5.7.1"
   },
   "type": "module"
 }
