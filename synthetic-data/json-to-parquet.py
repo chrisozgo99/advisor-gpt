@@ -3,7 +3,7 @@ import pyarrow as pa
 import pyarrow.parquet as pq
 
 # Read JSON file
-json = pd.read_json('synthetic-data/data.json')
+json = pd.read_json('synthetic-data/final_data.json')
 
 df = pd.DataFrame(json)
 
