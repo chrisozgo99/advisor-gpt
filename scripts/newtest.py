@@ -41,11 +41,12 @@ from trl import SFTTrainer
 model_name = "NousResearch/llama-2-7b-chat-hf"
 
 # The instruction dataset to use
-dataset_name = "mlabonne/guanaco-llama2-1k"
+#dataset_name = "mlabonne/guanaco-llama2-1k"
 
+#dataset_name = "data.parquet"
 # Fine-tuned model name
-new_model = "llama-2-7b-miniguanaco"
-
+#new_model = "llama-2-7b-miniguanaco"
+new_model = "SN12/llama-2-7b-advisor-big"
 ################################################################################
 # QLoRA parameters
 ################################################################################
@@ -146,10 +147,12 @@ packing = False
 device_map = {"": 0}
 
 # Load dataset (you can process it here)
-dataset = load_dataset(dataset_name, split="train")
+#dataset = load_dataset(dataset_name, split="train")
+dataset = load_dataset("parquet", data_files = "data.parquet",split = 'train')
+print(dataset['train'][0:5])
 
 #make the dataset 1/20th the size
-dataset = dataset.select(range(0,50))
+#dataset = dataset.select(range(0,50))
 
 
 # Load tokenizer and model with QLoRA configuration
@@ -219,7 +222,7 @@ trainer = SFTTrainer(
     model=model,
     train_dataset=dataset,
     peft_config=peft_config,
-    dataset_text_field="text",
+    dataset_text_field="train",
     max_seq_length=max_seq_length,
     tokenizer=tokenizer,
     args=training_arguments,
@@ -236,3 +239,39 @@ trainer.model.save_pretrained(new_model)
 trainer.model.save_pretrained("/home/hice1/snigam7/scratch/modelSave")
 
 
+# Ignore warnings
+logging.set_verbosity(logging.CRITICAL)
+
+# Run text generation pipeline with our next model
+prompt = "How many hours of research can count towards an ECE degree at Georgia Tech?"
+pipe = pipeline(task="text-generation", model=model, tokenizer=tokenizer, max_length=200)
+result = pipe(f"<s>[INST] {prompt} [/INST]")
+print(result[0]['generated_text'])
+
+
+# Reload model in FP16 and merge it with LoRA weights
+base_model = AutoModelForCausalLM.from_pretrained(
+    model_name,
+    low_cpu_mem_usage=True,
+    return_dict=True,
+    torch_dtype=torch.float16,
+    device_map=device_map,
+)
+
+print("base model loaded")
+
+model = PeftModel.from_pretrained(base_model, new_model)
+model = model.merge_and_unload()
+
+# Reload tokenizer to save it
+tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
+tokenizer.add_special_tokens({'pad_token': '[PAD]'})
+tokenizer.pad_token = tokenizer.eos_token
+tokenizer.padding_side = "right"
+
+print("tokenizer relaoded")
+
+model.push_to_hub(new_model, use_temp_dir=False)
+tokenizer.push_to_hub(new_model, use_temp_dir=False)
+
+print("model pushed to huggingface")
