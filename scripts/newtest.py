@@ -21,7 +21,7 @@ import os
 #   Where:
 #    H:  Hidden Module
 
-
+import pandas as pd
 import torch
 from datasets import load_dataset
 from transformers import (
@@ -46,7 +46,7 @@ model_name = "NousResearch/llama-2-7b-chat-hf"
 #dataset_name = "data.parquet"
 # Fine-tuned model name
 #new_model = "llama-2-7b-miniguanaco"
-new_model = "SN12/llama-2-7b-advisor-big"
+new_model = "llama_advisor_full"
 ################################################################################
 # QLoRA parameters
 ################################################################################
@@ -262,7 +262,7 @@ print("base model loaded")
 
 model = PeftModel.from_pretrained(base_model, new_model)
 model = model.merge_and_unload()
-
+model.save_pretrained("/home/hice1/snigam7/scratch/modelSavefinetuned")
 # Reload tokenizer to save it
 tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
 tokenizer.add_special_tokens({'pad_token': '[PAD]'})
@@ -271,7 +271,14 @@ tokenizer.padding_side = "right"
 
 print("tokenizer relaoded")
 
-model.push_to_hub(new_model, use_temp_dir=False)
-tokenizer.push_to_hub(new_model, use_temp_dir=False)
+json = pd.read_json("validation.json")
 
-print("model pushed to huggingface")
+questions = json['questions']
+
+for question in questions:
+	prompt = question
+	input_ids = tokenizer.encode(prompt, return_tensors="pt")
+	output = model.generate(input_ids, max_length=100, do_sample=True, top_p=0.95, top_k=60)
+	print("Question: " + prompt)
+	print(tokenizer.decode(output[0], skip_special_tokens=True))
+
