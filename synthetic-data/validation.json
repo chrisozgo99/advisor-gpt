@@ -1,0 +1,20 @@
+{
+    "questions": [
+        {"question": "Am I allowed to register for two courses that take place at the same time?"},
+        {"question": "How many credit hours does it take to obtain a Master's of Science in Electrical Engineering?"},
+        {"question": "What are some of the threads for Electrical Engineering?"},
+        {"question": "What courses are required for the Cybersecurity thread in Computer Engineering?"},
+        {"question": "Can I apply for the BS/MS program if my GPA is less than 3.5?"},
+        {"question": "Give me some examples of courses I could take if I choose the Bioengineering thread for Electrical Engineering?"},
+        {"question": "How many credit hours would you recommend to take during the fall semester of my first year?"}
+    ],
+    "answers": [
+        {"answer": "No"},
+        {"answer": "30 credit hours"},
+        {"answer": "The threads for Electrical Engineering are: Signal & Information Processing, Robotics and Autonomous Systems, Bioengineering, Telecommunications, Sensing & Exploration, Electric Energy Systems, Electronic & Optoelectronic Devices, and Circuit Technology"},
+        {"answer": "ECE 4115 - Introduction to Computer Security, one of the following: CS 3251 - Computer Network and ECE 3600 - Computer Communications, and two of the following: ECE 3170 - Cryptographic Hardware for Embedded Systems, ECE 4112 - Internetwork Security, ECE 4117 - Introduction to Malware Reverse Engineering, ECE 4147 - Advanced Topics in Malware Analysis, ECE 4156 - Hardware Oriented Security Trust"},
+        {"answer": "No"},
+        {"answer": "ECE 4781 - Biomedical Instrumentation, ECE 4784 - Engineering Electrophysiology, ECE 4782 - Biosystems Analysis, ECE 3084 - Signals and Systems, ECE 4350 - Emag Applications, ECE 4435 - Operational Amplifier Design, ECE 4370 - Antenna Engineering "},
+        {"answer": "12 - 16 credit hours"}
+    ]
+}
