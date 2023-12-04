@@ -29,12 +29,17 @@ def convertToDaysOfWeek(row):
         return daysOfWeek[0] + " and " + daysOfWeek[1]
     else:
         return ', '.join(daysOfWeek[:-1]) + ", and " + daysOfWeek[-1]
- 
+
 # Define variable to load the dataframe
 dataframe = openpyxl.load_workbook('data/ECE GT Course Schedule.xlsx')
 
+catalogue = openpyxl.load_workbook('data/ECE GT Course Catalog.xlsx')
+
 # Define variable to read sheet
 dataframe1 = dataframe.active
+
+# Define variable to read sheet
+dataframe2 = catalogue.active
 
 courseDetailIntros = [
     "Can you give me course details about ",
@@ -78,7 +83,7 @@ def getQuestionsOfCourseSchedule():
         formatted_answer = "<s>[INST] " + question + " [/INST] " + answer + " </s>"
 
         # Write to json file with attribute: "text": formatted_answer
-        with open('synthetic-data/questions.json', 'a') as f:
+        with open('data/synthetic-data/questions.json', 'a') as f:
             # Add to an array of questions
             json.dump({"text": formatted_answer}, f)
             f.write('\n')
@@ -121,7 +126,7 @@ def getQuestionsFromThreads():
 
 
                 # Write to json file with attribute: "text": formatted_answer
-                with open('synthetic-data/questions.json', 'a') as f:
+                with open('data/synthetic-data/questions.json', 'a') as f:
                     # Add to an array of questions
                     json.dump({"text": formatted_answer}, f)
                     f.write('\n')
@@ -177,7 +182,7 @@ def getCareerPathsFromThreads():
                 formatted_answer = "<s>[INST] " + question + " [/INST] " + answer + " </s>"
 
                 # Write to json file with attribute: "text": formatted_answer
-                with open('synthetic-data/questions.json', 'a') as f:
+                with open('data/synthetic-data/questions.json', 'a') as f:
                     # Add to an array of questions
                     json.dump({"text": formatted_answer}, f)
                     f.write('\n')
@@ -237,7 +242,7 @@ def getRequiredCoursesFromThreads():
                 print(formatted_answer)
 
                 # Write to json file with attribute: "text": formatted_answer
-                with open('synthetic-data/questions.json', 'a') as f:
+                with open('data/synthetic-data/questions.json', 'a') as f:
                     # Add to an array of questions
                     json.dump({"text": formatted_answer}, f)
                     f.write('\n')
@@ -314,32 +319,38 @@ def getThreadSpecificTopicsFromThreads():
 
 
                 # Write to json file with attribute: "text": formatted_answer
-                with open('synthetic-data/questions.json', 'a') as f:
+                with open('data/synthetic-data/questions.json', 'a') as f:
                     # Add to an array of questions
                     json.dump({"text": formatted_answer}, f)
                     f.write('\n')
 
-model = TransformersQG(language="en")
-handbook = open('consolidated-data/graduate-handbook.txt')
-data = handbook.read().splitlines()
-size = len(data)
-context = ""
+def getCatalogueInfo():
+    for row in dataframe2.iter_rows(min_row=1, min_col=1, max_row=1426, max_col=23):
+        intro = random.choice(courseDetailIntros)
+        question = intro + str(row[2].value) + ' ' + str(row[3].value) + " Section " + str(row[4].value) + "?"
+        answer = str(row[2].value) + ' ' + str(row[3].value) + " Section " + str(row[4].value) + " is offered in the " + str(row[0].value) + " semester. "
 
+        # if one of the rows 13-19 is not empty and row 11 and 12 are not empty, 
+        if (row[13].value is not None or
+            row[14].value is not None or
+            row[15].value is not None or
+            row[16].value is not None or
+            row[17].value is not None or
+            row[18].value is not None or
+            row[19].value is not None) and row[11].value is not None and row[12].value is not None:
+            answer += "The course takes place on " + convertToDaysOfWeek(row) + " from " + str(row[11].value) + " to " + str(row[12].value)
+            
+        if row[20].value is not None and row[21].value is not None:
+            answer += " in " + str(row[21].value) + ' Room ' + str(row[20].value) + "."
+        else:
+            answer += "."
+            
+        answer += " The CRN is " + str(row[1].value) + "."
+        # Convert into format: "<s>[INST] question [/INST] answer </s>"
+        formatted_answer = "<s>[INST] " + question + " [/INST] " + answer + " </s>"
 
-for i in range(size):
-  if len(context.split()) < 240:
-      context += data[i] + " "
-  else:
-    question_answer = model.generate_qa(context)
-    # for each qa pair, turn it into the format: "<s>[INST] question [/INST] answer </s>"
-    formatted_answer = "<s>[INST] " + question_answer[0] + " [/INST] " + question_answer[1] + " </s>"
-    
-    # Write to json file with attribute: "text": formatted_answer
-    with open('questions.json', 'a') as f:
-        # Add to an array of questions. Do not overwrite the file, simply append to it.
-        json.dump({"text": formatted_answer}, f)
-        f.write('\n')
-    
-    context = ""
-
-    
+        # Write to json file with attribute: "text": formatted_answer
+        with open('data/synthetic-data/questions.json', 'a') as f:
+            # Add to an array of questions
+            json.dump({"text": formatted_answer}, f)
+            f.write('\n')

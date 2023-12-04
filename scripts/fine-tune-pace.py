@@ -1,17 +1,5 @@
 import os
 
-#HF_HOME
-#HF_DATASETS_CACHE
-
-
-
-#salloc -N1 --gres=gpu:RTX_6000:1 -t0:45:00
-#export HF_HOME=/home/hice1/snigam7/scratch/hfHOME
-#export HF_DATASETS_CACHE=scratch/hugCache
-
-#pip installed stuff after module load cuda
-
-
 #Quadro RTX 6000
 # Currently Loaded Modules:
 #   1) pace-slurm/2022.06   4) mpc/1.2.1-zoh6w2  (H)   7) gcc/10.3.0-o57x6h             10) xz/5.2.2-kbeci4       (H)  13) slurm/current-4bdz7m  (H)
@@ -41,12 +29,10 @@ from trl import SFTTrainer
 model_name = "NousResearch/llama-2-7b-chat-hf"
 
 # The instruction dataset to use
-#dataset_name = "mlabonne/guanaco-llama2-1k"
 
-#dataset_name = "data.parquet"
 # Fine-tuned model name
-#new_model = "llama-2-7b-miniguanaco"
 new_model = "llama_advisor_full"
+
 ################################################################################
 # QLoRA parameters
 ################################################################################
@@ -147,11 +133,9 @@ packing = False
 device_map = {"": 0}
 
 # Load dataset (you can process it here)
-#dataset = load_dataset(dataset_name, split="train")
-dataset = load_dataset("parquet", data_files = "data.parquet",split = 'train')
-print(dataset['train'][0:5])
+dataset = load_dataset("parquet", data_files="data/synthetic-data/data.parquet", split='train')
 
-#make the dataset 1/20th the size
+#make the dataset 1/20th the size for testing
 #dataset = dataset.select(range(0,50))
 
 
@@ -185,7 +169,7 @@ model.config.pretraining_tp = 1
 # Load LLaMA tokenizer
 tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
 tokenizer.pad_token = tokenizer.eos_token
-tokenizer.padding_side = "right" # Fix weird overflow issue with fp16 training
+tokenizer.padding_side = "right"
 
 # Load LoRA configuration
 peft_config = LoraConfig(
@@ -238,47 +222,55 @@ trainer.model.save_pretrained(new_model)
 #save trained model to path /a/hello
 trainer.model.save_pretrained("/home/hice1/snigam7/scratch/modelSave")
 
-
 # Ignore warnings
 logging.set_verbosity(logging.CRITICAL)
 
 # Run text generation pipeline with our next model
 prompt = "How many hours of research can count towards an ECE degree at Georgia Tech?"
-pipe = pipeline(task="text-generation", model=model, tokenizer=tokenizer, max_length=200)
-result = pipe(f"<s>[INST] {prompt} [/INST]")
-print(result[0]['generated_text'])
 
+# Load question test set
+json = pd.read_json("data/synthetic-data/validation.json")
+pipe = pipeline(task="text-generation", model=model, tokenizer=tokenizer, max_length=200)
+
+for question in json['questions']:
+    prompt = question['question']
+    result = pipe(f"<s>[INST] {prompt} [/INST]")
+    print(f"Question: {prompt}")
+    print(f"Answer: {result[0]['generated_text'].split('</s>')[0].strip()}")
+
+# Reloading a previously trained model
 
 # Reload model in FP16 and merge it with LoRA weights
-base_model = AutoModelForCausalLM.from_pretrained(
-    model_name,
-    low_cpu_mem_usage=True,
-    return_dict=True,
-    torch_dtype=torch.float16,
-    device_map=device_map,
-)
+# base_model = AutoModelForCausalLM.from_pretrained(
+#     model_name,
+#     low_cpu_mem_usage=True,
+#     return_dict=True,
+#     torch_dtype=torch.float16,
+#     device_map=device_map,
+# )
 
-print("base model loaded")
 
-model = PeftModel.from_pretrained(base_model, new_model)
-model = model.merge_and_unload()
-model.save_pretrained("/home/hice1/snigam7/scratch/modelSavefinetuned")
-# Reload tokenizer to save it
-tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
-tokenizer.add_special_tokens({'pad_token': '[PAD]'})
-tokenizer.pad_token = tokenizer.eos_token
-tokenizer.padding_side = "right"
+# model = PeftModel.from_pretrained(base_model, new_model)
+# model = model.merge_and_unload()
+# model.save_pretrained("/home/hice1/snigam7/scratch/modelSavefinetuned")
+# # Reload tokenizer to save it
+# tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
+# tokenizer.add_special_tokens({'pad_token': '[PAD]'})
+# tokenizer.pad_token = tokenizer.eos_token
+# tokenizer.padding_side = "right"
 
-print("tokenizer relaoded")
+# print("tokenizer relaoded")
 
-json = pd.read_json("validation.json")
+# json = pd.read_json("synthetic-data/validation.json")
 
-questions = json['questions']
+# questions = json['questions']
 
-for question in questions:
-	prompt = question
-	input_ids = tokenizer.encode(prompt, return_tensors="pt")
-	output = model.generate(input_ids, max_length=100, do_sample=True, top_p=0.95, top_k=60)
-	print("Question: " + prompt)
-	print(tokenizer.decode(output[0], skip_special_tokens=True))
+# for question in questions:
+#     prompt = question['question']
+#     print('prompt: ' + prompt)
+# 	input_ids = tokenizer.encode(prompt, return_tensors="pt")
+#     input_ids = input_ids.to('cuda')
+# 	output = model.generate(input_ids, max_length=100, do_sample=True, top_p=0.95, top_k=60)
+# 	print("Question: " + prompt)
+# 	print(tokenizer.decode(output[0], skip_special_tokens=True))
 
