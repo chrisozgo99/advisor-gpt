@@ -101,14 +101,6 @@ async function consolidateFourYearPlans() {
             });
         });
     });
-
-    // return json;
-    // Read in every file at the directory data/undergrad/four-year-plans/computer-engineering
-    
-
-
-    // Write the json to the directory consolidated-data/all-four-year-plans.json
-
     
 }
 
